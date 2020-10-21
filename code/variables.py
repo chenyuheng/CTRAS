@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import os
 
-APPS = [] # names of all apps
+APPS = ["DDG"] # names of all apps
 
 HEADER = {
     'id': 0,
@@ -19,19 +19,19 @@ POS_TAGS = ['_a', '_b', '_c', '_d', '_e',
     '_nd', '_nh', '_ni', '_nl', '_ns', '_nt', '_nz',
     '_o', '_p', '_q', '_r', '_u', '_v', '_wp', '_ws', '_x']
 
-LTP_DATA_DIR = 'ltp-data-v3.4.0//ltp_data' # LTP path
-cws_model_path = os.path.join(LTP_DATA_DIR, 'cws.model')
-pos_model_path = os.path.join(LTP_DATA_DIR, 'pos.model')
+LTP_DATA_DIR = '/home/student/ltp-data-v3.4.0' # LTP path
+cws_model_path = '/home/student/ltp_data_v3.4.0/cws.model'
+pos_model_path = '/home/student/ltp_data_v3.4.0/pos.model'
 
-STOP_WORDS_PATH = ''
-SYNONYM_WORDS_PATH = ''
+STOP_WORDS_PATH = '/home/student/CTRAS/empty'
+SYNONYM_WORDS_PATH = '/home/student/CTRAS/empty'
 
-RAW_PATH = '' # raw report path
+RAW_PATH = '/home/student/CTRAS/raw' # raw report path
 RAW_IMG_PATH = '' # raw report images path
-CORPUS_PATH = '' # preprocessed report path
-HIST_TXT_PATH = '' # text hist path
+CORPUS_PATH = '/home/student/CTRAS/corpus' # preprocessed report path
+HIST_TXT_PATH = '/home/student/CTRAS/hist' # text hist path
 HIST_IMG_PATH = '' # image hist path
-DISTANCE_BASE_PATH = '' # hybrid distance path
+DISTANCE_BASE_PATH = '/home/student/CTRAS/dist_base' # hybrid distance path
 DUPLICATES_REPORT_PATH = '' # duplicate groups path
 DUPLICATES_CLUSTER_PATH = '' # duplicate report group
 DUPLICATES_CLUSTER_IMG_PATH = '' # duplicate report images group
