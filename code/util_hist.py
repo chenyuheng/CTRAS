@@ -1,4 +1,5 @@
 #-*- coding:utf-8 -*-
+import os
 from scipy.io import loadmat
 from scipy.sparse import load_npz
 from variables import POS_TAGS
