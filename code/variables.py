@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import os
 
-APPS = ["DDG"] # names of all apps
+APPS = [ "AR"] # names of all apps
 
 HEADER = {
     'id': 0,
@@ -33,7 +33,7 @@ HIST_TXT_PATH = '/home/student/CTRAS/hist' # text hist path
 HIST_IMG_PATH = '' # image hist path
 DISTANCE_BASE_PATH = '/home/student/CTRAS/dist_base' # hybrid distance path
 DUPLICATES_REPORT_PATH = '/home/student/CTRAS/duplicate_report' # duplicate groups path
-DUPLICATES_CLUSTER_PATH = '' # duplicate report group
+DUPLICATES_CLUSTER_PATH = '/home/student/CTRAS/duplicate_cluster' # duplicate report group
 DUPLICATES_CLUSTER_IMG_PATH = '' # duplicate report images group
 MASTER_REPORT_PATH = '' # master report path
 
