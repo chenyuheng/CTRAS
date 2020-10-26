@@ -16,7 +16,7 @@ from util_corpus import get_all_reports
 
 def cluster(app):
 	all_reports = get_all_reports(app)
-	distance_matrix = np.load('/'.join([DISTANCE_BASE_PATH, app, 'distance_harmonic.npy']))
+	distance_matrix = np.load('/'.join([DISTANCE_BASE_PATH, app, 'distance_txt.npy']))
 	distArray = distance_matrix[np.triu_indices(len(distance_matrix), 1)]
 
 	Z = sch.linkage(distArray, method = 'single')

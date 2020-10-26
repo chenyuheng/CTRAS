@@ -1,11 +1,12 @@
 #-*- coding:utf-8 -*-
 import os, json
 import numpy as np
+from tqdm import tqdm
 
 from variables import APPS
 from variables import DISTANCE_BASE_PATH, DUPLICATES_CLUSTER_PATH, MASTER_REPORT_PATH
 
-from util_corpus import get_dup_groups, get_dup_reports_of_one_group
+from util_corpus import get_dup_groups, get_dup_reports_of_one_group, get_all_reports
 from util_pagerank import graphMove, firstPr, pageRank
 
 # ---------------------------------------------------------------------------------------
@@ -13,13 +14,13 @@ from util_pagerank import graphMove, firstPr, pageRank
 # ---------------------------------------------------------------------------------------
 
 def calculate_pr_matrix(app):
-	distance_matrix = np.load('/'.join([DISTANCE_BASE_PATH, app, 'distance_harmonic.npy']))
+	distance_matrix = np.load('/'.join([DISTANCE_BASE_PATH, app, 'distance_txt.npy']))
 	dup_groups = get_dup_groups(app)
 	groups_pr_matrix = []
-
-	for group in dup_groups:
+	all_reports = get_all_reports(app)
+	for group in tqdm(dup_groups):
 		pr_matrix = []
-		dup_reports = get_dup_reports_of_one_group(group)
+		dup_reports = get_dup_reports_of_one_group(app, group)
 		for report_a in dup_reports:
 			weight_list = []
 			for report_b in dup_reports:
@@ -67,7 +68,7 @@ def detect_master_report(app):
 	if not os.path.exists('/'.join([MASTER_REPORT_PATH, app])):
 		os.makedirs('/'.join([MASTER_REPORT_PATH, app]))
 
-	f = open('/'.join([MASTER_REPORT_PATH, app, 'master_report.json']), 'wb+')
+	f = open('/'.join([MASTER_REPORT_PATH, app, 'master_report.json']), 'w+')
 	f.write(json.dumps(master_report))  
 	f.close()
 

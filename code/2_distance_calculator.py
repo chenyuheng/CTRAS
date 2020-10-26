@@ -46,25 +46,18 @@ def calculate_distance(app):
 
 	distance_matrix_txt = [([0] * len(all_reports)) for i in range(len(all_reports))]
 
-	hist_dict = {}
+	hist_txt_dict = {}
+	for i in range(len(all_reports)):
+		report = all_reports[i]
+		hist_txt_dict[report] = get_hist_txt(app, hist_txt, report)
 
 	for i in tqdm(range(len(all_reports))):
 		for j in range(len(all_reports)):
 			t0 = time.time()
 			report_a = all_reports[i]
 			report_b = all_reports[j]
-			hist_txt_a = None
-			hist_txt_b = None
-			if (app, report_a) in hist_dict:
-				hist_txt_a = hist_dict[(app, report_a)]
-			else:
-				hist_txt_a = get_hist_txt(app, hist_txt, report_a)
-				hist_dict[(app, report_a)] = hist_txt_a
-			if (app, report_b) in hist_dict:
-				hist_txt_b = hist_dict[(app, report_b)]
-			else:
-				hist_txt_b = get_hist_txt(app, hist_txt, report_b)
-				hist_dict[(app, report_b)] = hist_txt_b
+			hist_txt_a = hist_txt_dict[report_a]
+			hist_txt_b = hist_txt_dict[report_b]
 			distance_txt = distance_txt_jaccard(hist_txt_a, hist_txt_b)
 			distance_matrix_txt[i][j] = distance_txt
 			#print(f"1: {str(time.time() - t0)}")

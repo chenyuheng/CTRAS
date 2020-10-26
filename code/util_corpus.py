@@ -19,7 +19,7 @@ def get_dup_groups(app):
 		dup_groups.append(report)
 	return dup_groups
 
-def get_dup_reports_of_one_group(group_id):
+def get_dup_reports_of_one_group(app, group_id):
 	dup_reports = []
 	for report in sorted(os.listdir('/'.join([DUPLICATES_CLUSTER_PATH, app, group_id]))):
 		report_id = report.split('.')[0]
