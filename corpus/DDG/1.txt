@@ -1,4 +1,0 @@
-刚刚_d 安装_v 只_d 进行_v 了_u 简单_a 的_u 测试_v ，_wp 整体_n 上_nd 说_v 体验_v 很_d 棒_a 。_wp
-发现_v 一个_m 问题_n ，_wp 如果_c 在_p 切换_v 至_p 后台_n 时_n 输入法_n 处于_v 激活_v 状态_n ，_wp 比如_v 输入_v 网址_n 途中_nl ，_wp 则_d 会_v 在_p 退_v 至_p 主屏_n 后_nd 弹_v 出_v 一_m 次_q 输入法_n 键盘_n 。_wp
-我_r 的_u 手机_n 是_v Xperia_ws 10_m ii_q Docomo_ws 合约机_n ，_wp 希望_v 这个_r 问题_n 能够_v 修正_v 。_wp
-感谢_v ！_wp
