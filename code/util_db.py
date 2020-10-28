@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-import MySQLdb
+import sqlite3
 
 # ---------------------------------------------------------------------------------------
 # Description   : Database Processor
@@ -25,12 +25,13 @@ class Cluster:
 		return set(self.reports)
 
 def connect_db():
-	db = MySQLdb.connect(host = '',
-						user = '',
-						passwd = '',
-						charset = 'utf8',
-						db = ''
-						)
+	db = sqlite3.connect("db.db")
+	# db = MySQLdb.connect(host = '',
+	# 					user = '',
+	# 					passwd = '',
+	# 					charset = 'utf8',
+	# 					db = ''
+	# 					)
 	return db
 
 def close_db(db):
@@ -39,7 +40,7 @@ def close_db(db):
 def insert_diff_sentence_into_sql(app, duplicate_tag, diff_sentence, diff_sentence_index, report_id):
 	db = connect_db()
 	cur = db.cursor()
-	sql = "INSERT INTO diff_txt VALUES (%s,%s,%s,%s,%s)"
+	sql = "INSERT INTO diff_txt VALUES (?,?,?,?,?)"
 	l = (app, duplicate_tag, diff_sentence, diff_sentence_index, report_id)
 	cur.execute(sql, l)
 	db.commit()
@@ -153,7 +154,7 @@ def select_cluster_img_tag(cluster_id, group_id, app):
 def insert_top_txt_into_sql(app, duplicate_tag, cluster_tag, txts):#str,int,int,str
 	db = connect_db()
 	cur = db.cursor()
-	sql = "INSERT INTO top_txt VALUES (%s, %s, %s, %s)"
+	sql = "INSERT INTO top_txt VALUES (?, ?, ?, ?)"
 	l = (app, duplicate_tag, cluster_tag, txts)
 	cur.execute(sql,l)
 	db.commit()
@@ -162,7 +163,7 @@ def insert_top_txt_into_sql(app, duplicate_tag, cluster_tag, txts):#str,int,int,
 def insert_top_img_into_sql(app, duplicate_tag, cluster_tag, imgs):#str,int,int,str
 	db = connect_db()
 	cur = db.cursor()
-	sql = "INSERT INTO top_img VALUES (%s, %s, %s, %s)"
+	sql = "INSERT INTO top_img VALUES (?, ?, ?, ?)"
 	l = (app, duplicate_tag, cluster_tag, imgs)
 	cur.execute(sql,l)
 	db.commit()

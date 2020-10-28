@@ -58,7 +58,7 @@ def parse_words(sentence):
 	return words
 
 def processing(app, group_id, report_id): # read file content
-	f = open('/'.join([DUPLICATES_CLUSTER_PATH, app, group_id, report_id+'.txt']), 'rb')
+	f = open('/'.join([DUPLICATES_CLUSTER_PATH, app, group_id, report_id+'.txt']), 'r')
 	line_list = []
 	for line in f.readlines():
 		if line == '':

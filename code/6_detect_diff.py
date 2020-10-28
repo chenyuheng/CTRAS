@@ -16,7 +16,7 @@ from util_hist import processing, preprocess_line
 # ---------------------------------------------------------------------------------------
 
 def read_master_reports(app):
-	with open('/'.join([MASTER_REPORT_PATH, app, 'master_report.json']), 'rb') as load_f:
+	with open('/'.join([MASTER_REPORT_PATH, app, 'master_report.json']), 'r') as load_f:
 		load_dict = json.load(load_f)
 		return load_dict
 
@@ -42,7 +42,7 @@ def is_same_sentence(sentence_a,sentence_b):
 	return False
 
 def get_sentence(app, group_id, report_id, index):
-	f = open('/'.join([DUPLICATES_CLUSTER_PATH, app, group_id, report_id+'.txt']), 'rb')
+	f = open('/'.join([DUPLICATES_CLUSTER_PATH, app, group_id, report_id+'.txt']), 'r')
 	i = 0
 	for line in f.readlines():
 		if i == index:
@@ -71,7 +71,7 @@ def detect_diff_txt(app):
 					sentense_b_initial = get_sentence(app, group_id, report_id, diff_sentence_index)
 					flag = str(report_id) + str(diff_sentence_index)
 					if flag not in saved_list.keys() or saved_list[flag] != group_id:
-						insert_diff_sentence_into_sql(app, long(group_id), sentense_b_initial, diff_sentence_index, long(report_id))
+						insert_diff_sentence_into_sql(app, (group_id), sentense_b_initial, diff_sentence_index, (report_id))
 						saved_list[flag] = group_id
 				diff_sentence_index += 1
 
@@ -122,7 +122,7 @@ def detect_diff_img(app):
 		for img_b in non_master_imgs:
 			if not is_same_report_img(master_imgs, img_b):
 				if img_b not in saved_list.keys() or saved_list[img_b] != dup_groups:
-					insert_diff_img_into_sql(app, long(group_id), img_b, long(img_b.split('-')[0]))
+					insert_diff_img_into_sql(app, (group_id), img_b, (img_b.split('-')[0]))
 					saved_list[img_b] = dup_groups
 
 for app in APPS:

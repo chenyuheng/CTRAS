@@ -34,7 +34,7 @@ def cluster(app):
 		if len(duplicate_set[key]) > 1:
 			ds = duplicate_set[key]
 			for num in ds:
-				repo_file = open('/'.join([CORPUS_PATH, app, num]) + ".txt", "r")
+				repo_file = open('/'.join([CORPUS_PATH, app +"original", num]) + ".txt", "r")
 				repo_con = repo_file.read()
 				print(repo_con)
 				repo_file.close()

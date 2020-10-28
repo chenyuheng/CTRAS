@@ -14,17 +14,21 @@ HEADER = {
 } # raw report csv file header
 
 # '_n',
-POS_TAGS = ['_a', '_b', '_c', '_d', '_e',
-    '_g', '_h', '_i', '_j', '_k', '_m', 
-    '_nd', '_nh', '_ni', '_nl', '_ns', '_nt', '_nz',
-    '_o', '_p', '_q', '_r', '_u', '_v', '_wp', '_ws', '_x']
+POS_TAGS = ["_CC", "_CD", "_DT", "_EX", "_FW", "_IN", "_JJ", "_JJR", "_JJS", 
+"_LS", "_MD", "_NN", "_NNS", "_NNP", "_NNPS", "_PDT", "_POS", "_PRP", "_PRP$",
+ "_RB", "_RBR", "_RBS", "_RP", "_SYM", "__TO", "__UH", "__VB", "_VBD", "_VBG", 
+ "_VBN", "_VBP", "_VBZ", "_WDT", "_WP", "_WP$", "_WRB"]
+# ['_a', '_b', '_c', '_d', '_e',
+#     '_g', '_h', '_i', '_j', '_k', '_m', 
+#     '_nd', '_nh', '_ni', '_nl', '_ns', '_nt', '_nz',
+#     '_o', '_p', '_q', '_r', '_u', '_v', '_wp', '_ws', '_x']
 
 LTP_DATA_DIR = '/home/student/ltp-data-v3.4.0' # LTP path
 cws_model_path = '/home/student/ltp_data_v3.4.0/cws.model'
 pos_model_path = '/home/student/ltp_data_v3.4.0/pos.model'
 
-STOP_WORDS_PATH = '/home/student/CTRAS/empty'
-SYNONYM_WORDS_PATH = '/home/student/CTRAS/empty'
+STOP_WORDS_PATH = '/home/student/CTRAS/stopwords.txt'
+SYNONYM_WORDS_PATH = '/home/student/CTRAS/cilin_ex.txt'
 
 RAW_PATH = '/home/student/CTRAS/raw' # raw report path
 RAW_IMG_PATH = '' # raw report images path
