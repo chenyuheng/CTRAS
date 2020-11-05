@@ -39,7 +39,7 @@ def cluster(app):
 				print(repo_con)
 				repo_file.close()
 				print("---")
-			print("============")
+			print(f"============ end of one review of {app}")
 
 	if not os.path.exists('/'.join([DUPLICATES_REPORT_PATH, app])):
 		os.makedirs('/'.join([DUPLICATES_REPORT_PATH, app]))

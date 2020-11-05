@@ -1,0 +1,2 @@
+bug_ws 由_p word_ws 转换_v 的_u 中文_nz 文档_n ，_wp 无法_v 显示_v 中文_nz 。_wp
+一般_a 文档_n 的_u 中文_nz 注释_n 也_d 显示_v 不_d 全_a ，_wp 汉字_nz 被_p 点_v 代替_v

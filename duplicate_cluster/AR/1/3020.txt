@@ -1,0 +1,1 @@
+it_ws is_ws not_ws so_ws good_ws !_wp

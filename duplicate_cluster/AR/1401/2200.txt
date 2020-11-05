@@ -1,0 +1,3 @@
+document_ws rotation_ws ?_wp
+is_ws it_ws possible_ws to_ws rotate_ws document_ws ?_wp
+i_ws cant_ws find_ws this_ws function_ws
