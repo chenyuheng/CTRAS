@@ -2,7 +2,7 @@
 import os
 
 APPS = [ "DD"] # names of all apps
-
+CTRAS_root_path = "/home/yiwu/inno3/CTRAS/"
 HEADER = {
     'id': 0,
     'create_time_millis': 1,
@@ -27,19 +27,19 @@ LTP_DATA_DIR = '/home/student/ltp-data-v3.4.0' # LTP path
 cws_model_path = '/home/student/ltp_data_v3.4.0/cws.model'
 pos_model_path = '/home/student/ltp_data_v3.4.0/pos.model'
 
-STOP_WORDS_PATH = '/home/student/CTRAS/stopwords.txt'
-SYNONYM_WORDS_PATH = '/home/student/CTRAS/cilin_ex.txt'
+STOP_WORDS_PATH = CTRAS_root_path+'stopwords.txt'
+SYNONYM_WORDS_PATH = CTRAS_root_path+'cilin_ex.txt'
 
-RAW_PATH = '/home/student/CTRAS/raw' # raw report path
+RAW_PATH = CTRAS_root_path+'raw' # raw report path
 RAW_IMG_PATH = '' # raw report images path
-CORPUS_PATH = '/home/student/CTRAS/corpus' # preprocessed report path
-HIST_TXT_PATH = '/home/student/CTRAS/hist' # text hist path
+CORPUS_PATH = CTRAS_root_path+'corpus' # preprocessed report path
+HIST_TXT_PATH = CTRAS_root_path+'hist' # text hist path
 HIST_IMG_PATH = '' # image hist path
-DISTANCE_BASE_PATH = '/home/student/CTRAS/dist_base' # hybrid distance path
-DUPLICATES_REPORT_PATH = '/home/student/CTRAS/duplicate_report' # duplicate groups path
-DUPLICATES_CLUSTER_PATH = '/home/student/CTRAS/duplicate_cluster' # duplicate report group
+DISTANCE_BASE_PATH = CTRAS_root_path+'dist_base' # hybrid distance path
+DUPLICATES_REPORT_PATH = CTRAS_root_path+'duplicate_report' # duplicate groups path
+DUPLICATES_CLUSTER_PATH = CTRAS_root_path+'duplicate_cluster' # duplicate report group
 DUPLICATES_CLUSTER_IMG_PATH = '' # duplicate report images group
-MASTER_REPORT_PATH = '/home/student/CTRAS/master_report' # master report path
+MASTER_REPORT_PATH = CTRAS_root_path+'master_report' # master report path
 
 K = 0.25 # summary compression ratio
 

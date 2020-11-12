@@ -1,8 +1,8 @@
 #-*- coding:utf-8 -*-
 import os, csv, sys, re
-from pyltp import Segmentor
-from pyltp import Postagger
-from pyltp import SentenceSplitter
+# from pyltp import Segmentor
+# from pyltp import Postagger
+# from pyltp import SentenceSplitter
 import nltk
 from nltk.corpus import stopwords
 from zhconv import convert
@@ -50,6 +50,10 @@ def preprocess(app):
 			_id = row[0]
 			_description = row[1]
 			_description = _description.replace('\n','').replace('\r','').strip()
+
+			file_path = '/'.join([CORPUS_PATH, app])
+			if not os.path.exists(file_path):os.makedirs(file_path)
+			if not os.path.exists(file_path+"original"):os.makedirs(file_path+"original")
 			if not os.path.isfile('/'.join([CORPUS_PATH, app, _id+'.txt'])): # 每个应用的每个评论对应一个语料文件
 				sents = nltk.sent_tokenize(_description)
 				content = []

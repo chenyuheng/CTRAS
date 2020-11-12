@@ -11,17 +11,17 @@ from variables import CORPUS_PATH, HIST_TXT_PATH
 
 def parse_corpus(_corpus):
 	for tag in POS_TAGS:
-		_corpus = _corpus.replace(tag, '')
-	_corpus = _corpus.replace('_n', '')
+		_corpus = _corpus.replace(tag, '') # 把posttag又去掉了
+	_corpus = _corpus.replace('_n', '') # 这里为什么是_n??????????????????????????????????
 	return _corpus
 
 def load_corpus(app):
-	corpus = []
+	corpus = [] # 装入所有的review
 	for name in sorted(os.listdir('/'.join([CORPUS_PATH, app]))):
 		_corpus_file = open('/'.join([CORPUS_PATH, app, name]), 'r')
-		_corpus = _corpus_file.read().replace('\n','')
+		_corpus = _corpus_file.read().replace('\n','') # 一个review
 		corpus.append(parse_corpus(_corpus))
-	print(len(corpus))
+	print(len(corpus)) #1000
 	return corpus
 
 def generate_hist(app):
@@ -35,12 +35,12 @@ def generate_hist(app):
 	# X width: {len(X.toarray()[0])}
 	# X height: {len(X.toarray())}
 	# """)
-	for x, y in zip(X, corpus):
-		print(y)
-		print(x)
-		print("=====")
-	for x in (zip(vectorizer.get_feature_names(), range(len(vectorizer.get_feature_names())))):
-		print(x, end=", ")
+	# for x, y in zip(X, corpus):
+	# 	print(y)
+	# 	print(x)
+	# 	print("=====")
+	# for x in (zip(vectorizer.get_feature_names(), range(len(vectorizer.get_feature_names())))):
+	# 	print(x, end=", ")
 	save_npz('/'.join([HIST_TXT_PATH, app+'.npz']), X) # save text hist
 
 
