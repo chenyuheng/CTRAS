@@ -9,13 +9,13 @@ from variables import CORPUS_PATH, HIST_TXT_PATH
 # Description   : Function to calculate textual features of reports
 # ---------------------------------------------------------------------------------------
 
-def parse_corpus(_corpus):
+def parse_corpus(_corpus:str)->str:
 	for tag in POS_TAGS:
 		_corpus = _corpus.replace(tag, '') # 把posttag又去掉了
 	_corpus = _corpus.replace('_n', '') # 这里为什么是_n??????????????????????????????????
 	return _corpus
 
-def load_corpus(app):
+def load_corpus(app:str)->list:
 	corpus = [] # 装入所有的review
 	for name in sorted(os.listdir('/'.join([CORPUS_PATH, app]))):
 		_corpus_file = open('/'.join([CORPUS_PATH, app, name]), 'r')

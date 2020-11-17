@@ -55,21 +55,21 @@ def preprocess(app):
 			if not os.path.exists(file_path):os.makedirs(file_path)
 			if not os.path.exists(file_path+"original"):os.makedirs(file_path+"original")
 			if not os.path.isfile('/'.join([CORPUS_PATH, app, _id+'.txt'])): # 每个应用的每个评论对应一个语料文件
-				sents = nltk.sent_tokenize(_description)
+				sents = nltk.sent_tokenize(_description) # 分成一句一句
 				content = []
 				for sent in sents:
 					words = [w for w in nltk.word_tokenize(sent) if w not in stop_words] # 去除 stopwords
 					words = [synonym_words[w] if w in synonym_words.keys() else w for w in words] # 替换同义词
-					postags = nltk.pos_tag(words)
 
-					items = ['_'.join(x) for x in postags]
-					content.append(' '.join(items))
-				content = '\n'.join(content)
+					postags = nltk.pos_tag(words) #打标签
+					items = ['_'.join(x) for x in postags] #打标签 [ "I_tag1", "am_tag2" ..]
+					content.append(' '.join(items)) # 合成一句话 [ "I_tag1 am_tag2" ..]
+				content = '\n'.join(content) #content 是一个sentence的列表
 
-				f_out = open('/'.join([CORPUS_PATH, app, _id+'.txt']), 'w+')
+				f_out = open('/'.join([CORPUS_PATH, app, _id+'.txt']), 'w+') #存储处理完的reciew
 				f_out.write(content)
 				f_out.close()
-				f_out = open('/'.join([CORPUS_PATH, app +"original", _id+'.txt']), 'w+')
+				f_out = open('/'.join([CORPUS_PATH, app +"original", _id+'.txt']), 'w+') #存储处理之前的review
 				f_out.write(row[1])
 				f_out.close()
 	# segmentor.release()

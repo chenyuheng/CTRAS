@@ -41,21 +41,23 @@ def calculate_distance(app):
 	if not os.path.exists('/'.join([DISTANCE_BASE_PATH, app])):
 		os.makedirs('/'.join([DISTANCE_BASE_PATH, app]))
 	
-	all_reports = get_all_reports(app)
-	hist_txt = read_hist_txt(app)
-
-	distance_matrix_txt = [([0] * len(all_reports)) for i in range(len(all_reports))]
-
+	all_reports_id = get_all_reports(app)
+	# print("len(all_reports_id) : {}".format(len(all_reports_id))) # len(all_reports_id) : 1000
+	hist_txt = read_hist_txt(app) # 之前计算的 idf矩阵
+	#print("type(hist_txt) : {}",format(type(hist_txt))) # {} <class 'scipy.sparse.csr.csr_matrix'>
+	#print("hist_txt.shape {}".format(len(hist_txt.todense().tolist()[0]))) # hist_txt.shape (1000, 200) ->  1000 条 ， 每条 200
+	#exit()
+	distance_matrix_txt = [([0] * len(all_reports_id)) for i in range(len(all_reports_id))] # 1000 * 1000
 	hist_txt_dict = {}
-	for i in range(len(all_reports)):
-		report = all_reports[i]
-		hist_txt_dict[report] = get_hist_txt(app, hist_txt, report)
+	for i in range(len(all_reports_id)):
+		reports_id = all_reports_id[i]
+		hist_txt_dict[reports_id] = get_hist_txt(app, hist_txt, reports_id)
 
-	for i in tqdm(range(len(all_reports))):
-		for j in range(len(all_reports)):
+	for i in tqdm(range(len(all_reports_id))):
+		for j in range(len(all_reports_id)):
 			t0 = time.time()
-			report_a = all_reports[i]
-			report_b = all_reports[j]
+			report_a = all_reports_id[i]
+			report_b = all_reports_id[j]
 			hist_txt_a = hist_txt_dict[report_a]
 			hist_txt_b = hist_txt_dict[report_b]
 			distance_txt = distance_txt_jaccard(hist_txt_a, hist_txt_b)
