@@ -21,7 +21,7 @@ def read_hist_img(app):
 	hist_img = img_mat['pyramid_all'] # [n_samples, 4200]
 	return hist_img
 
-def get_hist_txt(app, hist_txt, report_id):
+def get_hist_txt(app, hist_txt, report_id)->list:
 	# get the text hist according to report_id
 	reports = sorted(os.listdir('/'.join([CORPUS_PATH, app])))
 	reports = [x.split('.')[0] for x in reports]

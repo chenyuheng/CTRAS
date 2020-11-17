@@ -17,10 +17,10 @@ from util_hist import read_hist_txt, read_hist_img, get_hist_txt, get_hist_img
 # Description   : Function to calculate distance between reports
 # ---------------------------------------------------------------------------------------
 
-def distance_txt_jaccard(hist_a, hist_b):
+def distance_txt_jaccard(hist_a:list, hist_b:list):
 	inter = 0
 	union = 0
-	for i in range(len(hist_a)):
+	for i in range(len(hist_a)): # 两个评论越相似的话，返回的分数越小，越接近0
 		if hist_a[i] > 0 and hist_b[i] > 0:
 			inter += 1
 			union += 1
@@ -46,14 +46,14 @@ def calculate_distance(app):
 	hist_txt = read_hist_txt(app) # 之前计算的 idf矩阵
 	#print("type(hist_txt) : {}",format(type(hist_txt))) # {} <class 'scipy.sparse.csr.csr_matrix'>
 	#print("hist_txt.shape {}".format(len(hist_txt.todense().tolist()[0]))) # hist_txt.shape (1000, 200) ->  1000 条 ， 每条 200
-	#exit()
 	distance_matrix_txt = [([0] * len(all_reports_id)) for i in range(len(all_reports_id))] # 1000 * 1000
 	hist_txt_dict = {}
 	for i in range(len(all_reports_id)):
 		reports_id = all_reports_id[i]
 		hist_txt_dict[reports_id] = get_hist_txt(app, hist_txt, reports_id)
+		#print("len(hist_txt_dict[reports_id]):{} ".format(len(hist_txt_dict[reports_id]))) #200
 
-	for i in tqdm(range(len(all_reports_id))):
+	for i in tqdm(range(len(all_reports_id))): #tqdm进度条
 		for j in range(len(all_reports_id)):
 			t0 = time.time()
 			report_a = all_reports_id[i]
