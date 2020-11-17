@@ -6,7 +6,7 @@ from tqdm import tqdm
 from variables import APPS
 from variables import DISTANCE_BASE_PATH, DUPLICATES_CLUSTER_PATH, MASTER_REPORT_PATH
 
-from util_corpus import get_dup_groups, get_dup_reports_of_one_group, get_all_reports
+from util_corpus import get_dup_groups, get_dup_reports_of_one_group, get_all_reports_id
 from util_pagerank import graphMove, firstPr, pageRank
 
 # ---------------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ def calculate_pr_matrix(app):
 	distance_matrix = np.load('/'.join([DISTANCE_BASE_PATH, app, 'distance_txt.npy']))
 	dup_groups = get_dup_groups(app)
 	groups_pr_matrix = []
-	all_reports = get_all_reports(app)
+	all_reports = get_all_reports_id(app)
 	for group in tqdm(dup_groups):
 		pr_matrix = []
 		dup_reports = get_dup_reports_of_one_group(app, group)

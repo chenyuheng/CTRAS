@@ -10,7 +10,7 @@ from variables import APPS
 from variables import DISTANCE_BASE_PATH
 from variables import img_similar_threshold, alpha, beta
 
-from util_corpus import get_all_reports
+from util_corpus import get_all_reports_id
 from util_hist import read_hist_txt, read_hist_img, get_hist_txt, get_hist_img
 
 # ---------------------------------------------------------------------------------------
@@ -41,7 +41,7 @@ def calculate_distance(app):
 	if not os.path.exists('/'.join([DISTANCE_BASE_PATH, app])):
 		os.makedirs('/'.join([DISTANCE_BASE_PATH, app]))
 	
-	all_reports_id = get_all_reports(app)
+	all_reports_id = get_all_reports_id(app)
 	# print("len(all_reports_id) : {}".format(len(all_reports_id))) # len(all_reports_id) : 1000
 	hist_txt = read_hist_txt(app) # 之前计算的 idf矩阵
 	#print("type(hist_txt) : {}",format(type(hist_txt))) # {} <class 'scipy.sparse.csr.csr_matrix'>
