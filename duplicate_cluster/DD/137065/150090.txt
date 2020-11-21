@@ -1,0 +1,2 @@
+Add_NNP barcode/qr-code_JJ scanning_NN feature_NN n't_RB install_VB apps_JJ unnecessarily_RB ._.
+And_CC also_RB give_VB feature_NN offline_NN webpages_NNS ._.

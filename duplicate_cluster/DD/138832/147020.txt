@@ -1,0 +1,4 @@
+Edit.It_NNP used_VBD absolute_JJ best_JJS browser_NN ._.
+But_CC last_JJ months_NNS really_RB annoying_VBG problem_NN ._.
+When_WRB open_JJ new_JJ tab_NN look_NN recipe_JJ picture_NN anything_NN close_JJ tab_NN want_VBP go_VB back_RB page_NN open_JJ white_JJ stays_NNS several_JJ minutes_NNS sometimes_RB goes_VBZ back_RB page_JJ times_NNS either_CC go_VB back_RB start_RB app_NN goes_VBZ back_RB home_NN screen_NN ._.
+Its_PRP$ extremely_RB annoying_VBG especially_RB n't_RB history_NN open_JJ tab_NN way_NN

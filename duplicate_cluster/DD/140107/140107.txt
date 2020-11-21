@@ -1,0 +1,2 @@
+Did_NNP work_NN well_RB takes_VBZ forever_RB return_JJ search_NN results_NNS samsung_JJ tablet_NN ._.
+Can_MD recommrnd_VB anymore_RB removed_VBN

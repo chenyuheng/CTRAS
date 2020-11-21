@@ -1,0 +1,3 @@
+mobile_JJ phone_NN version_NN ensures_VBZ privacy_NN ._.
+Laptop/PC_NNP Version_NNP Chrome_NNP extension_NN shows_VBZ links_NNS ._.
+I_PRP installed_VBD another_DT phone_NN suggestions_NNS /complaints_NNS missing_VBG Search_NNP box_NN widget_NN got_VBD response_NN ._.

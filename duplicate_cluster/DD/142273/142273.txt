@@ -1,0 +1,2 @@
+Trackers_NNS blocked_VBD ._.
+I_PRP one_CD search_NN Dell_NNP computer_NN using_VBG right_JJ I_PRP went_VBD facebook_NN guess_NN Dell_NNP computers_NNS advertised_VBD ._.

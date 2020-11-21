@@ -1,0 +1,2 @@
+Ad_NNP ThiAds_NNP iAds_VB honeAdst_JJ opinion_NN Ad_NNP .........._NN ......._NN Lost_NNP connection_NN Ad_NNP interrAduptions_NNS constantly_RB vause_IN signal_JJ losses_NNS Ad_NNP ._.
+And_CC anyway_RB show_VBP Ad_NNP deliberately_RB ignore_VBP app_NNS advertised_VBD ._.

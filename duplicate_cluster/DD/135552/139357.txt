@@ -1,0 +1,2 @@
+I_PRP Bitdefender_VBP Total_JJ Security_NNP 2020_CD mobile_NN app_NN also_RB includes_VBZ anti-virus_JJ software_NN ._.
+The_DT DuckDuckGo_NNP browser_NN protected_VBD browser_JJ list_NN I_PRP longer_RBR using_VBG ._.

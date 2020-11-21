@@ -1,0 +1,4 @@
++_NN ._.
+Small_NNP &_CC Good_NNP browser_NN nice_JJ speed_NN security_NN ._.
+-_: ._.
+Taking_VBG permission_NN view_NN use_VBP media/photo_NN gallery_NN etc_FW exchange_NN app_NN ._.

@@ -1,0 +1,5 @@
+It_PRP 's_VBZ really_RB good_JJ But_CC 's_POS one_CD problem_NN ._.
+Everytime_NNP open_JJ new_JJ tab_NN ._.
+To_TO read_VB recipe_JJ something_NN else_RB ._.
+And_CC close_JJ tab_NN want_VBP go_VB back_RB page_NN goes_VBZ white_JJ n't_RB anything_NN ._.
+And_CC takes_VBZ several_JJ minutes_NNS pressed_VBN back_RB several_JJ times_NNS goes_VBZ back_RB start_NN

@@ -1,0 +1,3 @@
+So_RB ,_, app_IN overall_JJ good_JJ ,_, private_JJ browser_NN protects_NNS ._.
+My_PRP$ problem_NN ,_, download_RB something_NN like_IN Cake_NNP ™_NNP Yandex™_NNP protected_VBD 's_POS still_RB going_VBG fast_RB ._.
+That_DT 's_VBZ ._.

@@ -1,0 +1,4 @@
+It_PRP censors_VBZ results_NNS ._.
+I_PRP checked_VBD results_NNS Google_NNP Bing_NNP ,_, adult_NN sites_NNS 're_VBP filtered_VBN ._.
+I_PRP also_RB checked_VBD news_NN sites_NNS ,_, ._.
+This_DT real_JJ shame_NN ._.

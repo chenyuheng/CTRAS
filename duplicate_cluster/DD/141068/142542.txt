@@ -1,0 +1,3 @@
+Since_IN last_JJ update_NN ,_, settings_NNS (_( theme_NN ,_, country_NN ,_, units_NNS etc_VBP ._. )_)
+changed_VBN default_NN every_DT time_NN I_PRP exit_VBP app_RB ._.
+Please_NNP fix_NN

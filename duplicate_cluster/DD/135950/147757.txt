@@ -1,0 +1,3 @@
+Why_WRB word_NN Google_NNP written_VBN spacebar_NN ?_.
+Does_NNP app_VB use_VB Google_NNP 's_POS search_NN engine_NN ?_.
+How_WRB I_PRP choose_VBP search_JJ engine_NN use_NN ?_.

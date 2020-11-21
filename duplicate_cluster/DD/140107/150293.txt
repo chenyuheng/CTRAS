@@ -1,0 +1,3 @@
+Works_NNP well_RB ._.
+Search_NN results_NNS excellent_JJ ._.
+Setting_VBG pain_NN manage_NN saving_VBG loading_JJ settings_NNS bigger_JJR pain_NN ._.

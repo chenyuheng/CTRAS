@@ -1,0 +1,2 @@
+Desktop_NNP Site_NNP ''_'' setting_VBG stick_NN ._.
+I_PRP need_VBP view_VBP full_JJ websites_NNS time_NN without_IN constantly_RB clicking_VBG Desktop_NNP Site_NNP

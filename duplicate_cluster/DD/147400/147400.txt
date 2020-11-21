@@ -1,0 +1,4 @@
+So_RB ,_, unlike_IN every_DT browser_NN world_NN ,_, tapping_VBG back_RP ''_'' exits_VBZ browser_NN rather_RB closing_VBG current_JJ tab_JJ return_NN focus_NN parent_NN tab_NN ?_.
+..._: And_CC 's_POS setting_VBG change_NN ?_.
+..._:
+Unfortunately_RB I_PRP afford_VBP time_NN necessary_JJ reprogram_NN reflexes_NNS program_NN browser_NN ._. ''_''

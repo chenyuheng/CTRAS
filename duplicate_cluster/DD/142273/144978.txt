@@ -1,0 +1,5 @@
+Claims_NNS censor_NN ._.
+I_PRP searched_VBD controversial_JJ subjects_NNS sides_NNS argument_VBP displayed_VBN ._.
+Awesome_NN !_.
+Unfortunately_RB search_JJ subjects_NNS one-sided_JJ biased_VBD ._.
+Too_RB bad_JJ guys_NNS seem_VBP sold_VBN ._.

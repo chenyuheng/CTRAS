@@ -1,0 +1,2 @@
+back_RB button_NN newly-opened_JJ tab_NNS take_VBP back_RP original_JJ page/tab_NN started_VBD ._.
+browser_NN nice_JJ features_NNS ,_, issue_NN fixed_VBN ,_, app_VBZ unusable_JJ ._.

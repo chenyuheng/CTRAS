@@ -1,0 +1,3 @@
+Good_JJ browser_NN ._.
+I_PRP rated_VBD three_CD stars_NNS increase_VBP five_CD developers_NNS add_VBP way_NN better_RBR organize_VB bookmarks_NNS ._.
+I_PRP would_MD like_VB see_VB drop-down_JJ menu_NNS like_IN Google_NNP Chrome_NNP Internet_NNP Explorer_NNP organizing_VBG bookmarks_NNS ._.

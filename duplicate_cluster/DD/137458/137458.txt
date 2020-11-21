@@ -1,0 +1,2 @@
+Thank_NNP privacy_NN somehow_RB spam_JJ still_RB got_VBD found_VBN phone_NN number_NN ._.
+I_PRP 'm_VBP still_RB sure_JJ ._.

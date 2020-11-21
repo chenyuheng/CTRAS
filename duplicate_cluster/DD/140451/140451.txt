@@ -1,0 +1,2 @@
+I_PRP like_VBP feeling_VBG security_NN ,_, browser_NN locks_NNS frequently_RB 10_CD 20_CD seconds_NNS time_NN ._.
+Needs_NNP fix_NN ._.

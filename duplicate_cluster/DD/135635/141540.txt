@@ -1,0 +1,4 @@
+Needs_NNP Add_NNP blocker_NN ._.
+I_PRP try_VBP watch_NN shows_NNS FireFox_NNP screen_NN shuts_NNS ._.
+Instead_RB try_VB app_JJ get_VB sent_JJ sites_NNS whenever_WRB touch_JJ screen_NN ._.
+Need_NN AdBlocker_NNP Add-on_NNP

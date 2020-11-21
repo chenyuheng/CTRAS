@@ -1,0 +1,2 @@
+Loading_VBG speed_NN awfully_RB slow_VB &_CC time_NN ,_, 's_POS even_RB loading_NN ._.
+Moving_VBG next_JJ reliable_JJ app_NN ._.

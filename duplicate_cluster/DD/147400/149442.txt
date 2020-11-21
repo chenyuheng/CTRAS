@@ -1,0 +1,2 @@
+Great_NNP browser_NN ._.
+One_CD complaint_NN ruins_VBZ experience_NN starts_VBZ saving_VBG files_NNS .bin_NNP And_CC clear_JJ cache_NN every_DT time_NN -_: I_PRP 'd_MD rather_RB switch_VB another_DT browser_NN

@@ -1,0 +1,4 @@
+Hi_NNP -_: two_CD stars_NNS ._.
+No_DT option_NN import_NN export_NN bookmarks_NNS ._.
+No_DT option_NN install_VB add_JJ ons_NNS ._.
+The_DT good_JJ thing_NN browser_NN configured_VBD ._.
