@@ -13,7 +13,7 @@ def get_all_reports_id(app:str)->list:
 		report_id = report_file_name.split('.')[0]
 		all_reports_id.append(report_id)
 	return all_reports_id
-
+# return duplicate cluster id
 def get_dup_groups(app):
 	dup_groups = []
 	for report in sorted(os.listdir('/'.join([DUPLICATES_CLUSTER_PATH, app]))):
@@ -27,3 +27,4 @@ def get_dup_reports_of_one_group(app, group_id):
 		if report_id !='':
 			dup_reports.append(report_id)
 	return dup_reports
+
