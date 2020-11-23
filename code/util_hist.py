@@ -47,9 +47,12 @@ def get_img_pos(img_name):
 	return -1
 
 def preprocess_line(line):
+	# print("POS_TAGS:")
+	# print(POS_TAGS)
+	# print("--------------------------------------------------")
 	for tag in POS_TAGS:
-		line = line.replace(tag, tag+' ')
-	line = line.replace('  ', ' ').replace('__','-_').replace('\n','')
+		line = line.replace(tag, tag+' ') #pos_tag 后加一个空格??? 我觉得如果没有用到，去除pos tag或者更新库
+	line = line.replace('  ', ' ').replace('__','-_').replace('\n','') #很奇怪啊？？？？
 	return line
 
 def parse_words(sentence):
@@ -58,13 +61,16 @@ def parse_words(sentence):
 	return words
 
 def processing(app, group_id, report_id): # read file content
+	# print("group_id {} , report_id {}".format(group_id, report_id))
 	f = open('/'.join([DUPLICATES_CLUSTER_PATH, app, group_id, report_id+'.txt']), 'r')
-	line_list = []
+	line_list = [] # read one report into the list. A sentence is a list of words. A report is a list of sentence.
 	for line in f.readlines():
 		if line == '':
-			break
+			break	
 		line = preprocess_line(line)
-		words = [x.split('_')[0] for x in line.split(' ')]
-		line_list.append(words)
+		words = [x.split('_')[0] for x in line.split(' ')]  # x.split('_')[0]是为了 app_NN -> app
+		print(words)
+		exit()
+		line_list.append(words) #就是只得到了原report中的单词（应该是这样）
 	f.close()
 	return line_list
