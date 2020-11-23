@@ -37,6 +37,7 @@ def connect_db():
 def close_db(db):
 	db.close()
 
+# duplicate_tag is the group id.
 def insert_diff_sentence_into_sql(app, duplicate_tag, diff_sentence, diff_sentence_index, report_id):
 	db = connect_db()
 	cur = db.cursor()
@@ -54,7 +55,7 @@ def insert_diff_img_into_sql(app, duplicate_tag, diff_img, report_id):
 	cur.execute(sql, l)
 	db.commit()
 	close_db(db)
-
+# retrieve all different sentence candadite of a certain group. tag here is the group id
 def get_all_sentence_records(app, tag):
 	db = connect_db()
 	cur = db.cursor()

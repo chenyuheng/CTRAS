@@ -57,7 +57,7 @@ def preprocess_line(line):
 
 def parse_words(sentence):
 	sentence = preprocess_line(sentence)
-	words = [x.split('_')[0] for x in sentence.split(' ')]
+	words = [x.split('_')[0] for x in sentence.split(' ')] #去掉tag了
 	return words
 
 def processing(app, group_id, report_id): # read file content
