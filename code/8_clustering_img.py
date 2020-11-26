@@ -67,3 +67,4 @@ def clustering_img(app, tag):
 for app in APPS:
 	for tag in os.listdir('/'.join([DUPLICATES_CLUSTER_IMG_PATH, app])):
 		clustering_img(app, tag)
+		# this file will not be used

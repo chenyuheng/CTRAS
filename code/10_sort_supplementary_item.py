@@ -163,4 +163,4 @@ def calculate_cluster_img_pr(app):
 
 for app in APPS:
 	calculate_cluster_txt_pr(app)
-	calculate_cluster_img_pr(app)
+	#calculate_cluster_img_pr(app)

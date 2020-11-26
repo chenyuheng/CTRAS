@@ -28,7 +28,8 @@ def is_same_report_sentence(master_words, sentence_b):
 	return False
 
 def is_same_sentence(sentence_a,sentence_b):
-	if len(sentence_b) == 1 and sentence_b[0] == '': ## 这是要干啥？？？？？大概结束句是空格？所以单独处理一下？		return True
+	if len(sentence_b) == 1 and sentence_b[0] == '':
+		return True ## 这是要干啥？？？？？大概结束句是空格？所以单独处理一下？		return True
 	inter = 0
 	union = 0
 	for word_a in sentence_a:

@@ -58,7 +58,7 @@ def clustering_txt(app, tag):
 		# what is this record ? why 100 + clusterid?  注意 duplicate_tag 就是 group id
 		sql = "INSERT INTO cluster_txt " + \
 			"(app, duplicate_tag, diff_sentence, diff_sentence_index, report_id, cluster_id) " + \
-			"VALUES (%s, %s, %s, %s, %s, %s)"
+			"VALUES (?,?, ?, ?, ?, ?)"
 
 		try:
 			cur.execute(sql, record)
