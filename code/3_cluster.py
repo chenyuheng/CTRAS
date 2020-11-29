@@ -37,16 +37,20 @@ def cluster(app):
 			duplicate_set[cluster_id].append(report_id)
 	# print(len(duplicate_set)) # 955 效果不是很好？
 	# yuheng add---------------------------------------------------------------------
+	group_count = 0
+	review_count = 0
 	for key in duplicate_set:
 		if len(duplicate_set[key]) > 1:
+			group_count  += 1
 			ds = duplicate_set[key]
 			for num in ds:
+				review_count += 1
 				repo_file = open('/'.join([CORPUS_PATH, app +"original", num]) + ".txt", "r")
 				repo_con = repo_file.read()
 				print(repo_con)
 				repo_file.close()
 				print("---")
-			print(f"============ end of one review of {app}")
+			print(f"============ end of one review of {app}, group_count: {group_count}, total_review_count: {review_count}")
 
 	# yuheng add---------------------------------------------------------------------
 	if not os.path.exists('/'.join([DUPLICATES_REPORT_PATH, app])):
