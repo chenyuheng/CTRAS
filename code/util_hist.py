@@ -69,8 +69,6 @@ def processing(app, group_id, report_id): # read file content
 			break	
 		line = preprocess_line(line)
 		words = [x.split('_')[0] for x in line.split(' ')]  # x.split('_')[0]是为了 app_NN -> app
-		print(words)
-		exit()
 		line_list.append(words) #就是只得到了原report中的单词（应该是这样）
 	f.close()
 	return line_list

@@ -28,7 +28,7 @@ def is_same_report_sentence(master_words, sentence_b):
 	return False
 
 def is_same_sentence(sentence_a,sentence_b):
-	if len(sentence_b) == 1 and sentence_b[0] == '': ## 这是要干啥？？？？？大概结束句是空格？所以单独处理一下？		
+	if len(sentence_b) == 1 and sentence_b[0] == '': ## 这是要干啥？？？？？大概结束句是空格？所以单独处理一下？
 		return True
 	inter = 0
 	union = 0
@@ -54,7 +54,7 @@ def get_sentence(app, group_id, report_id, index):
 	return None
 
 def detect_diff_txt(app):
-	saved_list = {} 
+	saved_list = {}
 	dup_groups = get_dup_groups(app) # all the group id
 	master_reports = read_master_reports(app) # dict
 	for group_id in dup_groups: #每一个group
@@ -65,7 +65,7 @@ def detect_diff_txt(app):
 			if report_id == master_id:
 				continue
 
-			report_words = processing(app, group_id, report_id) 
+			report_words = processing(app, group_id, report_id)
 			diff_sentence_index = 0
 			for sentence_b in report_words: #这个report中的每一个sentence
 				if not is_same_report_sentence(master_words, sentence_b): # 这是一句不同的sentence.

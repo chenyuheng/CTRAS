@@ -87,5 +87,6 @@ def combine_clusters(app, tag):
 
 
 for app in APPS:
-	for tag in os.listdir('/'.join([DUPLICATES_CLUSTER_PATH, app])):
+	for tag in os.listdir('/'.join([DUPLICATES_CLUSTER_PATH, app])): # 每一个group
 		combine_clusters(app, tag)
+	# I suppose this file will not be used either.
