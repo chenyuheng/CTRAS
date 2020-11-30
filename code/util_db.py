@@ -155,8 +155,13 @@ def select_cluster_img_tag(cluster_id, group_id, app):
 def insert_top_txt_into_sql(app, duplicate_tag, cluster_tag, txts):#str,int,int,str
 	db = connect_db()
 	cur = db.cursor()
+	print(txts)
+	sent = []
+	for i in txts[1].split(" "):
+		sent.append(i.split("_")[0])
+
 	sql = "INSERT INTO top_txt VALUES (?, ?, ?, ?)"
-	l = (app, duplicate_tag, cluster_tag, txts)
+	l = (app, duplicate_tag, cluster_tag, " ".join(sent))
 	cur.execute(sql,l)
 	db.commit()
 	close_db(db)

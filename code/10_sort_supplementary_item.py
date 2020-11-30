@@ -122,7 +122,7 @@ def calculate_cluster_txt_pr(app):
 							pr_dict[str(flag1)] = tmp[0]
 							flag1 = flag1 + 1
 						top_n = 0
-						for key,value in sorted(pr_dict.iteritems(), key=lambda d:d[1], reverse = True):
+						for key,value in sorted(pr_dict.items(), key=lambda d:d[1], reverse = True):
 							txts = (str(top_n), diff_sentence_list[int(key)], report_id_list[int(key)], diff_sentence_index_list[int(key)])
 							insert_top_txt_into_sql(app, group_id, cluster_combine_tag[0], txts)
 							top_n = top_n + 1

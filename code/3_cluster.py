@@ -49,8 +49,9 @@ def cluster(app):
 				repo_con = repo_file.read()
 				print(repo_con)
 				repo_file.close()
-				print("---")
+				print(f"-----{num}")
 			print(f"============ end of one review of {app}, group_count: {group_count}, total_review_count: {review_count}")
+
 
 	# yuheng add---------------------------------------------------------------------
 	if not os.path.exists('/'.join([DUPLICATES_REPORT_PATH, app])):
@@ -59,8 +60,9 @@ def cluster(app):
 	# save duplicate_set
 	out = open('/'.join([DUPLICATES_REPORT_PATH, app, 'duplicate_set.csv']), 'w+')
 	writer = csv.writer(out)
-	for k in duplicate_set.keys():
+	for k in sorted(list(duplicate_set.keys()), key=lambda y: min(list(map(int, duplicate_set[y])))): # sort by the min rank in a duplication set
 		records = duplicate_set[k]
+		print(records)
 		writer.writerow(records)
 	out.close()
 

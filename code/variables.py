@@ -47,7 +47,7 @@ K = 0.25 # summary compression ratio
 HIST_IMG_DICT_SIZE = 200    # default
 HIST_IMG_LAYER_NUM = 3      # default
 
-T_THRESHOLD = 0.6               # default
+T_THRESHOLD = 0.72               # default
 img_similar_threshold = 0.01    # default
 LINK_THRESHOLD = 0.2
 

@@ -52,7 +52,7 @@ def join(app, tag, all_txt_clusters, all_img_clusters, link_matrix):
 
 		if len(linked_img_clusters_i) == 0: # there is no image candidate cluster that is linked with this cluster
 			cur.execute("INSERT INTO cluster_combine (app, duplicate_tag, cluster_tag, "+
-				"cluster_id_txt) VALUES (%s, %s, %s, %s)",
+				"cluster_id_txt) VALUES (?, ?, ?, ?)",
 				(app, tag, AUTO_CLUSTER_ID, txt_cluster_id))
 			db.commit()
 			AUTO_CLUSTER_ID += 1
