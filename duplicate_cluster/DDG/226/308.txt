@@ -1,0 +1,6 @@
+Useless_JJ application_NN ,_, waste_NN money_NN ._.
+This_DT useless_JJ application_NN waste_NN money_NN ._.
+Never_RB worked_VBN ._.
+I_PRP Sony_NNP Xperia_NNP ,_, Android_NNP version_NN 4.4.2_CD ._.
+Downloaded_VBN maps_NNS OK_UH ,_, never_RB able_JJ locate_NN device_NN ,_, shows_VBZ one_CD location_NN whatever_WDT I_PRP ,_, I_PRP travel_VBP Germany_NNP shows_NNS still_RB London_NNP !_.
+Travel_NNP London_NNP rebooted_VBD device_NN app_RB multiple_JJ time_NN ,_, still_RB shows_VBZ place_NN I_PRP installed_VBD first_JJ time_NN ._.

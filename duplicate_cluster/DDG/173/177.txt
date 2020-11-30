@@ -1,0 +1,4 @@
+This_DT app_NN limited_VBD ,_, compared_VBN site_NN ._.
+Shame_NN ,_, considering_VBG users_NNS social_JJ media_NNS ,_, photography_NN videography_NN mobile_JJ devices_NNS ._.
+There_EX ability_NN link_NN pages_NNS site_NN creating_VBG new_JJ post_NN ,_, aside_RB manually_RB entering_VBG URL_NNP ._.
+Feature_NN request_NN :_: Bring_NNP list_NN links_NNS choose_VBP site_NN tapping_NN link_NN option_NN ._.

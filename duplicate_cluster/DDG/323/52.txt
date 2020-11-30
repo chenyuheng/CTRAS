@@ -1,0 +1,9 @@
+ZERO_NNP WYSIWYG_NNP If_IN enjoy_JJ squinting_VBG screen_NN writing_VBG order_NN distinguish_JJ article_NN 's_POS text_NN HTML_NNP code_NN ,_, 'll_MD love_VB app_NN ._.
+I_PRP must_MD ask_VB :_: If_IN Evernote_NNP &_CC every_DT goofy_NN little_JJ writing_VBG app_JJ display_NN bullets_NNS ,_, bold_NN ,_, italic_JJ ,_, &_CC formatting_VBG I_PRP writing_VBG ,_, ca_MD n't_RB tool_VB professional_JJ writers_NNS ?_.
+I_PRP enjoy_VBP WordPress_JJ writing_VBG experience_NN PC/browser_NNP I_PRP engage_VBP content_JJ &_CC formatting_VBG directly_RB ,_, organically_RB ,_, I_PRP 'm_VBP creating_VBG ._.
+The_DT time_NN I_PRP must_MD face_VB HTML_NNP occasional_JJ media_NNS embed_VBD ,_, etc_FW ._.
+But_CC app_JJ HTML_NNP codes_NNS scattered_VBD throughout_IN article_NN &_CC act_NN like_IN irritating_VBG little_JJ jolts_NNS speed_VBD bumps_NNS appear_VBP paragraph_IN I_PRP 'm_VBP working_VBG ._.
+So_RB 's_POS impossible_JJ get_NN state_NN ``_`` flow_NN !_. ``_``
+C'mon_NNP ,_, developers_NNS ,_, better_JJR ._.
+I_PRP would_MD gladly_RB pay_VB WYSIWYG_NNP WordPress_NNP writing_VBG tool_NN ._.
+Until_IN ,_, 's_POS back_JJ PC_NN writing_NN &_CC editing_VBG blog_NN posts_NNS ._.

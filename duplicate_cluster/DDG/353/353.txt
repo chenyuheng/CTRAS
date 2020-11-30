@@ -1,0 +1,12 @@
+Good_JJ ......_NN
+The_DT idea_NN good_NN ._.
+But_CC lacks_VBZ dynamic_JJ routes_NNS ._.
+I_PRP mean_VBP I_PRP ca_MD n't_RB alter_VB route_NN ._.
+Need_NN improvements_NNS ._.
+Like_IN altering_VBG routes_NNS ._.
+Locating_VBG current_JJ spot_NN map_NN ._.
+And_CC navigating_VBG current_JJ location_NN ._.
+Option_NNP travel_NN limited_VBD car_NN walk_NN ._.
+Why_WRB public_JJ transport_NN ?_.
+I_PRP need_VBP continuous_JJ development_NN ._.
+One_CD plus_CC app_JJ save_NN data_NNS I_PRP use_VBP despite_IN poor_JJ data_NNS connectivity_NN ._.

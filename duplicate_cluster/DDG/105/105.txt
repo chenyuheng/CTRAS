@@ -1,0 +1,5 @@
+This_DT latest_JJS version_NN changed_VBD default_NN map_NN location_NN SD_NNP card_NN main_JJ memory_NN ,_, told_VBD I_PRP n't_RB enough_RB memory_JJ update_JJ maps_NNS ,_, although_IN version_NN updates_NNS changes_NNS ._.
+I_PRP download_VBP maps_NNS changing_VBG location_NN ,_, STILL_VBP n't_RB recognise_VB I_PRP already_RB downloaded_VBD maps_NNS !_.
+Just_RB add_VB I_PRP used_VBN maps_NNS sdcard_RB correctly_RB years_NNS !_.
+This_DT rating_NN applies_VBZ latest_JJS version_NN screwed_VBD configuration_NN ._.
+This_DT forced_VBD download_NN maps_NNS already_RB sdcard_VBP ,_, even_RB changing_VBG location_NN back_RB sdcard_RB ,_, app_NNS still_RB n't_RB check_VB existent_JJ valid_JJ maps_NNS selected_VBN location_NN ._.

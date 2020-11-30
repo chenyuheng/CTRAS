@@ -1,0 +1,7 @@
+As_IN reviewers_NNS mentioned_VBD ,_, ca_MD n't_RB search_VB address_NN ._.
+For_IN example_NN ,_, want_VBP directions_NNS 12335_CD Fake_NNP St_NNP ,_, app_NN refuse_NN ._.
+It_PRP let_VBD plot_VB route_VB Fake_NNP St_NNP ._.
+If_IN Fake_NNP St_NNP blocks_NNS long_RB ,_, 's_POS huge_JJ problem_NN ._.
+Also_RB ,_, ca_MD n't_RB even_RB search_VB address_NN download_NN region_NN 's_POS maps_NNS ._.
+If_IN want_JJ drive_NN NYC_NNP LA_NNP ,_, download_NN every_DT map_NN along_IN way_NN go_VBP ._.
+Problem_NNP ,_, maps_NNS named_VBN smaller_JJR towns_NNS ,_, big_JJ cities_NNS ._.

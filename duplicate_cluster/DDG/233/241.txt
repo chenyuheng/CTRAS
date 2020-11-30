@@ -1,0 +1,3 @@
+Plenty_NNP incorrect_JJ information_NN ,_, lacking_VBG entries_NNS (_( million_CD hotels_NNS none_JJ grocery_NN stores_NNS )_) ,_, way_NN report_NN incorrect_JJ places_NNS app_RB ,_, meandering_VBG unoptimal_JJ walking_VBG suggestions_NNS flat_JJ incorrect_VBP public_JJ transport_NN suggestions_NNS ._.
+It_PRP gives_VBZ one_CD route_NN edit_NN bus_NN metro_JJ commission_NN good_JJ luck_NN figuring_VBG alternative_JJ maps.me_NN wo_MD n't_RB help_VB ._.
+Edit_NN :_: possible_JJ add_VB new_JJ info_JJ possible_JJ report_NN incorrect_NN info_NN ._.

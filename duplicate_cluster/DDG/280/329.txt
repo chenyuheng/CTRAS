@@ -1,0 +1,3 @@
+I_PRP n't_RB understand_VB app_JJ work_NN offline_NN ..._: What_WP 's_VBZ point_NN ?_.
+On_IN Android_NNP headset_NN every_DT search_NN navigation_NN attempt_NN fails_VBZ find_VBP results_NNS downloading_VBG whole_JJ city_NN took_VBD hours_NNS ._.
+even_RB city_NN like_IN San_NNP Francisco_NNP ca_MD n't_RB find_VB anything_NN unless_IN 's_POS connected_VBN internet_NN -_: use_NN Google_NNP Maps_NNP ?_.
