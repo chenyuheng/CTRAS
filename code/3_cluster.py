@@ -1,10 +1,11 @@
 #-*- coding:utf-8 -*-
+import json
 import os, csv
 import numpy as np
 import scipy.cluster.hierarchy as sch
 
 from variables import APPS
-from variables import DISTANCE_BASE_PATH, DUPLICATES_REPORT_PATH
+from variables import DISTANCE_BASE_PATH, DUPLICATES_REPORT_PATH, MASTER_REPORT_PATH
 from variables import CORPUS_PATH
 from variables import T_THRESHOLD
 
@@ -21,7 +22,7 @@ def cluster(app):
 
 	Z = sch.linkage(distArray, method = 'single')  # Perform hierarchical/agglomerative clustering. Single distance
 	clusters = sch.fcluster(Z, T_THRESHOLD, criterion = 'distance') # # Form flat clusters from the hierarchical clustering defined by the given linkage matrix.
-	# The cophenetic distance between two objects is the height of the dendrogram where the two branches that include the two objects merge into a single branch. 
+	# The cophenetic distance between two objects is the height of the dendrogram where the two branches that include the two objects merge into a single branch.
 	# Forms flat clusters so that the original observations in each flat cluster have no greater a cophenetic distance than t.
 	# print(type(Z)) #<class 'numpy.ndarray'>
 	# print(type(clusters))#<class 'numpy.ndarray'>
@@ -36,24 +37,7 @@ def cluster(app):
 		else:
 			duplicate_set[cluster_id].append(report_id)
 	# print(len(duplicate_set)) # 955 效果不是很好？
-	# yuheng add---------------------------------------------------------------------
-	group_count = 0
-	review_count = 0
-	for key in duplicate_set:
-		if len(duplicate_set[key]) > 1:
-			group_count  += 1
-			ds = duplicate_set[key]
-			for num in ds:
-				review_count += 1
-				repo_file = open('/'.join([CORPUS_PATH, app +"original", num]) + ".txt", "r")
-				repo_con = repo_file.read()
-				print(repo_con)
-				repo_file.close()
-				print(f"-----{num}")
-			print(f"============ end of one review of {app}, group_count: {group_count}, total_review_count: {review_count}")
 
-
-	# yuheng add---------------------------------------------------------------------
 	if not os.path.exists('/'.join([DUPLICATES_REPORT_PATH, app])):
 		os.makedirs('/'.join([DUPLICATES_REPORT_PATH, app]))
 
@@ -65,6 +49,36 @@ def cluster(app):
 		print(records)
 		writer.writerow(records)
 	out.close()
+	# yuheng add---------------------------------------------------------------------
+	try: # 如果已经探测 master report，则在打印中标记
+		master_report_dict_file = open('/'.join([MASTER_REPORT_PATH, app, "master_report.json"]), "r")
+		master_report_dict_str = master_report_dict_file.read()
+		master_report_dict = json.loads(master_report_dict_str)
+		master_report_dict_file.close()
+	except:
+		pass
+	group_count = 0
+	review_count = 0
+	for key in sorted(list(duplicate_set.keys()), key=lambda y: min(list(map(int, duplicate_set[y])))):
+		if len(duplicate_set[key]) > 1:
+			group_count  += 1
+			ds = duplicate_set[key]
+			master_id = -1
+			for num in ds:
+				if num in master_report_dict:
+					master_id = master_report_dict[num]
+					break
+			for num in ds:
+				review_count += 1
+				repo_file = open('/'.join([CORPUS_PATH, app +"original", num]) + ".txt", "r")
+				repo_con = repo_file.read()
+				print(repo_con)
+				repo_file.close()
+				print(f"-----end of report {num} {'MASTER' if num == master_id else ''}")
+			print(f"============ end of one review of {app}, group_count: {group_count}, total_review_count: {review_count}")
+
+
+	# yuheng add---------------------------------------------------------------------
 
 for app in APPS:
 	cluster(app)
