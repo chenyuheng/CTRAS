@@ -50,6 +50,7 @@ def cluster(app):
 		writer.writerow(records)
 	out.close()
 	# yuheng add---------------------------------------------------------------------
+	master_report_dict = {}
 	try: # 如果已经探测 master report，则在打印中标记
 		master_report_dict_file = open('/'.join([MASTER_REPORT_PATH, app, "master_report.json"]), "r")
 		master_report_dict_str = master_report_dict_file.read()
