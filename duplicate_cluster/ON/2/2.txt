@@ -1,0 +1,13 @@
+Good_JJ idea_NN theory_NN interface_JJ way_NN ham-handed_JJ ._.
+If_IN I_PRP try_VBP set_VBN multiple_JJ reminders_NNS task_NN ,_, seems_VBZ like_IN would_MD allow_VB ,_, discards_NNS second_JJ reminder_NN time_NN saves_VBZ first_RB one_CD ._.
+Moving_VBG tasks_NNS list_VBP n't_RB work_VB properly_RB (_( lags_JJ jitters_NNS )_) ._.
+Tapping_VBG refresh_NN puts_VBZ back_RB original_JJ order_NN making_VBG re-sequencing_JJ pointless_NN ._.
+Which_JJ brings_VBZ another_DT point_NN :_: refresh_NN tapped_VBD constantly_RB see_VBN changes_NNS make_VBP ._.
+I_PRP created_VBD habit_NN seemingly_RB disappeared_VBD right_JJ hitting_NN save_NN would_MD n't_RB appear_VB I_PRP refreshed_VBN ._.
+Also_RB ,_, I_PRP hear_VBP theme_NN song_NN ?_.
+I_PRP change_VBP settings_NNS tapping_VBG option_NN simply_RB changes_VBZ one_CD active_JJ ._.
+How_WRB I_PRP supposed_VBD know_JJ theme_NN I_PRP want_VBP I_PRP ca_MD n't_RB preview_VB ?_.
+Another_DT problem_NN tutorial_NN :_: tapping_NN menu_NN items_NNS bottom_VBP n't_RB always_RB activate_VB sections_NNS tutorial_JJ ._.
+For_IN example_NN ,_, I_PRP tapped_VBD To-do_NNP created_VBD items_NNS ,_, went_VBD Rewards_NNP ,_, saw_VBD tutorial_JJ ,_, went_VBD back_RB To-do_NNP ,_, app_NN decided_VBD display_JJ tutorial_JJ To-do_NNP ._.
+Making_VBG tasks_NNS ,_, habits_NNS goals_NNS like_IN RPG_NNP great_JJ idea_NN ._.
+But_CC honestly_RB ,_, I_PRP think_VBP people_NNS would_MD get_VB frustrated_JJ clunky_JJ interface_NN give_VBP 5_CD 10_CD minutes_NNS like_IN I_PRP ._.

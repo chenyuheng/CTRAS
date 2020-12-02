@@ -1,0 +1,13 @@
+UPDATE_NN :_: I_PRP 'd_MD expected_VBN robo_NN response_NN ,_, 's_VBZ one_CD given_VBN reviews_VBZ section_NN ..._: ``_`` call_VB us_PRP ''_'' ._.
+No_DT offense_NN 's_POS *_JJ laziest_JJS *_JJ way_NN handle_JJ common_JJ recurring_VBG tech_JJ issues_NNS ..._: (_( user_NN )_) something_NN ._.
+Here_RB 's_VBZ tip_NN :_: put_NN software_NN error_NN tracking_VBG feature_NN uploads_VBZ ``_`` post_NN ''_'' ``_`` generic_JJ ''_'' errors_NNS similar_JJ ``_`` .._FW failed_VBD ''_'' errors_NNS YOU_VBP FIGURE_VBP IT_VBN OUT_NNP ._.
+I_PRP tell_VBP software_NN robustly_RB developed_VBD tested_VBN ._.
+Another_DT alternative_NN would_MD give_VB meaningful_JJ diagnostic_JJ answers_NNS benefit_VBP solutions_NNS found_VBD discussed_VBN ._.
+Terrible_JJ support_NN model_NN going_VBG ._.
+Original_JJ review_NN :_: Absolutely_RB WORTHLESS_NNP UNRELIABLE_NNP ._.
+This_DT WP_NNP app_NN feels_NNS like_IN Alpha_NNP version_NN n't_RB tested_VBD ._.
+Does_VBZ NOT_NNP handle_VB SHARING_NNP well_RB ._.
+Too_RB many_JJ bugs_NNS failures_NNS list_NN ._.
+Using_VBG Galaxy_NNP Note_NNP 8_CD w_NN latest_JJS Androidd_NNP ._.
+Sad_NNP ._.
+This_DT late_JJ May_NNP 2019_CD ._.

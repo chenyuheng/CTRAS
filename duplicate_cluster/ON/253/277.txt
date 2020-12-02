@@ -1,0 +1,6 @@
+I_PRP AM_VBP SO_RB SORRY_JJ I_PRP EVER_VBP INSTALLED_IN IT_NNP ._.
+This_DT app_VBZ malfunctioning_VBG several_JJ ways_NNS ,_, relating_VBG strange_JJ displays_NNS blog_VBP text_NN ._.
+Once_RB OVERLAPPING_NNP post_NN displayed_VBN UNDER_NNP OVER_NNP photo_NN prior_RB post_NN ._.
+The_DT next_JJ time_NN ,_, yesterday_NN ,_, text_JJ displayed_VBD WAY_NNP OUT_NNP TO_NNP THE_NNP RIGHT_NNP ._.
+Reader_NNP swipe_NN far_RB ,_, far_RB keft_JJ view_NN ._.
+What_WP disaster_NN writer_NN trying_VBG create_NN following_VBG readers_NNS ._.

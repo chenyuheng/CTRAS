@@ -1,0 +1,6 @@
+I_PRP really_RB really_RB want_VB use_NN app_NN ,_, todo_NN lists_NNS keep_VBP disappearing_NN ._.
+I_PRP accidentally_RB checked_VBD one_CD widget_NN 's_POS gone_VBN ._.
+Not_RB completed_VBN ,_, showing_VBG filter_NN ,_, gone_VBN ._.
+Then_RB hours_NNS later_RB ,_, another_DT todo_JJ several_JJ sub_NN items_NNS plain_VBP vanished_NNS ._.
+I_PRP n't_RB even_RB know_VB I_PRP time_NN make_VBP disappear_NN ._.
+I_PRP love_VBP concept_JJ design_NN ,_, task_NN app_NN loses_VBZ tasks_NNS pretty_RB much_JJ waste_NN time_NN ._.

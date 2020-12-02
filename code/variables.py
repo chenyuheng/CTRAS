@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import os
 
-APPS = [ "DDG"] # names of all apps
+APPS = [ "ON"] # names of all apps
 CTRAS_root_path = "/home/student/wy/CTRAS/"
 HEADER = {
     'id': 0,

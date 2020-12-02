@@ -1,0 +1,4 @@
+Was_NNP able_JJ connect_NN personally_RB hosted_VBD blog_NN ._.
+Everything_NN looks_VBZ pretty_RB good_JJ ,_, Featured_NNP Image_NNP setting_VBG n't_RB work_NN ._.
+I_PRP add_VBP image_NN Media_NNP Library_NNP ,_, edit_NN properties_NNS ..._: Check_NNP box_IN ``_`` Featured_NNP Image_NNP ''_'' leave_VBP box_VBN ``_`` Show_NNP post_NN ''_'' unchecked_VBN ,_, always_RB shows_VBZ image_NN post_NN refuses_VBZ set_VBN Featured_NNP image_NN ,_, matter_RB many_JJ times_NNS I_PRP go_VBP back_RB try_VB edit_NN it/redo_NN ._.
+Unfortunately_RB ,_, main_JJ function_NN I_PRP hoping_VBG use_NN ,_, pretty_RB worthless_NN ._.

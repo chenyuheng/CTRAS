@@ -1,0 +1,5 @@
+I_PRP 'm_VBP done_VBN ._.
+Uploading_VBG images_NNS gotten_VBP progressively_RB worse_JJR I_PRP ca_MD n't_RB upload_VB ._.
+All_DT image_NN uploads_JJ fail_NN ._.
+The_DT mobile_JJ app_NN great_JJ quick_JJ posts_NNS updates_NNS like_IN web_JJ version_NN seems_VBZ prioritized_JJ features_NNS UI_NNP functionality_NN stability_NN ._.
+I_PRP 'll_MD try_VB year_NN ._.

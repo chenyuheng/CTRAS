@@ -1,0 +1,5 @@
+I_PRP started_VBD using_VBG 2_CD years_NNS ago_RB ,_, good_JJ ._.
+With_IN recent_JJ updates_NNS quality_NN routes_NNS pedestrians_NNS declined_VBD sharply_RB ._.
+I_PRP recently_RB Manchester_NNP could_MD see_VB destination_NN 100m_CD street_NN ,_, yet_RB maps.me_VBN wanted_VBD walk_NN 250m_CD round_NN block_NN ._.
+It_PRP giving_VBG driving_VBG route_NN ,_, although_IN I_PRP checked_VBD ,_, set_VBN pedestrians_NNS ._.
+The_DT version_NN year_NN ago_RB better_RBR walking_NN ._.

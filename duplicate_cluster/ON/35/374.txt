@@ -1,0 +1,6 @@
+Just_RB UNINSTALLED_NNP ._.
+It_PRP used_VBD ok_PRP suddenly_RB kept_VBD AUTOMATICALLY_NNP DELETING_NNP map_NN files_NNS I_PRP downloaded_VBD ._.
+This_DT happen_JJ twice_RB many_JJ times_NNS ._.
+The_DT locations_NNS saved_VBD also_RB lost_VBN ._.
+Very_RB disappointing_JJ app_NN !_. !_.
+!_.

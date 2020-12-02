@@ -1,0 +1,531 @@
+['1']
+['2']
+['3']
+['4']
+['281', '350', '5']
+['6']
+['7']
+['8']
+['108', '357', '53', '9']
+['10']
+['11', '129', '162', '174', '200', '213', '282', '289', '292']
+['12']
+['13', '75']
+['14']
+['15']
+['16']
+['17']
+['18']
+['19', '318']
+['20']
+['21']
+['22']
+['23']
+['24']
+['25']
+['26']
+['27']
+['28']
+['29']
+['105', '180', '244', '253', '255', '30', '47', '61', '86', '87']
+['31']
+['32']
+['33']
+['34']
+['35']
+['36']
+['237', '308', '320', '340', '37', '81']
+['38']
+['39']
+['40']
+['41']
+['42']
+['43']
+['44']
+['45']
+['183', '257', '343', '46']
+['48']
+['49']
+['50']
+['51']
+['327', '52']
+['54']
+['55']
+['56']
+['57']
+['58']
+['59']
+['60']
+['62']
+['63']
+['64']
+['65']
+['66']
+['67']
+['68']
+['69']
+['70']
+['71']
+['72']
+['113', '73']
+['74']
+['76']
+['77']
+['78']
+['79']
+['80']
+['82']
+['159', '83']
+['84']
+['85']
+['88']
+['89']
+['90']
+['91']
+['92']
+['93']
+['94']
+['95']
+['96']
+['97']
+['98']
+['279', '99']
+['100']
+['101', '160']
+['102']
+['103']
+['104']
+['106']
+['107']
+['109', '169']
+['110']
+['111']
+['112']
+['114']
+['115']
+['116', '133', '148', '326']
+['117']
+['118']
+['119']
+['120']
+['121']
+['122']
+['123']
+['124']
+['125']
+['126', '233', '241', '261']
+['127']
+['128']
+['130']
+['131']
+['132']
+['134']
+['135']
+['136']
+['137']
+['138']
+['139']
+['140']
+['141']
+['142']
+['143']
+['144']
+['145']
+['146']
+['147', '315']
+['149']
+['150']
+['151']
+['152']
+['153']
+['154']
+['155']
+['156']
+['157']
+['158']
+['161']
+['163']
+['164', '184', '248', '310']
+['165']
+['166']
+['167']
+['168']
+['170', '231']
+['171', '199', '371']
+['172']
+['173', '177']
+['175']
+['176', '265']
+['178']
+['179']
+['181']
+['182']
+['185']
+['186']
+['187']
+['188']
+['189']
+['190']
+['191']
+['192']
+['193']
+['194', '209']
+['195']
+['196']
+['197']
+['198']
+['201']
+['202']
+['203']
+['204']
+['205']
+['206']
+['207']
+['208']
+['210']
+['211']
+['212']
+['214']
+['215']
+['216']
+['217']
+['218']
+['219']
+['220']
+['221']
+['222']
+['223']
+['224']
+['225']
+['226', '312']
+['227']
+['228']
+['229']
+['230']
+['232']
+['234']
+['235']
+['236']
+['238']
+['239']
+['240']
+['242']
+['243']
+['245']
+['246']
+['247']
+['249']
+['250']
+['251']
+['252']
+['254']
+['256']
+['258']
+['259']
+['260']
+['262']
+['263']
+['264']
+['266']
+['267']
+['268']
+['269']
+['270']
+['271']
+['272']
+['273']
+['274']
+['275']
+['276']
+['277']
+['278']
+['280', '333']
+['283']
+['284']
+['285']
+['286']
+['287']
+['288']
+['290']
+['291']
+['293']
+['294']
+['295']
+['296']
+['297']
+['298']
+['299']
+['304']
+['305']
+['306']
+['307']
+['309']
+['311']
+['313']
+['314']
+['316']
+['317']
+['319']
+['321']
+['322']
+['323']
+['324']
+['325']
+['328']
+['329']
+['330']
+['331']
+['332']
+['334']
+['335']
+['336']
+['337']
+['338']
+['339']
+['341']
+['342']
+['344']
+['345']
+['346']
+['347']
+['348']
+['349']
+['351']
+['352']
+['353']
+['354']
+['355']
+['356']
+['358']
+['359']
+['360']
+['361']
+['362']
+['363']
+['364']
+['365']
+['366']
+['367']
+['368']
+['369']
+['370']
+['372']
+['373']
+['374', '381']
+['375']
+['376']
+['377']
+['378']
+['379']
+['380']
+['382']
+['383']
+['384']
+['385']
+['386']
+['387']
+['388']
+['389']
+['390']
+['391']
+['392']
+['393']
+['394']
+['395']
+['396']
+['397']
+['398']
+['399']
+['400']
+A significant backward step Now there is no way to select which maps to update, nor is there any indication of download size (why not?). The option to download WITHOUT routing has disappeared. I do not require routing as I already have a sat nav. Fortunately I have not updated my phone, only my tablet. I will not be updating my phone to v6 as this is the device I use most. Until now this was a 5 star app (and I had the paid version before it became free). Hugely disappointed. ------------------UPDATE. Tried updating one small map (Guernsey 449kB) and found ALL my old maps had been deleted. The new style Guernsey map is 882kB. I have backups of my old maps, so not a problem to recover them.
+-----281
+Not able to download Tamil Nadu, India Map. I have been using the app now for many years and it was working fine. Now I'm not able to download/update Tamil Nadu, India Map and able to download other maps. I tried all possibilities (clear storage, uninstall & reinstall, restart of phone etc. and still failing. I don't have any VPN and also I'm very close to the WIFI so no problem with that as well. As TN, India is my birth state and it is bad that I'm not able to download the map giving 1 star
+-----350
+Problems, Problems, Problems! ------------ First when I installed the app & got some maps, they would disappear from the phone after each re-boot. So, I wrote to the developer. No reply after a month, I wrote back. No reply after two weeks. ------------- Next I uninstalled & re-installed the app (for the 12th time trying to fix the vanishing maps problem). Now the place in Settings to tell the app where to store the maps is gone. Gone! (The SD is 32 GB and has 31 GB free) I wrote the developer. After a week- no reply. ---------- Uninstall Warning: Each time I uninstalled the app., a large folder (Over 1 GB on mine) was left behind on the phone. One must use a file manager to delete it. --------- I Give Up (Which is too bad because this app is easy to use.) UPDATE- As shown below, the someone from the developer company posted suggestions. I had already tried (multiple times) what is suggested in the links the person posted. I also had already sent e-mails to the address shown. I will try one more time to contact them (because it looks like a fun & easy app). If no luck, I'll have to conclude that my phone and this app just won't play well together. UPDATE- Developer replied to this review and asked me for the name I used to contact them. I won't post my e-mail here. (That's not a comfortable thing to do.) I sent a new e-maill to them. I will update the review & star rating when (if) they reply & tell me how to make this application work.
+-----5
+============ end of one review of DDG, group_count: 1, total_review_count: 3
+Navigation is available only from your current location, you cant set another starting point for a route there is - NO route options for a route - like in google maps.  I found one app which has this and offline maps and for moment is free which i recommend after I have spent a afternoon with install and test of famous and good rated apps like Telnav, ex Skobler, Sygic, GPS Navigation from Bzing s.r.o. ex. Be-on road which miss basic function like the one mentioned before
+-----108
+Good but...... The idea is good. But it lacks dynamic routes. I mean I can't alter the route. Need more improvements. Like altering the routes. Locating my current spot on the map. And navigating from my current location. Option of travel is limited to car and walk. Why not public transport? I need continuous development. One plus to the app as it save data and I can use it despite my poor data connectivity.
+-----357
+Decent app. Tried out a few offline nav apps that use osm for data and this had the best looking map display for me. Clean and clear display during navigation a plus. Suggested nav routes were generally good, but did not care for the inability to ignore toll roads as well as to get more than one suggested route. The biggest shortcoming for me was that with just about all osm apps, the POI/address search are useless unless those items are entered in the osm database. A suggestion would be to have a online search function (like MapFactor's google search) to be able to find those items and be able to translate the info into an offline nav point. Another suggestion would be to improve the display functions during navigation, ie: speedometer/speeding warnings, lane assist, and fixed speed cameras. Needs improvements but a solid app overall.
+-----53
+I wanted to like this app. I'm looking for an alternative to google maps. The routing is actually ok, although the estimated timings don't take traffic conditions into account. The offline operation is good, but there isn't really an 'online' mode. If I currently have a good connection I want to be able to search a new area without having to download the section first. But what has killed it for me is that the search is useless. There us no UK postcode search, which is what I primarily use. Searching by street name sometimes works, but often comes up empty. Conversely when there are multiple matches adding extra location details (borough, etc) doesn't narrow the search effectively. As far as i can tell it treats each term entered separately and at some point if you haven't chosen one of the matches for your first term and keep typing it switches to searching on the second term, ignoring the first. I only managed to experience the navigation by finding places on Google maps, and then matching the street pattern and zooming to find them manually in this. I gather it works better in some countries than others, so I'll probably try it again sometime, but for now I'm giving up.
+-----9
+============ end of one review of DDG, group_count: 2, total_review_count: 7
+This app becomes more and more idiotic. Stats are badly organized, slow and do not give relevant data. Posting and editing tools are worthless. This last stupid update is enough for me. Uninstall. Edit: I used this app for stats, and implementing "Insights" was bad! Loading is slow and with the last update you cannot view individual posts. New Wordpress post editor in a browser lacks a lot options, in app even more: options missing concerning pictures, buttons for formatting hidden... 500 limit
+-----11
+App is good and some issues are there in allowing comment option in new posts. When we publish a new post, comment option for readers is always hidden. And delete option is too fast. No extra confirmation or any recovery folder for comments & posts available. It hates & really annoying. By mistakes we may delete comments or posts easily. Thats not fair. Wordpress team has to sort it out by a new update.
+-----129
+So, wordpress has been good, great even until now. My posts are not having the comment section even though the settings are adjusted to that. Then, when I delete a post, it only deletes on the site itself, on the app, it will keep showing. It's tiring really. Then again, the app starts hanging when I am creating a post.
+-----162
+Strips tags from posts. I loaded an unpublished post and used the app to publish it. Even though it shows the brackets and less than and greater than signs in the editor, when publishing it removes them all, revealing the code - including WordPress brackets with potential PHP data.
+-----174
+A friend told me he could only scroll back to mid 2017 on my blog using the app. I figured it was his phone so I installed the app. I couldn't scroll further back than mid 2017 either. So I asked another friend online, who I knew used the app, to check. He couldn't get past mid 2017 either.  This app isn't good enough if the visitor has to go to my website and using a browser, use the Archive widget on my blog.  If there is a setting that all 3 of us have overlooked, I'd be very glad to know what that is. Otherwise, I'll just recommend the regular Dot Com site using a browser  Update April 18 2018:  The developers got back to me and informed me that the app can only handle the latest 300 posts. So 300 posts and that is it. Since I write over 300 posts a year, well, that won't cut it for my followers.  The good thing, at least now I know why my friends couldn't browse my whole archive on the app.   I appreciate the team letting me know.
+-----200
+Great app with some awkward features This app is really good for writing posts on the go/ staying up to date with stats. To truly be a 5 star app, I think an upload bar should be added to posts/photos and videos that you're uploading. It's also awkward to upload a post once it's become a local draft. Edit: an upload progress bar is really necessary for the uploading of posts.
+-----213
+I wanted to use this app so I could work on my blog on my phone. It would be easier to create thoughts in the moment when the inspiration hits even if I edited it later. However this app sucks. It used to be a good one where I could do so but now even when editing a post it rewrites words or letters I am using even though I am pressing delete! This really needs to be edited for it to be a user friendly site. Many people use wordpress for their blogs or websites so to me its unacceptable for it to be this hard.
+-----282
+Latest update data hog Latest software update used my network data to automatically download updated maps. No warning. Can't find an option to only update maps via wifi. Default should always be to update via wifi with option to use network data. Result I went over my 2GB allowance and got dinged for overage. I am not impressed. App is good otherwise but this for me is a significant flaw. It's coming off my phone until it's fixed. Despite developer response, I just confirmed no warning message when download over mobile network.
+-----289
+This app used to work really well until the most recent update. Now when I'm writing a new post, it takes forever to catch up when whatever I'm writing runs on to another row so I have to carry on, hope for the best and go back and edit any mistakes when it's finally caught up. It's also almost impossible to start writing in a new block as the new block just doesn't appear. It's taking me twice as long to write anything now and is twice as difficult to use.
+-----292
+============ end of one review of DDG, group_count: 3, total_review_count: 16
+Inferior in every possible way to using the online editor. This app doesn't allow you to link to your own earlier posts, crashes often, can sometimes delet your whole draft even unsave a previously update and saved page, and has issues previewing images. It also cannot pull the most recent version of you updates which you created with the web editor. Woe be unto you if you mak long pots, because after a certain size copy/paste stop working and the editor gets so slow you have to wait for the displayed text to catch up to you. What it does do well is present your stats page, manage the site permissions and let you get a rough draft started. Though it has so many problems I'm just using the MS Office apps for my rough drafts and then copy/pasting into the web interface. I'll probably uninstall this soon because it is basically horrible.
+-----13
+Hated it! This used to be a really nice app until I got the latest update. It's slow, loads very few posts on the reader and when it hangs while I'm using it, other people can't access my site! I simply hate and I advice you not to update your app if your still using the old version.  . . Oh, and another thing, you can't view all your followers and the stats area is just complicated and useless. They have also removed the widgets area
+-----75
+============ end of one review of DDG, group_count: 4, total_review_count: 18
+I want to give it more stars because the site layout is nice and efficient, but editing posts is awful. The lag is absolutely unbearable. Trying to add a couple of characters takes 5-10 seconds to show up on screen. I've written part of a sentence and it's taken 30+ seconds to post them. Deleting them is even worse! I'm not even a fast typer on the text keyboard. It would be faster to handwrite everything at this point. Stick to the browser version for editing if this is why you want the app.
+-----19
+In theory, this app could be wonderfully useful for bloggers on the go. The design, layout, and features provide everything I could want and need. Unfortunately, the reliability of the app falls short. I run into problems almost every time I use it. The whole app will freeze and crash any time I try to add more than a few pictures to a post, and what should take fifteen minutes ends up taking two hours. It is unbelievably frustrating. Editing on a mobile web browser is even worse, though.
+-----318
+============ end of one review of DDG, group_count: 5, total_review_count: 20
+This latest version changed my default map location from SD card to main memory, then told me I didn't have enough memory to update my maps, although this version only updates changes. I then had to download my maps again after changing the location, as it STILL doesn't recognise that I already have downloaded maps!  Just to add that I have used maps from my sdcard correctly for a few years now!  This rating only applies to the latest version which screwed up my configuration. This forced me to re download maps that are already on my sdcard, as even after changing the location back to the sdcard, the app still didn't check for the existent of valid maps in the selected location.
+-----105
+Maps are stored on internal memory by default. Even when app itself is moved to SD. There is no option in settings to change the location of maps to SD card.     App has to be open all the time during maps download. If you move to other app download stops and has to be started from the very beginning.  Maps are not downloaded in background. Leaving screen with download progress shown resets download from say 50 % to 0%, meaning you cannot use your phone during maps downloading process untill it completely finished.
+-----180
+Very nice detailed map program. Today I used it for routing, I would not recommend this app for route planning. Some tips: If you know youre global route download the maps for routing. Second: while driving the application is very keen on directing you to a motorway. Once decided which motorway to us, the app is willing to direct you a few miles in the wrong direction instead of choosing the shortest/fasted link. Also I noticed that is does direct you to closed roads (andosm use the same maps not having this problem). Last: In the options I noted that I do not want to use an internet connection, why is a popup occuring when I am driving stationg that I do not have Internet enabled?
+-----244
+The app is amazing, maps are amazing, just been to Venice and was really happy with it. There's only one problem. The GPS doesn't show you your exact location, it shows you a location in a 300 meter radius from where u actually standing. If you can fix that, I'll give 5 stars
+-----253
+"Best App of 2014"? I'd sure hate to see the worst! I'm guessing the reviewers who rated it #1 tested it exclusively in one state because this GPS app can't even cross map boundaries. If you want to go from Burbank to Las Vegas, you'll have to set up the California portion, then a separate Nevada portion. Unbelievable. Selecting a destination is an awkward process that involves manipulating the map. Sheesh! The best Android GPS I've found so far is "MapFactor GPS Navigation", which provides a variety of ways (such as Google Search) to quickly select any number of waypoints and destinations, plus traveling between states is not a problem.
+-----255
+Too many bugs Ecoing another user, the maps themselves are nice after they finally download. Love that I can view them offline and save data usage. Not much else appeals to me. The search results are odd and difficult to interpret. Voice commands never seem to work. Once address is inputed, the route doesn't appear. You sit there showing current location only. I can't get miles to work as the setting defaults back to kilometers every time. Fix the bugs, I love this app. As it is, it's only good for offline map viewing.
+-----30
+Downloaded this app to use on a trip. It clearly said I had the offline map downloaded yet when I entered in the exact address or a category.. It said zero results found even though I knew the address was within my downloaded map. Poor experience. I reconnected with at a McDonald's and only then did the address show up. If this app requires you to have data then google maps is better.
+-----47
+As other reviewers have mentioned, you can't search by address. For example, if your want directions to 12335 Fake St, the app will refuse. It will only let you plot a route to Fake St. If Fake St is more than a few blocks long, that's a huge problem. Also, you can't even search for an address until you download that region's maps. If you want to drive from NYC to LA, you have to download every map along the way before you go. Problem is, most maps are named after smaller towns, not big cities.
+-----61
+Can't change Offline Map Location (Phone Memory to Sd Card)  How can I move maps to SD? (for Android devices)     If you want to store downloaded maps on SD, you should move them directly from the app �?open app’s settings > Map > Maps storage > select SD card. If you don’t see Maps storage tab in app’s settings, turn off the device, take out SD card and put it back again, turn on the device. If you moved the app itself to SD, move it back to the device storage.
+-----86
+this app is an absolute rubbish. the new update is real catastrophe. the settings go back to default each time and the app loses the address for map storage files which results in asking to download the map data again. i had bookmarked the location of my hotel but then when i was in Spain it failed show me even the downloaded maps. just rubbish.
+-----87
+============ end of one review of DDG, group_count: 6, total_review_count: 30
+All of a sudden this app has turned rubbish. It was good a couple of years ago and I used to recommend it but tonight it has issues : 1) cannot locate me using wifi, phone signal, GPS...it states that I must be in a building. Google maps locate and finds a gps in this same location. 2) does not find Danang, Vietnam...it just lists a load of places in China So it's now proven to be unreliable when I most need it. Time to uninstall and stop recommending.
+-----237
+Needs better support on yotaphone UPDATED 2 STARS REVIEW: After using this app for a few weeks on my old phone , I bought a new yotaphone 1 solely because of the native support of this app for the e ink display. I was hoping to use the e ink display as an energy saving GPS navigator. However I was soon saddened to find out that routing is not supported on the back display, and the maps that do display on the back do not automatically update to the current location.
+-----308
+It has trails in national forests and parks, too. One thing to remember before wandering somewhere new, download maps of the place, while you have wifi or cellular data. I have more than once seen a disturbing divergence between voice guidance and the blue line marking my route. Follow the blue line. The lady is a tramp. If you're a cyclist, you might not want to use this app. The route it suggested from my house to Portland,Ore would have me riding on a busy highway when plenty of country roads would have been a better experience. Google Maps is better.
+-----320
+Excruciatingly annoying Impossible to search without app insisting on downloading more maps. Deleting. Even after downloading a bunch of maps the app doesn't allow route planning. Just the boring freeways. Might as well use Waze or Google Maps. The search goes on.
+-----340
+Love it with a few hicups Good app but has a few issues... 1: When updating the app I loose all my downloaded maps, why not have the app download them for me or perform an update on them. 2: After an update I loose my customised locations. 3: I want to be able to find my destination using coordinates not just names of places... 4. It seems to give prescidence to highways even if they a longer route, this isnt a good algorithm... Otherwise its a good app... I love it and use it daily.
+-----37
+Disappointing The big plus is the offline use of maps and the maps that look good. On the downside: we disagree on the fastest route. On first use it misses a connection to a highway and suggesting a longer route. Then the app even tries to send me back three times unnecessary, making the journey even longer. Vocal directions are ambiguous compared to my regular Garmin nav and compared to Google. Maybe it's just the dutch language. At times the GPS update seems out of sync with the actual location. Good as a backup nav.
+-----81
+============ end of one review of DDG, group_count: 7, total_review_count: 36
+Surprisingly bad I didn't expect this app to be so buggy and crash-prone. It syncs and updates posts only when it wants. It almost has an (evil) mind of its own and its main purpose seems to be to annoy. If you dare to edit a post with the site admin, use unordered lists or bold and then upload it on the app, the tags appear in clear form (that is, using angle brackets). Waste of time. Fits into the new trend of beautifully designed garbage apps.
+-----183
+Trying to start a new blog and it's pretty frustrating. My images wont upload, my blog post I typed up wont upload and I'm just confused and feeling defeated. Not easy to use this app at all. I may as well just create a new site from scratch.
+-----257
+The app kept crashing after I uploaded a draft with pictures. It wouldn't load every time I tried to edit a draft that contained pictures (it works for drafts that are all text). Even when I restart the app, it will crash whenever I tried to edit posts. Since I use the app to upload pictures easily, this app is now useless compared to the browser which can do the same things without crashing.
+-----343
+I like the app and it works well for me to set things up . I have published an about me section and a blog post. It shows up on my end but when I try to view it externally it just says that a new wordpress site is coming. I just wish that when it's published on my end that it also publishes online. Now I have to figure out how to get my blog online so others can view it too.
+-----46
+============ end of one review of DDG, group_count: 8, total_review_count: 40
+Good . . . But . . . Update Needs more work. The app also fails to load all followed posts. Unless you open it every few hours you can look forward to missing some of the posts that you would have liked to have seen. I loaded my Reader in the app, and compared it with the browser version. In 12 hours I lost 50 posts. So. Useless if you only check once daily. Also needs better text formatting control.
+-----327
+ZERO WYSIWYG If you enjoy squinting at your screen while writing in order to distinguish you article's text from HTML code, then you'll love this app. I must ask: If Evernote & every other goofy little writing app can display bullets, bold, italic, & other formatting as I am writing, why can't this tool for professional writers do the same? I enjoy the WordPress writing experience on my PC/browser because I can engage the content & the formatting directly, organically, while I'm creating. The only time I must face HTML is for the occasional media embed, etc. But with this app the HTML codes are scattered throughout the article & act like irritating little jolts from speed bumps as the appear in the paragraph I'm working on. So it's impossible to get into a state of "flow! " C'mon, developers, you can do better than this. I would gladly pay for a WYSIWYG WordPress writing tool. Until then, it's back to my PC for writing & editing my blog posts.
+-----52
+============ end of one review of DDG, group_count: 9, total_review_count: 42
+The app regularly crashes as I type. It freezes and grinds to a crawl just as often. The app fails to recognize letters as I type them and it deletes spaces after words. A solution is to work in html mode. It appears that these bugs are only an issue when you have images display while editing a post. The more images, the worse the problem. It seems unbelievable that WordPress, with its QA resources, can't fix these issues.
+-----113
+Formatting is lost each time I exit post view after editing. Upon returning  to the post it appears as one solid block of text with all styling removed.  Issues with Grammarly's inline word correction appearing as a question mark  icon in the WordPress Mobile post editor. Update: The formatting problem  occurs when using the Gutenberg editor on a computer then editing the same  post on mobile. It seems the content blocks don't translate well to the  mobile editor
+-----73
+============ end of one review of DDG, group_count: 10, total_review_count: 44
+Worst example of optimization for android even Call of duty mobile doesn't lags or crashes like this. When I am editing a post, the app automatically uploads it while I am editing. No I haven't kept the post as scheduled post. The block editor is worse than pubg mobile's rolling mechanism after landing. The selected text gets bolded or italics after 20 second of pressing the bold button. It nearly takes 20 mins to write a post, but it takes 2 hrs to edit a single paragraph. F1RECHARGE Gaming.
+-----159
+Lacking options When adding an image to a post I cant set alt text or remove the link off the pic... this app is pathetic. It has so much potential yet too little effort has been made :( can't even view the html editor to remove the link and change alt text. This forces me to use the full site which has a very poor mobile interface... To the guy bellow defending this app: I am so sorry your site is so basic and your SEO so poor that this app is acceptable by your apparently low standards.
+-----83
+============ end of one review of DDG, group_count: 11, total_review_count: 46
+Great if this will be fixed. The app doesn't seem check whether if an image or featured image attached into the post is already uploaded to the media library. Everytime I updated a post or draft, let's say 3 times all images will also be uploaded 3 times. Sometimes the app says media upload error and if I try to update it back now found several duplicates of all the attached images. The set featured image also isn't working and rather insert the image into the post.
+-----279
+App stops working on my android head unit (px5) after the latest update. The app is not opening on my andorid head unit (px5 MODEL). It just showing black screen. I already tried to unsinstall and reinstalled it but still the same. I also clear cache and clear data but it did not help. It is not loading only black screen when I try to open. After that it shows error to send report to developers.
+-----99
+============ end of one review of DDG, group_count: 12, total_review_count: 48
+I installed this app in the hope of avoiding google maps. In favour: map quality is excellent. Bookmarking places isn't very intuitive, but the real failure is lack of routing understanding. In the UK an app like this should have settings that create *sensible* route choices; nothing I found stopped it trying to send me from Wiltshire to Kent via central London. On paper the route looks ok; in the real world it involves a congestion charge and would take forever (subjectively). More work needed.
+-----101
+need the full route I thought an offline map would allow me to see a whole route plan, and leave me alone about my location settings. I appreciate the tremendous work represnted by this app. It just seems like a betrayal to be forced to use navigation. I want to reduce the amount of spying in my life, not add to it.
+-----160
+============ end of one review of DDG, group_count: 13, total_review_count: 50
+Good but missing Custom Post Type support. I add CPTs into most of my sites and only being able to update blog entries is very limiting. Image handling is a bit buggy. Really good when fixing typos or creating quick posts. The earlier versions of this app were way more functional.
+-----109
+Doesn't post a new blog if I clear the 'uploading...' notification The new blog posting process is somehow interrupted and doesn't finish completely if I clear the 'uploading...' notification.  As a user I would assume that such a process should continue in the background.  Next, if I open the app again, it doesn't show any indication of the ongoing process which doesn't give me any kind of update (of whether the new blog got completely/half way uploaded/or cancelled).  To check this, if I manually click the 'refresh' icon on top-right corner, it gives a warning message which is really doesn't help the user what his/her action should be.
+-----169
+============ end of one review of DDG, group_count: 14, total_review_count: 52
+Could have been better Purchase the Pro version because sometimes internet/Google Maps is not always accessible. The maps looks good at first glance, especially it has street number in the map. The most unbearable problem so far is the poor searching function: tried to find a certain address but the map can not actively find the exact location and re-center the map to the target location. Moreover, it seems that the app does not recognize the address at all and do nothing. If you can not even search an address then this maps in a sense is crippled. My cell phone is LG G3, Android 4.4.2, had already loaded with the maps used for address searching.
+-----116
+Good for offline maps but needs some improvement Search function could be improved, for example pick up foreign letter variations with English letters (e.g. searching "mom" should pick up "möm"), search in general isn't as "smart" as Google maps (if I'm looking for "cat" it will list "catfish" "catfishtail" etc and be hard to find "cat", bus/train stations should show up first in searches, etc) which always finds what I'm looking for and has English names of places. And please stop asking me to turn on location services.
+-----133
+Good app but terrible at finding streets. I live in Mexico city and every time I write the name of a street, it appears more than 20 streets with that name because it searches even in other states. I uninstalled most of the country maps and left only my city but the results from other states continue to appear. So, to click the correct street is a pain. It should search only in the city you are at. If it had google's map search engine like, this would be definitely the best offline app for maps.  And it is not possible to add a city name with the street you are searching. As soon as you start typing more letters all the results disappear and a weeping dog appear saying "no results".  And also if I am using an app like this is because I don't know where the street I want to go is. Even if I move the map or zoom in or out, I am lost trying to figure it out where the direction I want is.
+-----148
+Only good if you know the place you are going to. Offline maps work only in the way that it gives a map for around your location while offline. If you need to find a particular street number forget it, best it can do is tell you the cnr of x and y. For roads that are 20-30km long it is worthless for navigating to a particular street address. I have to whip out google maps to get that last 1km or so. The addresses work best when you put them in backwards, even when you select the search on map option in search. It's just a mess. I really wanted to like this app. I wanted to love it.
+-----326
+============ end of one review of DDG, group_count: 15, total_review_count: 56
+It used to be a good simple app. But I switched to Offline Maps &  Navigation. Because it works much more smoothly and does not have those  unnecessary nearby features etc. and focuse on navigation. Most  importantly, it can start 3D view by default. So I am not stuck with an  ugly 2D view when not navigating. When I asked MAPS.ME to allow 3D without  route, they told me it would make the app complicated for users. Then they  added a pile of useless features. I think MAPS.ME doesn't really understand  their users.
+-----126
+Good but... It is a very good app works smoothely, but lately moves my maps (in sd card) to internal memory (pretty tight in my galaxy S4) despite I indicate route to maps is sd. Once the maps are in internal memory there's no option in settings to tell app maps are in sd. Maps storage option dissappeared from setup menu... I guess this is a bug...                                                               Thanks for your reply,  it happened again,  I'll send you an email
+-----233
+Plenty of incorrect information, very lacking entries (it has a million hotels but none of the grocery stores), no way to report incorrect places in app, very meandering unoptimal walking suggestions and flat out incorrect public transport suggestions. It only gives you one route you cannot edit so if that bus or metro is out of commission good luck figuring out an alternative because maps.me won't help you. Edit: it is possible to add new info but not possible to report incorrect info.
+-----241
+Resets my phone frequently. Also, it has start-up (start after boot) permissions ? Why? It slows my phone.  There are two reasons to uninstall such kind application. Offline maps and navigation pretty good, but not enough. People, look at PERMISSIONS in App Manager and pay attention, firstly, when you install some new one: Google Play lists all.
+-----261
+============ end of one review of DDG, group_count: 16, total_review_count: 60
+It used to be good and still is for basics but: 1) offline navigation instruction completely wrong. The voice says to go straight but instead you need to exit the motorway on the right. 2) rerouting takes too long time most of the times. The navigator keeps on following the route it expected despite the road I took is wrong (for the above mentioned reason). 3) expected time of arrival... the calculator is really negative at the beginning but optimistic after a few km... if I plan a 200km road, the first time indication is about 4hrs (or anyway higher than any reasonably possible time). After 100 or 120km, despite I'm still missing 80km road, the expected time of arrival drops to 1 minute.  Driving with your app has become hard!
+-----147
+I stopped counting the amount of app crashes, the forced detours and missed turnoffs due to the poor setup of this app. You should .never. ever rely on it, but .always. have to verify the routing, else you suddenly end up on a road running parallel to the highway, instead of on it. How often did the app not detect my location and claimed me to be in a building or tunnel?... The one and only reason I still have it installed is that it has been the first running offline... call me sentimental.
+-----315
+============ end of one review of DDG, group_count: 17, total_review_count: 62
+It's fine. It seems unfinished sometimes. The lack of street names in the voice navigation makes it hard to use for navigation unless you have someone with you to be the navigator and tell you what the app is showing. The lack of street names also makes it unusable for navigation on my motorcycle where I depend solely on the voice prompts. To clarify, the streets were named in the app, and they even flashed across the top of the screen, they just weren't spoken in the voice prompts.
+-----164
+The OSM based app anyone can use search for smaller towns and villagesl (names that also appear as street names) isn't possible as the street come first. Can't change map layers eg cycle view. Can't change colours eg in UK motorways should be blue. Long distance drive directions prefer A to (faster) M roads.
+-----184
+Using an LG G3 (with a custom Nougat rom; CRDroid) and I'm getting just black where the map should be. It seems to be interactable (I can tap on invisible things in the darkness and get interaction with buildings).  The traffic toggle and zoom buttons etc are visible. The compass direction shows if I search for a place. I just can't see anything on the actual map view itself.  Is there anything I can try to fix this?
+-----248
+Cant enter street address numbers. The street I live on is literally listed in the wrong town. It shows up on the map properly in the correct place, but you have to enter the neighboring town to find it. 100% failure on the first search i ever tried.
+-----310
+============ end of one review of DDG, group_count: 18, total_review_count: 66
+Often adds random styles such as font sizes in the text resulting in an inconsistent look. You then have to go into the source mode and remove it. That is frustrating and time I wouldn't want to be wasting. Generally the app is good and allows you to check stats, make tweaks to existing posts, create and publish new posts etc, so if they fixed the styling issues and GUI for text editing then it would probably get 5 stars.
+-----170
+Make new posts but... ...just don't try to edit existing ones. App will embed format code into the text and render it garbage. You'll have to go in through WordPress and spend a lot of time deleting out all the crap. Fix THAT, WP and I'll give you 5 stars. Until then, I wont use the app.
+-----231
+============ end of one review of DDG, group_count: 19, total_review_count: 68
+Doesn't upload and deletes posts It will upload small posts with no pictures in them, but as soon as I attempt to upload a longer post with photos it starts a never ending upload which never actually finishes. Then when you go back into the app to see what is going on it deletes the post you were trying to upload and you are left with only the title and the knowledge that you have entirely wasted your time and need to write the whole thing and locate all the media files again. Totally frustrating. It worked fine on iOS.
+-----171
+Worst blog app It works most of the time, but it likes to mysteriously delete parts of a post or a whole post when publishing. I spend an hour while traveling only to have my posts constantly deleted when I'm trying to write or edit them. STAY AWAY FROM WORDPRESS IF YOU NEED TO USE YOUR PHONE FOR A BLOG...THE SITE DOESN'T WORK WELL FOR UPLOADING PHOTOS AND THE APP CONSTANTLY TRIES AND EVENTUALLY SUCCEEDS AT DELETING YOUR POSTS AND PHOTOS...STAY AWAY...FIND A DIFFERENT BLOG VENUE!!!!
+-----199
+Terrible. Keeps coming up with couldnt sink doesnt show me any of my blogs. cant go on setting cant post nothing the only thing that works is view my site. It worked the first day i downloaded the app then i did some work to my site put some posts on etc and after that the app just went terribly wrong. whoever runs this app seriously need to fix it coz its just a joke. if i want to blog when im out and dont have a laptop with me i cant coz this app dont work. Sort this App out now!!!
+-----371
+============ end of one review of DDG, group_count: 20, total_review_count: 71
+Lacks Control First feature I checked out was New Post. Where are all my extra fields? I don't post a new item unless I can include special fields, include seo details and complete other plugin details. For me this app is only useful for comment moderation. Disappointing.
+-----173
+This app is very very limited in what it can do, compared to the site. Shame, considering users do most social media, photography and videography from mobile devices. There is no ability to link to other pages on the site when creating a new post, aside from manually entering the URL. Feature request: Bring up a list of links to choose from on our own site when tapping the link option.
+-----177
+============ end of one review of DDG, group_count: 21, total_review_count: 73
+Really great and helpful app, I'll recommend it for anyone. I also love that it saves work automatically even if you phone shutsdown. But sometimes it gets a little annoying when you type and are all ready to post, then it publishes a previous version of your saved work - and not the latest one. But I really enjoy using it and navigating. Thank you for making my work easy, I no write from the train, the bus, I don't have to carry a laptop around everytime
+-----176
+This asp is awesome. Just used it in Asia for the first time and it was a great help. I love the fact you have all the shops, ATMs, etc. offline. But it really has issues with GPS. At first I thought it was my phone but it happens on multiple devices. Sky is clear and it searches for ever to get location. One way around it is to force close the app and reopen it but even that doesn't work sometimes. I really would give this a 5 star rating if solved in future updates. Keep up the good work
+-----265
+============ end of one review of DDG, group_count: 22, total_review_count: 75
+It's good but..... It's good but some more improvements required such as edit post quickly...... I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----194
+It's good but..... It's good but some more improvements required such as edit post quickly...... I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----209
+============ end of one review of DDG, group_count: 23, total_review_count: 77
+I need to reset app's cash each time i need to define my current location. Otherwise it shows last one it remember. BTW even after cash reset it did not navigate me by the route - the arrow just stack in the beginning of the route and that's it. Almost useless when travelling, but offline maps helps
+-----226
+Useless application, waste of money. This is useless application and waste of money. Never worked . I have Sony Xperia, Android version 4.4.2. Downloaded maps OK, but never was able to locate my device, shows only one location whatever I do, I travel to Germany and it shows me still in London!  Travel in London and rebooted device and the app multiple time, still shows the same place where I installed first time.
+-----312
+============ end of one review of DDG, group_count: 24, total_review_count: 79
+Downloaded as it is supposed to support offline walking directions but it is rubbish. slow to load and the search can't find a metro station as a starting point to walk from, not that was a big deal as it couldn't find the destination so I guess a starting point is irrelevant. deleted I'll go back ti Google maps and use them offline even thoughbit doesn't give walking directions but at least Maps can find the start and end
+-----280
+I don't understand this app does not work at all offline... What's the point? On my Android headset every search or navigation attempt fails to find any results after downloading the whole city which took hours.   even for a city like San Francisco can't find anything unless it's connected to the internet - so why not just use Google Maps?
+-----333
+============ end of one review of DDG, group_count: 25, total_review_count: 81
+Overall the functionality seems good however there's no sharing section in the Android app like in iOS. I have to go to mobile web to update. That's kind of pointless. I don't want to write in to development inside the app! Forward this to them geez.... That's not what I'm talking about and it's not in the app! Not sharing.... Posting it Twitter LinkedIn with checkbox and default if title. Still not functioning. Add this
+-----374
+Love it but where's my schedule? Update: I still do not have web and app showing the same schedule.               I set up my schedule already online but when I log in to the app it doesn't show any of my selections.
+-----381
+============ end of one review of DDG, group_count: 26, total_review_count: 83

@@ -1,0 +1,3 @@
+Needs_NNP bug_NN fixes_NNS Please_NNP add_VB reminder_JJR feature_JJ daily_JJ lists_NNS also_RB notifications_VBP quest_JJS invitations_NNS ,_, messages_NNS etc_VBP ._.
+The_DT app_NN also_RB freezes_VBZ many_JJ times_NNS !_.
+Please_NNP fix_VB give_JJ 5_CD stars_NNS ._.

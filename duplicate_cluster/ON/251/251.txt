@@ -1,0 +1,6 @@
+It_PRP takes_VBZ long_RB fun_JJ ,_, sets_JJ failure_NN ._.
+At_IN start_NN asked_VBD create_VBP small_JJ #_# tasks_NNS ._.
+However_RB ,_, number_NN tasks_NNS directly_RB related_VBN fast_RB level_NN ._.
+And_CC tasks_NNS means_VBZ takes_VBZ LONG_NNP time_NN get_VB level_JJ 10_CD finally_RB get_VB pick_JJ class_NN ._.
+However_RB ,_, could_MD level_VB faster_RBR add_JJ tasks_NNS ,_, ready_JJ set_VBN fail_NN ._.
+This_DT discouraged_VBD ,_, goals_NNS lower_JJR levels_NNS ._.

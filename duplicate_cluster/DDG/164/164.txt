@@ -1,5 +1,0 @@
-It_PRP 's_VBZ fine_JJ ._.
-It_PRP seems_VBZ unfinished_JJ sometimes_RB ._.
-The_DT lack_NN street_NN names_NNS voice_JJ navigation_NN makes_VBZ hard_JJ use_NN navigation_NN unless_IN someone_NN navigator_NN tell_VBP app_IN showing_NN ._.
-The_DT lack_NN street_NN names_NNS also_RB makes_VBZ unusable_JJ navigation_JJ motorcycle_NN I_PRP depend_VBP solely_RB voice_JJ prompts_NNS ._.
-To_TO clarify_VB ,_, streets_NNS named_VBD app_NN ,_, even_RB flashed_VBN across_IN top_JJ screen_NN ,_, n't_RB spoken_JJ voice_NN prompts_NNS ._.

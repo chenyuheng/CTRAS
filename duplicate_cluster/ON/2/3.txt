@@ -1,0 +1,8 @@
+Idea_NNP great_JJ I_PRP love_VBP using_VBG app_NN ,_, parts_NNS need_VBP refining_NN ._.
+Sorting_VBG items_NNS (_( ToDos_NNP ,_, Dailies_NNP ,_, etc_NN )_) app_VBP n't_RB persist_VB ,_, website_NN ._.
+There_EX widget_VB Habits_NNP Dailies_NNP ,_, ToDos_NNP ,_, I_PRP ToDos_VBP list_JJ people_NNS would_MD best_VB like_IN see_NN made_VBN widget_NN ._.
+There_EX clean_JJ way_NN take_VB back_RP button_NN press_NN (_( If_IN accidentaly_VBN pressed_VBN +_VBP n't_RB mean_VB options_NNS leave_VB even_RB though_IN n't_RB earn_VB rewards_NNS edit_VB task_NN include_VBP minus_CC option_NN take_VBP HP_NNP hit_NN )_) ._.
+Would_MD nice_RB could_MD automatically_RB sort_VB Due_NNP Date_NNP ascending_NN ._.
+Creating_VBG Daily_NNP setting_VBG days_NNS ,_, editing_VBG removing_VBG current_JJ day_NN still_RB leaves_VBZ Daily_NNP Active_NNP (_( Same_NNP reverse_NN first_RB created_VBD enabled_VBN day_NN week_NN ,_, editing_VBG enabling_NN ,_, remains_VBZ disabled_JJ )_) ._.
+Etc_NNP ,_, My_NNP point_NN idea_NN amazing_NN ,_, huge_JJ community_NN behind_IN great_JJ ,_, I_PRP personally_RB love_VBP app_NN ._.
+But_CC lacks_VBZ polish_JJ around_IN edges_NNS bugs_NNS could_MD fixed_VBN ._.

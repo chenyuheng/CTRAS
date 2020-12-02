@@ -1,0 +1,6 @@
+The_DT app_JJ gets_VBZ worse_JJR worse_JJR release_NN ._.
+It_PRP used_VBD much_RB better_JJR terms_NNS responsiveness_JJ usability_NN ._.
+Probably_RB worst_JJS part_NN slow_VB search_NN functionality_NN become_NN ._.
+Even_RB simple_JJ search_NN takes_VBZ like_IN half_DT minute_NN (_( iOS_JJ version_NN suffers_NNS problem_NN )_) ._.
+Even_RB worse_JJR :_: incredible_JJ delay_NN ,_, even_RB guarantied_VBD found_VBN POI_NNP sorted_VBD properly_RB :_: many_JJ cases_NNS would_MD n't_RB find_VB closest_JJS one_CD ,_, example_NN ._.
+Of_IN course_NN great_JJ stuff_NN ,_, like_IN ability_NN download_NN regions_NNS separately_RB ,_, search_NN functionality_NN something_NN deal_JJ daily_JJ ,_, recently_RB very-very_JJ lame_NN ._.

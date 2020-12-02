@@ -1,4 +1,0 @@
-I_PRP need_VBP reset_VB app_NN 's_POS cash_NN time_NN need_VBP define_VB current_JJ location_NN ._.
-Otherwise_RB shows_VBZ last_JJ one_CD remember_NN ._.
-BTW_NNP even_RB cash_NN reset_NN navigate_JJ route_NN -_: arrow_NN stack_NN beginning_VBG route_NN 's_POS ._.
-Almost_RB useless_JJ travelling_NN ,_, offline_JJ maps_NNS helps_NNS

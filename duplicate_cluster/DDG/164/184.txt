@@ -1,4 +1,0 @@
-The_DT OSM_NNP based_VBN app_RB anyone_NN use_NN search_NN smaller_JJR towns_NNS villagesl_VBP (_( names_NNS also_RB appear_VBP street_NN names_NNS )_) n't_RB possible_JJ street_NN come_VBD first_RB ._.
-Ca_NNP n't_RB change_VB map_JJ layers_NNS eg_VBP cycle_NN view_NN ._.
-Ca_NNP n't_RB change_VB colours_NNS eg_VB UK_NNP motorways_NNS blue_NN ._.
-Long_JJ distance_NN drive_NN directions_NNS prefer_VBP A_DT (_( faster_RBR )_) M_NNP roads_NNS ._.

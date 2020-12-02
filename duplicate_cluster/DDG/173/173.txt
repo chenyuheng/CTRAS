@@ -1,5 +1,0 @@
-Lacks_NNS Control_NNP First_NNP feature_NN I_PRP checked_VBD New_NNP Post_NNP ._.
-Where_WRB extra_JJ fields_NNS ?_.
-I_PRP n't_RB post_VBD new_JJ item_NN unless_IN I_PRP include_VBP special_JJ fields_NNS ,_, include_VBP seo_JJ details_NNS complete_JJ plugin_NN details_NNS ._.
-For_IN app_JJ useful_JJ comment_NN moderation_NN ._.
-Disappointing_NNP ._.

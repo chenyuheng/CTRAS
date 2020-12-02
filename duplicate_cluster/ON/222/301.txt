@@ -1,0 +1,5 @@
+So_RB ,_, wordpress_NN good_JJ ,_, great_JJ even_RB ._.
+My_PRP$ posts_NNS comment_VBP section_NN even_RB though_IN settings_NNS adjusted_VBN ._.
+Then_RB ,_, I_PRP delete_VBP post_RB ,_, deletes_VBZ site_NN ,_, app_NN ,_, keep_VB showing_NN ._.
+It_PRP 's_VBZ tiring_VBG really_RB ._.
+Then_RB ,_, app_NN starts_VBZ hanging_VBG I_PRP creating_VBG post_NN ._.

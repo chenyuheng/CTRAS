@@ -1,0 +1,3 @@
+It_PRP 's_VBZ functional_JJ app_NN wo_MD n't_RB let_VB add_VB habits_NNS ,_, dailies_NNS ,_, to-dos_JJ ,_, rewards_NNS ._.
+Pressing_VBG save_JJ button_NN making_VBG one_CD apparently_RB nothing_NN ,_, whatever_WDT I_PRP made_VBP n't_RB actually_RB show_VB menu_NN ._.
+The_DT browser_NN based_VBN version_NN n't_RB either_RB ,_, least_JJS I_PRP add_VBP things_NNS browser_NN !_.

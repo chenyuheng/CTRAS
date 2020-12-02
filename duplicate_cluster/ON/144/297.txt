@@ -1,0 +1,4 @@
+This_DT app_JJ screews_VBZ everything_NN already_RB made_VBN ._.
+If_IN used/or_JJ using_VBG web_JJ part_NN wordpress_NN combines_NNS app_VBP ..._: screews_VBZ everything_NN ._.
+Ex_NNP ;_: set_VBN NO_NNP IMAGE_NNP BORDER_NNP images_NNS ,_, edit_NN post_NN app_NN ,_, adds_VBZ borders_NNS img_NN ._.
+If_IN set_VBN FULL_NNP SIZE_NNP images_NNS web_VBP edit_JJ uses_NNS app_VBP ,_, resizes_VBZ ALL_NNP images_NNS small_JJ open/edit_VBP one_CD posts_NNS ..._: made_VBN page_NN horrible_JJ made_VBN LOT_NNP extra_JJ work_NN afterwords_NNS

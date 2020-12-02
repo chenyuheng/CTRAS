@@ -1,0 +1,8 @@
+Change_NN business_NN model_NN subscription_NN ._.
+I_PRP purchased_VBD app_JJ devices_NNS Android_NNP iOS_NN ._.
+At_IN time_NN additional_JJ fees_NNS ,_, ads_NNS subscriptions_NNS ._.
+Now_RB app_VBZ ads_NNS get_VBP rid_JJ pay_NN monthly_JJ subscription_NN ._.
+They_PRP changed_VBD rules_NNS middle_JJ game_NN ,_, I_PRP 'm_VBP deleting_VBG devices_NNS ._.
+This_DT app_NN works_VBZ offline_JJ download_NN maps_NNS ._.
+Searching_VBG address_RB good_JJ ._.
+You_PRP import_VBP KMZ_NNP files_NNS ,_, places_NNS 've_VBP mark_VBN Goolge_NNP Maps_NNP ._.

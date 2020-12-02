@@ -1,0 +1,7 @@
+Very_RB buggy_RB This_DT app_NN extremely_RB buggy_JJ ._.
+It_PRP constantly_RB fails_VBZ display_NN blog_NN postings_NNS I_PRP click_VBP blogs_NNS I_PRP follow_VBP ._.
+I_PRP close_VBP app_JJ ,_, re-open_JJ find_NN post_NN ,_, click_NN ._.
+It_PRP 's_VBZ annoying_VBG ._.
+Also_RB -_: app_NN gives_VBZ notifications_NNS replies_NNS comments_NNS 've_VBP made_VBN ,_, n't_RB show_VB comment_JJ person_NN replying_VBG ._.
+It_PRP says_VBZ ``_`` In_IN reply_JJ comment_NN ..._: ''_'' see_VB comment_NN ,_, press_NN icon_NN launches_VBZ Web_NNP browser_NN ._.
+Annoying_VBG !_.

@@ -1,0 +1,4 @@
+Navigation_NNP available_JJ current_JJ location_NN ,_, cant_NN set_VBN another_DT starting_VBG point_NN route_NN -_: NO_DT route_NN options_NNS route_VBP -_: like_IN google_NN maps_NNS ._.
+I_PRP found_VBD one_CD app_NN offline_NN maps_NNS moment_NN free_JJ recommend_NN I_PRP spent_VBD afternoon_NN install_JJ test_RB famous_JJ good_JJ rated_VBN apps_NNS like_IN Telnav_NNP ,_, ex_FW Skobler_NNP ,_, Sygic_NNP ,_, GPS_NNP Navigation_NNP Bzing_NNP s.r.o_NN ._.
+ex_NN ._.
+Be-on_NNP road_NN miss_NN basic_JJ function_NN like_IN one_CD mentioned_VBD

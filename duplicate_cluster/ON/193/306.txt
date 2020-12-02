@@ -1,0 +1,7 @@
+The_DT app_NN regularly_RB crashes_NNS I_PRP type_VBP ._.
+It_PRP freezes_VBZ grinds_VBZ crawl_JJ often_RB ._.
+The_DT app_NN fails_VBZ recognize_JJ letters_NNS I_PRP type_VBP deletes_NNS spaces_NNS words_NNS ._.
+A_DT solution_NN work_NN html_NN mode_NN ._.
+It_PRP appears_VBZ bugs_JJ issue_NN images_NNS display_VBP editing_VBG post_NN ._.
+The_DT images_NNS ,_, worse_JJR problem_NN ._.
+It_PRP seems_VBZ unbelievable_JJ WordPress_NNP ,_, QA_NNP resources_NNS ,_, ca_MD n't_RB fix_VB issues_NNS ._.

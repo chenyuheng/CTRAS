@@ -1,0 +1,6 @@
+Love_NNP hicups_NNS Good_NNP app_NN issues_NNS ..._: 1_CD :_: When_WRB updating_VBG app_NN I_PRP loose_VBP downloaded_JJ maps_NNS ,_, app_JJ download_NN perform_NN update_NN ._.
+2_CD :_: After_IN update_NN I_PRP loose_VBP customised_JJ locations_NNS ._.
+3_CD :_: I_PRP want_VBP able_JJ find_VBP destination_NN using_VBG coordinates_NNS names_NNS places_NNS ..._: 4_CD ._.
+It_PRP seems_VBZ give_JJ prescidence_NN highways_NNS even_RB longer_RBR route_NN ,_, isnt_RB good_JJ algorithm_NN ..._:
+Otherwise_RB good_JJ app_NN ..._:
+I_PRP love_VBP use_JJ daily_JJ ._.

@@ -1,0 +1,8 @@
+Blatant_NNP internal_JJ storage_NN hog_NN ._.
+Each_DT time_NN app_RB updated_VBN ,_, decides_NNS fill_VBP internal_JJ phone_NN storage_NN ,_, rather_RB SD_NNP card_NN ._.
+And_CC following_VBG app_JJ update_JJ ,_, MUST_NNP re-download_NN ALL_NNP previously_RB downloaded_VBD apps_NN ,_, ,_, fill_VB phone_NN storage_NN SD_NNP ._.
+At_IN half_PDT Gigabyte_NNP app_NN mapping_NN data_NNS ,_, app_RB blatantly_RB greedy_JJ ,_, developers_NNS either_CC lazy_JJ incompetent_NN design_NN app_NN appropriately_RB store_RBR directly_RB exterior_JJ SD_NNP card_NN storage_NN ._.
+--_: --_: --_: --_: --_: -_: WHY_WRB I_PRP download_VBP maps_NNS following_VBG app_NN update_NN ?_.
+EDIT_NN :_: also_RB need_VBP automatically_RB start_VB boot_NN ?_.
+This_DT app_VBZ getting_VBG tiresome_VBN use_IN -_: weekly_JJ updates_NNS ,_, repeatedly_RB download_VBZ previous_JJ map_NNS files_NNS every_DT app_NN update_NN ,_, frequent_JJ nag_NN screens_NNS ._.
+Just_RB develop_VB simple_JJ app_JJ -_: works_NNS properly_RB ,_, n't_RB nag_JJ users_NNS ,_, n't_RB gobble_JJ huge_JJ amounts_NNS data_NNS !_.

@@ -1,0 +1,6 @@
+Really_RB buggy_JJ right_NN ._.
+There_EX 's_VBZ way_NN create_JJ party_NN app_NN ,_, I_PRP ca_MD n't_RB even_RB join_VB one_CD ._.
+The_DT website_NN ca_MD n't_RB seem_VB log_NN I_PRP click_VBP links_NNS FAQ_NNP page_NN ,_, takes_VBZ back_RB homepage_NN ._.
+Also_RB ,_, tasks_NNS listed_VBD order_NN I_PRP put_VBD order_NN expire_NN .._NN I_PRP check_VBP task_JJ date_NN time_NN expiry_NN ._.
+Not_RB ,_, dates_NNS displayed_VBD weirdly_RB .._JJ dd/mm/yy_NNS format_VBP others_NNS mm/dd/yy_VBP ._.
+Developers_NNS much_JJ work_NN ._.

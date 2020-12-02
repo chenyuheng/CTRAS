@@ -1,3 +1,0 @@
-Strips_NNP tags_JJ posts_NNS ._.
-I_PRP loaded_VBD unpublished_JJ post_NN used_VBN app_RB publish_JJ ._.
-Even_RB though_IN shows_NNS brackets_NNS less_RBR greater_JJR signs_NNS editor_NN ,_, publishing_VBG removes_NNS ,_, revealing_VBG code_NN -_: including_VBG WordPress_NNP brackets_NNS potential_JJ PHP_NNP data_NN ._.

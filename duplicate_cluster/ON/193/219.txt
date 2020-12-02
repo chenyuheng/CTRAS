@@ -1,0 +1,5 @@
+Formatting_VBG lost_VBN time_NN I_PRP exit_VBP post_RB view_NN editing_NN ._.
+Upon_IN returning_VBG post_NN appears_VBZ one_CD solid_JJ block_NN text_NN styling_NN removed_VBD ._.
+Issues_NNP Grammarly_NNP 's_POS inline_NN word_NN correction_NN appearing_VBG question_NN mark_NN icon_NN WordPress_NNP Mobile_NNP post_NN editor_NN ._.
+Update_NN :_: The_DT formatting_NN problem_NN occurs_VBZ using_VBG Gutenberg_NNP editor_NN computer_NN editing_VBG post_NN mobile_NN ._.
+It_PRP seems_VBZ content_JJ blocks_NNS n't_RB translate_VB well_RB mobile_JJ editor_NN

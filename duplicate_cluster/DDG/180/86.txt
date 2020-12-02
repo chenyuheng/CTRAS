@@ -1,4 +1,0 @@
-Ca_NNP n't_RB change_VB Offline_NNP Map_NNP Location_NNP (_( Phone_NNP Memory_NNP Sd_NNP Card_NNP )_) How_WRB I_PRP move_VBP maps_NNS SD_NNP ?_.
-(_( Android_NNP devices_NNS )_) If_IN want_JJ store_NN downloaded_VBD maps_NNS SD_NNP ,_, move_VBP directly_RB app_RB â€_VB ?_. open_JJ appâ€™s_NN settings_NNS >_VBP Map_NNP >_NNP Maps_NNP storage_NN >_NN select_JJ SD_NNP card_NN ._.
-If_IN donâ€™t_JJ see_VBP Maps_NNP storage_VB tab_JJ appâ€™s_JJ settings_NNS ,_, turn_NN device_NN ,_, take_VBP SD_NNP card_NN put_VBD back_RP ,_, turn_NN device_NN ._.
-If_IN moved_VBN app_NN SD_NNP ,_, move_VBP back_RB device_JJ storage_NN ._.

@@ -1,0 +1,9 @@
+severely_RB flawed_VBN app_NN I_PRP favorably_RB impressed_VBD quality_NN maps_NNS came_VBD Maps_NNP Me_NNP Light_NNP ;_: ,_, I_PRP ordered_VBD full_JJ version_NN ._.
+However_RB ,_, I_PRP found_VBD full_JJ version_NN severely_RB flawed_VBD ._.
+While_IN program_NN correctly_RB identified_VBN home_NN ,_, correctly_RB identified_VBN name_JJ street_NN I_PRP ,_, I_PRP tried_VBD search_NN full_JJ address_NN ,_, including_VBG house_NN number_NN ,_, could_MD find_VB address_JJ suggested_VBN similarly_RB named_VBN streets_NNS towns_NNS ._.
+When_WRB I_PRP asked_VBD Walgreen_NNP pharmacy_NN ,_, identified_VBN pharmacies_NNS distances_NNS 4_CD miles_NNS ,_, failed_VBD identify_VB pharmacy_NN less_JJR half_JJ mile_NN I_PRP ._.
+When_WRB I_PRP asked_VBD restaurants_NNS ,_, failed_VBD identify_VB 99_CD Restaurant_NNP two_CD blocks_NNS away_RB home_NN ,_, identifying_VBG another_DT restaurants_NNS offer_VBP chain_NN ,_, several_JJ miles_NNS away_RB ._.
+In_IN opinion_NN ,_, application_NN completely_RB failed_VBD test_NN ._.
+If_IN I_PRP unfamiliar_VBP city_NN ,_, (_( point_NN mapping_VBG application_NN )_) ,_, I_PRP need_VBP find_VB nearest_JJ gas_NN station_NN ,_, ATM_NNP ,_, pharmacy_NN ,_, specific_JJ address_NN ._.
+If_IN I_PRP rely_VBP Maps_NNP Me_NNP ,_, I_PRP use_VBP ._.
+I_PRP requested_VBD cancellation_NN purchase_NN ._.

@@ -1,0 +1,4 @@
+Needs_VBZ Reminders_NNPS Option_NNP This_DT app_JJ sort_NN quick-and-dirty_JJ version_NN get_NN Habitica_NNP website_NN (_( I_PRP love_VBP )_) 's_POS moderately_RB useful_JJ fly_JJ replacement_NN using_VBG website_NN ._.
+It_PRP provides_VBZ quick_JJ access_NN basics_NNS much_RB ._.
+A_DT glaring_NN oversight_NN lack_NN option_NN add_VBZ reminders_NNS ``_`` Dalies_NNS ''_'' ``_`` To-Do_NNP ''_'' tasks_NNS create_VBP ._.
+This_DT app_NN would_MD five-stars_VB useful_JJ way_NN set_VBN reminders_NNS ._.

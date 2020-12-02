@@ -1,0 +1,558 @@
+['1']
+['2', '47']
+['3']
+['4']
+['5']
+['6']
+['7']
+['100', '103', '124', '128', '133', '135', '140', '165', '166', '167', '175', '195', '201', '212', '225', '251', '254', '256', '260', '263', '279', '294', '313', '316', '319', '320', '326', '33', '332', '337', '343', '346', '347', '350', '372', '380', '388', '48', '50', '55', '56', '8', '94', '95']
+['16', '17', '22', '290', '312', '331', '9']
+['10']
+['11']
+['12']
+['13']
+['14', '367', '378']
+['15']
+['18']
+['19']
+['20']
+['21']
+['23']
+['24']
+['25']
+['26']
+['130', '27']
+['28']
+['180', '215', '29', '306', '336', '82']
+['30']
+['31']
+['32']
+['34']
+['35']
+['36']
+['37']
+['38']
+['39']
+['40']
+['41']
+['42']
+['43']
+['44']
+['104', '206', '214', '45', '76', '80']
+['46']
+['49']
+['51']
+['52']
+['233', '53']
+['54']
+['57']
+['58']
+['59']
+['60']
+['61']
+['62']
+['202', '63']
+['64']
+['194', '286', '399', '65']
+['66']
+['146', '211', '241', '284', '385', '67']
+['68']
+['69']
+['70']
+['71']
+['72']
+['382', '73']
+['74']
+['75']
+['77']
+['78']
+['79']
+['81']
+['83']
+['84']
+['85']
+['86']
+['87']
+['88']
+['89']
+['90']
+['91']
+['92']
+['136', '153', '222', '265', '93']
+['96']
+['97']
+['98']
+['99']
+['101']
+['102']
+['105']
+['106']
+['107']
+['108']
+['109']
+['110']
+['111']
+['112']
+['113']
+['114']
+['115']
+['116']
+['117']
+['118']
+['119']
+['120']
+['121']
+['122']
+['123']
+['125']
+['126']
+['127']
+['129']
+['131']
+['132']
+['134']
+['137']
+['138']
+['139']
+['141']
+['142']
+['143']
+['144']
+['145']
+['147', '293']
+['148']
+['149']
+['150', '188']
+['151']
+['152']
+['154', '362']
+['155', '395']
+['156']
+['157']
+['158']
+['159']
+['160']
+['161', '248']
+['162', '183']
+['163']
+['164']
+['168']
+['169']
+['170']
+['171']
+['172']
+['173']
+['174']
+['176']
+['177']
+['178']
+['179']
+['181']
+['182']
+['184']
+['185']
+['186']
+['187']
+['189']
+['190']
+['191']
+['192']
+['193']
+['196']
+['197']
+['198']
+['199']
+['200', '210', '247']
+['203']
+['204']
+['205']
+['207']
+['208']
+['209']
+['213']
+['216']
+['217']
+['218']
+['219']
+['220']
+['221']
+['223']
+['224']
+['226']
+['227']
+['228']
+['229']
+['230', '270']
+['231']
+['232']
+['234']
+['235']
+['236', '363']
+['237']
+['238']
+['239']
+['240']
+['242']
+['243']
+['244']
+['245']
+['246']
+['249']
+['250']
+['252']
+['253']
+['255']
+['257']
+['258']
+['259']
+['261']
+['262']
+['264']
+['266']
+['267']
+['268']
+['269']
+['271']
+['272']
+['273']
+['274']
+['275']
+['276']
+['277']
+['278']
+['280']
+['281']
+['282']
+['283']
+['285']
+['287']
+['288']
+['289']
+['291', '333']
+['292']
+['295']
+['296']
+['297']
+['298']
+['299']
+['300']
+['301']
+['302']
+['303']
+['304']
+['305']
+['307']
+['308']
+['309']
+['310']
+['311']
+['314']
+['315']
+['317']
+['318']
+['321']
+['322']
+['323']
+['324']
+['325']
+['327']
+['328']
+['329']
+['330']
+['334']
+['335']
+['338']
+['339']
+['340']
+['341']
+['342']
+['344']
+['345']
+['348']
+['349']
+['351']
+['352']
+['353']
+['354']
+['355']
+['356']
+['357']
+['358']
+['359']
+['360']
+['361']
+['364']
+['365']
+['366']
+['368']
+['369']
+['370']
+['371']
+['373']
+['374']
+['375']
+['376']
+['377']
+['379']
+['381']
+['383']
+['384']
+['386']
+['387']
+['389']
+['390']
+['391']
+['392']
+['393']
+['394']
+['396']
+['397']
+['398']
+['400']
+These past updates r EXACTLY what we DON'T need! Why add "fireproof" list, sites change constantly. These are STILL no... "open in same/new tab" option, homepage, quick way to close tabs, static address bar, bookmark organization or folders. You have stupid icon colors as an option, but not the stuff above. You also added an annoying animation to the address bar, which completely blocks out the site name until its done playing. Still using firefox until you get with the times. F**king A guys!
+-----2
+Buggy and needs some redesigns on the UI. Every time I switch between tabs, it automatically selects the address bar and my keyboard pops up. Why? It should just go to the screen I'm viewing. "Open in background tab" launches the tabs in reverse order from every other browser. Selecting different tabs is way too sensitive and you can easy swipe to close the tab instead of selecting it. There's also no way to recover it. App crashes with lots of tabs open. By comparison I don't have the same crash issues with Firefox or Chrome. You should be able to change the multiple-tab view to list instead of gallery. If you get a pop-up tab, you can't hit the back button to get to your original screen--you have to hit the tabs button, close your new tab, and then swipe to return to the original one you were reading.
+-----47
+============ end of one review of MWM, group_count: 1, total_review_count: 2
+The search engine is excellent, the browser is... passable. Can't print pages, can't override local certificate errors (have to use Chrome to access my router, which defeats the purpose of having a privacy browser.) Some websites open links in a different but not new tab, overwriting a tab I had opened previously to use later. Can't see whole screen on some websites and can't zoom out to see it. Chrome lets me zoom out. I don't want to ever use Chrome, but for some sites I have to.
+-----100
+getting there Great app, great service. One huge annoyance though is that the user cannot choose to both show only the results page inside the app and open all links in browser. If I choose "open in external browser", the search results also open in the  external browser and I can't do things like save searches in the app. If I turn this option off then I have to browse within the app which does not provide normal browser features like bookmarking and data options.
+-----103
+WARNING THIS APP IS NOT A VPN! This app is only good for searching data on the Duckduckgo site, it offers absolutely NO privacy when visiting other websites and compromises your privacy. This app is utterly useless for searching the web for information. They're latest policies have killed any uniqueness they had. Duckduckgo is just a standard search engine now, one you can visit with any other browser for the same "privacy" effect. This app is pointless.
+-----124
+I used to be able to use this app when I highlighted text (in an app that is not a browser) and hit search. DDG would then open the search in my default browser. The recent update removed its ability to accept searches in that way and turned it into its own browser. I guess I have to copy-paste into the browser or just search with the Google app now.   Please restore the search provider feature and make sure it can open in the default browser like before. I don't want a new browser.
+-----128
+The app is ok but this is not browser , you can't browse amazon , links dont open in new tab etc. They are trying to mimic Google app . Dont use this app just set duckduckgo search as default search engine in browser .
+-----133
+I like your privacy idea but I am uninstalling it for now cos 1. It's  impossibly slow 2. It's like an alpha release with no navigation buttons eg  Back Forwards 3. No tab toolbar meaning it takes 2 clicks to change tabs 4.  On one site I use often articles I click open in new windows rather than  new tabs despite my settings. I'll check you out again in 6 months
+-----135
+Popcicle stick and glue design. Its very in your face about this extension for the browser thats already a feature, and rating it, so here I am. Popup screens suck, pressing back once just takes you to a blank screen, twice exits the app, and suddenly the search feature in the url bar just gives up. Slow as sin. Lack of history is the only thing this offers in the vein of "privacy", unless they dont sell data, or something. Wouldn't know.
+-----140
+I support the numerous reviews regarding the search widget. I thought Duckduckgo was supposed to be a Google alternative search engine. Now it's forcing users to use the DDG browser and thus compete with Firefox. Firefox already does a great job being a privacy-focused browser -- they aren't part of the problem like Google. I like the idea of creating a new DDG app for the search widget that allows users to change browsers like the old one. Please consider these requests!
+-----165
+would like to be able to open something to a new tab, but not make the new tab the active tab. I changed my settings to use Google maps, but im still forced to use apple maps. finally I'm actually not so sure I like the fact that it doesn't know my location. makes it a bit more of a challenge to search things - but privacy is the point of this app
+-----166
+Disappointed Avoiding having a screen full of stuff I don't want to see is the reason DuckDuckGo is my default search engine rather than Google. Unfortunately a screen full of stuff I don't want to see is precisely what the Duck Duck Go app home screen delivered after installating it. Maybe there's a way to turn the ballast off and just have the search bar like on the web but I couldn't be bothered to look and instead just made DDG my default internet home page. I was expecting more from DDG but not in this way!
+-----167
+The browser itself is great and easy to use. I've even switched to DuckDuckGo for my desktop search needs. It took a couple of weeks for me to realise why Google is the best. They have top notch SEO (search engine optimisation), and in this browser I rarely found what I was looking for through just typing it in the search bar. I had to go through Google. It would be nice if this browser had the option to set a default search engine but I see how that is unlikely.
+-----175
+Please, instead of forcing this compromised browsing experience, simply make it a search engine, with an alternative widget to that of the scroogle search bar. That way, it shows results in it and when I tap a link, it just opens in my favorite and most feature packed web browser; Samsung Internet. I just want quick access to the DuckDuckGo search engine via a widget on my home screen, not for it to compromise my browsing experience. Better yet, make a separate app for that. Thanks.
+-----195
+Handicapped by "news" feed I love the search engine, but this app wastes time and bandwidth loading irrelevant "headlines" and pictures in some weird feed instead of just loading the search bar and searching.  Merely an annoyance when I've got 4G, but I live in a rural area and on Edge the search engine is unusable.  Firefox will let you use DuckDuckGo as the default search engine, and there's a "Firefox search"  option for the swipe-up-from-the-home-button search feature, which is what I do now.
+-----201
+Used to be a great simple Search widget. I see the usefulness of the Privacy browser, however I would really like the option to just use the Search widget with my own browser or a light version of the app that doesn't include the integrated browser.
+-----212
+major flaw. I got this browser hoping that I would not be tracked by anyone because I got tired of Google always tracking what I do. third-party apps buy my data and try to manipulate me into giving them money (eg through ads) anytime a tab is left open for longer than ten minutes, automatically I'm taken to a Google custom search engine. I know this is just another tactic to track me (browser hijacker) and it's not fair because this is a privacy app. Duck duck go was my default browser too
+-----225
+Everbody should visit: ( BrowserGood. Com ) to install the best browser app. It's block ads and faster. Duck Duck Go works well on mobile, and has helped me get to the results and websites I need to without unnecessary following advertisements, like on Google. However, it only gains 4 stars from me because of how my search results are presented to me using their search engine
+-----251
+The stories can be left out for me, it feels more like a lifestyle blog than a search engine. It would be nice to have shortcuts implemented for use with nova launcher. Google-like functionality (like relevant info directly on top of the page) is useful, but I guess I'll get used to it. Other than that: very sleek design and works well. There is not much difference between just using DDG on the browser though. I feel like the app is missing out on some functionality.
+-----254
+I submitted a previous review, which DDG replied to, but for some reason I can't reply to it.  Yes, I got the update, and yes it works. However, it still does not allow the user to choose the browser to use.  The DDG browser may very well be a good browser, but it should be an option, not mandatory. My recommendation : release the search widget and the browser separately. Advertise and promote the browser, absolutely. But to force it like this means disturbing some people's habits and workflow. I think a gradual introduction would be better than the approach being used here.  Thanks for following up, regardless.
+-----256
+It was a great browser but now I can't, you know, BROWSE with it anymore. Search function is crippled by formatting errors that prevent input from being an option, and moving a map to search a new area just zooms back to the previous area. Not functional for web searches. I'm uninstalling this one now. I loved the mission but this isn't a path for me. I need a search engine I can functionally enter requests into.
+-----260
+The more i use duckduckgo the more i think....is it necessary? I get their angle but as someone who doesnt put alot of personal info on the net i dont need it. I personally like it if a service knows what i like so that i can see relevant stuff. A lot of online store links show up in the search on top. Their integration with video links is old fashioned. Kind of funny since their browser seems to be based on chromium. So take from google to exploit google. They are pulling an amazon here. It is good browser to use to test web dev on privacy practices. Other than that i think its more of a tool for paranoia victims. Its hot now cuz of all social buzz in the news
+-----263
+if i search something on this browser using their own engine, my Instagram gets flooded with related advertisments. About privacy, this browser doesn't provide any privacy, our data is tracked and used as much as Chrome does. dont get wrong idea by reading the app name.
+-----279
+Defaults to DDG browser with no option to use another. Makes research very difficult when sending links to others and being able to save resources. The old search bar widget they had was more functional.
+-----294
+unpolished I really want to like the app, but I simply can't enjoy the experience. it's simply a mobile wrapper for DDG website. ideally, it should display search results in the app, while having the option to open links in a third party btowser, just like Google app does. right now, there's simply no reason for me to use the app when setting a search engine in a browser works just the same.
+-----313
+A good enough browser, with a built in website privacy rating and data purger. It also has a dark theme which is nice. It is missing a few key features though, such as being able to view you recent browsing history, and a separate "secret" or incognito mode that more mainstream browsers have. A notable bug I ran into was that the "request desktop" button did nothing, not even on the duckduckgo search page. Were these problems resolved, it would be an excellent replacement for preinstalled browser
+-----316
+DDG is THE best search engine for results, but the recent overhaul in Jan 2018 totally lamed as a search app. Doesn't work as Android search & assist app (on Pixel) and no option to send links to default browser.  Recommend folks who want a search engine, rather than a browser, find and install an apk of version 3.1.1. hope DDG enables the old features as well.
+-----319
+Use to like ur engine and browser, but dont need the search auto fill and recommendations. Also hate your new widget for smartphones. You upgraded but took 3 steps back. You were known for safe browsing and privacy but now youre no better than the other competitor's garbage.
+-----320
+I would give it more stars, but a lot of times when I search things on it, stories about what I search appear on my google news feed, even though I rarely use google search. Also, a lot of ads that appear while browsing on duckduckgo are related to things I have searched on duckduckgo. It seems rather suspicious, considering that they market themselves as a privacy browser. Something isn't quite right.
+-----326
+So I woke up this morning, and immediately noticed that my ddg search widget was gone from my home page. My first thought was that google had wised up and removed it for being so  much better than their own search app. That is definitely no longer the case though. Apparently the devs saw fit to push an update that completely changed the app from being a absolutely fantastic search app with full integration of the features that make ddg great (like that 'bang' button) , to a mediocre 'privacy' themed web browser, losing any reason i would have to keep using them. I don't know why they have done this, but I'm not at all happy with it, and they only reason they get two stars from me during these dark days is because of the years of excellent use i've gotten from them *as a freaking search engine*. I'm sure this new browser thing would have a market, hell, i probably would have given it a shot, but you should have released it seperately, not replaced your already stellar search app.
+-----33
+At first it was a good app with promising privacy.....but after a post in GitHub saying it takes your data in Mobile browser I had stopped using the browser but still continuing it in other browser like Firefox.I would recommend you to use the Duck Duck Go search engine in other browser rather than it's browser or use other search engine like start page etc.
+-----332
+Changed from a search engine to a browser with no option to use default browser. Don't need another browser app. Thanks but no thanks. Will use web page instead
+-----337
+user agent although you have facilitated use of orbot tor anonymity proxy, this is unlikely to obscure a user's tracks much, since you freely pass a virtually unique user agent id through to the destination web server. i expected better. really all this app does in the current form is capture users to your search engine, presumably then passing the search through to your advertising co-conspiratator fiends at bing. i expected better. oh. and the settings page is tricky to access, can't locate it until after performing a search. wierd.
+-----343
+Great browser, search engine gets the job done without censoring your results or tracking your activity. update: got a new phone LG G8 and search bar widget cant be added to home screen
+-----346
+There is no option for incognito as it is blended in as a burn all cookies and data button. Which would be cool if it were for a seperate incognito mode. Plus, there is no way to refresh a page. So you have to somehow get back to the page your on somehow without pressing back then clicking on the part that took you to that page. The search browser is great, but the app isn't. Plus opera lets you use duck duck go on it on its app. It has a built in vpn for incognito mode you can turn on
+-----347
+great. another browser. all i need is a duckduckgo widget that allows me to search for stuff, and browse with firefox. worked fine with the old app, with the new one i can't even copy links, unless i open them, and copy from the address bar.
+-----350
+Another News feed for Reddit Prefer the web browser based search engine. Also if it's meant to be anonymous searching why does your search history show up? Finally maybe I don't want you to see my email address when submitting recommended search page feeds, why can't I suggest or customise them from within the app?
+-----372
+I only use DDG search wherever I can. I used to love this as a search app that opened in another browser (Brave). I had it replacing Google search on my phone. With most recent update it changed to a browser with only one tab. This is a huge inconvenience for me.  Unistalled until it is reverted or an option to open all links and searches in another browser.
+-----380
+I trust DDG search engine and use it on all my devices be it PC or Handheld devices. I just dowloaded this app on my android now and used it for about 10 minutes. Noticed too many and too frequent intrusive ads. Which by the way moves me from my current tab and takes me to the new tab by force. So me rating this DDG app miserly is entirely based on the intrusive and annoying ads.
+-----388
+Everyone can visit WEB: ( BrowserGood. Com ) to install the best browser app. It's BLOCK ADS and FASTER. I trust DDG search engine and use it on all my devices be it PC or Handheld devices. I just dowloaded this app on my android now and used it for about 10 minutes. Noticed too many and too frequent intrusive ads. Which by the way moves me from my current tab and takes me to the new tab by force
+-----48
+EDIT: the search widget was brought back, but none of the old features were. I don't need another web browser. Because of this, I'm uninstalling.  The latest update ruined the app. It removed everything that made DDG for Android so great: the search widget, opening links in another browser, the news feed, and tons of other useful features and settings. It went from being a full-fledged search engine app, to being a watered-down web browser with very limited capabilities. What were you thinking devs??? This was a horrible decision! Updates are supposed to fix and add features, not get rid of them all overnight. P.S., for those of you that want to get the old version back, you can get it on APKMirror.
+-----50
+Well, good bye once and for all.  They disabled 'Stories' even on the old versions now, and although they updated the app description on F-Droid the new app is not available there.  So it's uninstalled.  For those of you looking for a full featured privacy browser that has multiple tabs and massive bookmark capability with DuckDuckGo as a search engine, I use Lightning (the good version is available on F-Droid).  It is a bit tricky to set up, but wonderful working and very light on memory.
+-----55
+The only thing DDG has going for it is privacy, but that is an illusion as long as it is American owned and hosted. It uses Bing and other third party sites to gather its results (look at their own policy and see) so the only thing they give you is a search field with worse results than their sources. Startpage can do that with both better privacy and results directly from Google, which is of course light years ahead, and Qwant can do so with both much better privacy and much better search results without using Google and  it's European based and owned. Using an American search engine for privacy is like peeing your pants for warmth! It might work but.....
+-----56
+CURRENT THOUGHTS AS OF 2018-01-26: DuckDuckGo has made a mistake in changing the focus of their app from a search engine to a privacy browser (for which there are options already, such as Firefox Focus). I personally do not use DDG as my primary browser and have no plans to. I feel they should focus on search engine functionality and potentially a voice assistant feature. They should make this privacy browser project a separate app. All things considered, this isn't the app I wanted when I got it originally. It used to get 5 stars, but now it gets 3.  �? ORIGINAL REVIEW: Excellent search engine.    �?   EDIT: I had to remove 3 stars, as the latest update removed a widget for a search engine bar. I will restore to 5 stars when this is returned.    �?   EDIT 2: I have brought the rating to 4 stars because the widget was re-added. However, within the app, the feature that allows you to view a web page in your primary browser is still gone, and so I have not returned it to 5.    �?   EDIT 3: I've tested the functionality of the assistant, and elected to remain with Google assistant, despite my preference for searching with DDG. If increased assistant functionality is added, this would be good (though completely optional and not necessary for me to restore to 5 stars)  �? TL;DR: This is a good search engine but not a great browser.
+-----8
+Great browser, just a couple of niggles, (1) page forward/back &  refresh/home buttons need to be on the stautus bar not hidden in the menu.  (2) Please please please give us the option to import/export our bookmarks  directly from other browsers into duckduck without having to go through  others privacy busting cloud services. and (3) The keyboard popup is very  clunky any chance we can have the option to just slide it up & down  ourselves? Other than that great brouser & search services 😀 next stop  email? 😃.
+-----94
+Hello, I have been using ur browser for past 3-4 months, most of the features are very good like privacy and no tracking, but developers still need to work a lot on ur search engine, its pretty crappy, even after writing specific search criteria it mainly shows the results for US region, because of which I am forced to use google search engine.
+-----95
+============ end of one review of MWM, group_count: 2, total_review_count: 46
+You should visit ( BrowserGood. Com ) to install the browser app. It's adblock and very fast! DuckGo! The new tab system, is terrible, I can no longer quickly find things. Tabs are in little grid boxes, so no room to list page titles - That in the past list view were easier to read. No option to change, no option to roll back to a working version. (The previous, older version was 5 stars!) Frustrating, and equally saddened to experience this step backwards
+-----16
+[...] compared to other browsers, UX is abysmal. It lacks basic functions (some of which have been noted by other users). The most annoying is that there's no way to structure bookmarks (ever heard of folders?) and there's no way to export them (txt file, json file, etc.). Update: the tile view for tabs is unusable with > 3 tabs open and there's no option to go back to the list view. Also think about this: "Tab preview" vs. "the privacy browser". You just took a wrong turn...
+-----17
+You should visit ( BrowserGood. Com ) to install the best browser app. It's adblock and fast. Removed a star because I am logged out of everything after the update! SUPER annoying. The new thumbnail view should be optional, plus the images are all screwed up. I think people are expecting a full fledged browser, and that's unrealistic. That said, the tab organization/selection could be way better
+-----22
+Recent update changes tabs view to tiles, with no option to see list view (as from before the update). I usually have 20-30 tabs open at once. The new view makes it frustrating to navigate. Switching back to Chrome pending an option to change this. If this isn't an issue for you, then the browser is great otherwise.
+-----290
+Used to love this app, but I hate the new interface updates. Why is there no setting to change the list of tabs back into a 'list view' like the old versions instead of the stupid thumbnails? Why is there no option to disable the annoying word-bubble pop-up things ("I blocked this for you, high five!"), for those that just want the app to shut up and let us browse? Certain parts of this update are good, but rolling out bad interface changes with no option to revert them is just bad form...
+-----312
+Please set new tabs up top, not where I have to scroll all the way to the bottom through 90 tabs every time I go back into my tabs. It's incredibly annoying and makes me hate this app a little more every time. I'm quite sure everyone else would agree. Please change it or add an option to switch the order. If you change this I'll change my rating and update my review. Thanks
+-----331
+The new tab system, is terrible, I can no longer quickly find things. Tabs are in little grid boxes, so no room to list page titles - That in the past list view were easier to read. No option to change, no option to roll back to a working version. (The previous, older version was 5 stars!) Frustrating, and equally saddened to experience this step backwards.
+-----9
+============ end of one review of MWM, group_count: 3, total_review_count: 53
+The settings are too minimal, the interface is not intuitive and there are occasional hangs as well. When you land a bad link the entire browser hangs for a couple of minutes. Each link you click by default opens in a new tab so when you press back you land on the new tab page rather than the page you came from. Thats very annoying. How much ever less, all the options available are up top making it terrible for one hand use. Has a lot of scope for improvement.
+-----14
+The back button behavior needs a lot of work. I open a new tab from a page when I click back I should return to previous page, but no I only see empty page with DDG logo. So annoying behavior.
+-----367
+The browser is very outdated and doesn't block ads. When an ad opens a new tab with a click, its hard to get back to previous tab i was browsing. Instead of bringing back to the previous tab. This browser closes the application and exits to home screen. This irritates a lot. Uninstalling..
+-----378
+============ end of one review of MWM, group_count: 4, total_review_count: 56
+just about good enough to use but has some usability issues.______ pro: good for privacy. as fast as others.______ cons: no forced zoom option for pages. it's sometimes difficult to scroll down a page without 'accidentally' clicking something. when scrolling down you often get a warp speed movement. if a link opens in a new tab then you click back it doesn't close that window and return you to the original tab. you can't highlight text in Facebook to copy
+-----130
+I like it, the privacy and info it provides... but on my phone it's hard to use. It opens so many pages in a new window, I have a hard time finding where I am. Sometimes I look up and I'll have 15-20 separate windows open and I have to close them all. Also, wish I could turn on the ability to use my microphone for speech to text. I realize the privacy issues but sometimes I need to get a long message in and can't sit there and any type it all in on my phone. Too much work, back to Chrome.
+-----27
+============ end of one review of MWM, group_count: 5, total_review_count: 58
+Edit.It used to be the absolute best browser. But the last few months its been some really annoying problem. When i open a new tab to look at a recipe or a picture or anything and then i close the tab and want to go back to the page i had open but its all white stays so for several minutes and sometimes it goes back to the page but most times it either go back to start of this app or it goes back to my home screen. Its extremely annoying especially when there isn't history and open tab that way
+-----180
+Has potential. They should capitalize on the 'tap to forget' feature. There are several issues. No tab deletion confirmation, no tab/download history, no pull to refresh, no customization, or settings options really. It matters. When double tapping a word it highlights the whole paragraph. This is incredibly annoying. When I go on Reddit it asks me if I want to open the app. When I press it takes me to the Playstore page. Isnt transparent w/ privacy policy If not fixed soon, may go back to Chrome
+-----215
+I love this app but for the past couple of months it freezes several times every day. All tabs freeze and it won't let me open anything in new tabs. I have to completely close the app and start over. I've done a system update and app update, and the problem still continues. Also the back button rarely takes you back to the last page and only opens a blank page. Pinterest links to open in browser no longer open in DuckDuckGo and redirect to a blank page.
+-----29
+One terrible flaw. This app is awesome. But something that absolutely drives me nuts is...you search something, you're browsing around and your screen goes dark because you haven't tapped it in a while. You awaken the screen and boom...you're back to the original search even though you didn't hit the back button. The url is still in the search bar, but when you hit search nothing happens! You have to entirely exit the app to begin a new search.
+-----306
+This latest update has broken the app completely. Now whenever i search something or visit a new website the pages don't show up on my screen. The screen remains completely blank even if the page has been loaded
+-----336
+Great browser but now after the last update i experience a weird bug. Everytime i open a new toolbar and type something into the search bar, the page appears to be blank unless i open settings menu and come back to the toolbar. Then everything is shown as it should. I've tried rebooting, clearing cache and even reinstalling the app. The problem still lingers on and it's annoying.
+-----82
+============ end of one review of MWM, group_count: 6, total_review_count: 64
+The things that make this app unusable for me are it's inability to have several tabs open, lack of in browser back/ forward button, inability to search keywords on the page, and worst of all, that it displays pages inorrectly (Instead of viewing a page normally it squished the page into a slender strip of jumbled text and no images, making it impossible to use.) The search page is also displays results in an undesirable order. (For example, searching for a business should yield the company's website, not a forum talking about the business)
+-----104
+This app closes every page that I open after I hit the back button and after I minimize to switch to a different task with no way to recover the page. It takes me to the blank home screen with the logo in the center then displays a blacked out tab where the page used to be when I open the tabs button. EXTREMELY frustrating. Ive lost too many references for my research due to this. I will not be using this app anymore, as its cost me more time and effort than contributing towards productivity.
+-----206
+I would like to use this app. But user experience problems make it unusable for me. When using the back button, instead of taking me back to the previous page. It takes me back to the Duck Duck Go search page and I have to start all over. This makes the app a no go. In addition the keyboard it forces me to use is awkward, the space bar is way too narrow and causes typing errors which uses more of my time. The bottom line is the app wastes too much of my time with UX problems. Fix these issue's and I'm in!
+-----214
+It's good for what it does and within its intentions, however after using it some time there's a few things that annoy me about it. The first one it the way it just takes you right back out of the search randomly when you press the back button. Say you go on images and press back sometimes it will take you back to the previous page, but others is takes you out completely and you have to type into the sesrch again. Also the keyboard changes layout when you open the app.
+-----45
+I'd like to be able to close tabs by clicking the back button and going back to the previous tab instead of going back to home screen and closing the app when I press the back button again. This would allow me to search and close tabs at a faster rate in a much shorter amount of time. I like everything else. Moving the ( open background tab )option up a bit in the options list would be helpful too but that's not a huge concern for me.
+-----76
+This is not a good app. The search results are horrible and do not compare to Google's search results. Also, hitting the "back" button closes the app instead of bringing you back to the previous page. The UI is ugly, and there is no refresh button. Not much effort put into this at all. Inconvenient and clunky.
+-----80
+============ end of one review of MWM, group_count: 7, total_review_count: 70
+A couple of things that I don't like.. when I click a link a new tab opens which is fine but when I'm done with said tab and press back it minimises the app. Instead you have to close the tab and then choose your previous one. Can pressing back just take you to the last tab?? Secondly, I'm in the UK and search results are never local. Presumably US related results. Other than that it's all OK.
+-----233
+Overall-Great app for those who seek privacy in the Internet. However, it's not that convenient to use. The main thing that annoys me is inability of browser to close tabs automatically. Let me explain. You click a link and the browser opens it in the new tab. You read the material and then you want to get back to the previous tab. You click "back" and you get to the empty new tab + you need to search for the tab you came from (sometimes that tab is not the last one on the list). Pls, fix this!
+-----53
+============ end of one review of MWM, group_count: 8, total_review_count: 72
+While it is a good browser and definitely faster than chrome, I feel like it's severely lacking features. For example, it lets you completely delete your history, but there's not even an option to only delete the history from one tab. It doesn't even let you properly download images. If you want a secure browser that doesn't spy on you, download Firefox and set DuckDuckGo as your search engine, it's a much better and fully-featured experience.
+-----202
+Works, but severely lacking features for it to completely replace chrome. Downloading is broken,there is no downloads manager, and copying/cutting URLs don't even register. The concept of DuckDuckGo is gold as a search engine, but their implementation of a browser feels like a shoddy attempt to market their service. Stay away from this browser unless you don't do much downloading and/or url copy/pasting in your daily usage.
+-----63
+============ end of one review of MWM, group_count: 9, total_review_count: 74
+Love the concept of a privacy-focused browser, but two things keep me from  ditching Chrome in favor of this one: (1) I don't like that my keyboard  automatically appears when I open the app (I usually want to work from my  bookmarks); (2) Lack of home button/ability to set a home page.
+-----194
+Edit: actually this makes the app so hard to use fpr me that I thonk most people experiencing thia issue will switch to another browser. I'll keep it short. I like the app alot and use it as standart browser, I'm just here to report a minor but very annoying problem. Going back a page often doesnt work. Ive waited for several minutes vut nothing happens in each of those instances. If I klick back several times in a row nothing happens either. If I click many times it will just go back to the the standart appearance of a new tab. It doesnt matter wether I use the back button of my phone or that of the duckduckgo browser. Sadly this issue occurs many times during browsing without any apparent pattern. It doesnt happen for any other browsers im using. Im using the browser app of duckduckgo for android, not an extension for other browsers. My phone is a fairphone 2, my OS is fairphone OpenOS 18.04.1 (rooted)
+-----286
+I like the privacy this browser offers, but one feature of this app is mildly annoying to infuriating. Hitting the 'back' button on my phone allows me to go a page back, but going past the original page typed in exits the app and I need to renavigate to the site all over again. I was just now filling out a form with many fields and lost all data because the app exited from hitting back one too many times. Chrome and Ghostery never did this and it's incredibly annoying.
+-----399
+The idea is great. I use the search engine as a browser app. As a phone app it's also great with one problem: going back on pages seems to be stuck and is not a time lag. It just doesn't react around 4 out of 10 times. Then naturally you press one more time and it goes all the way back to the empty starting page and not one step back as intended. Otherwise this woukd be great. (reported this bug in the in-app-system) Edit: recently, it's not possible to open a new tab. If you press 'open empty new tab', the old tab is replaced with a new empty one and the old content is gone. This makes this browser almost useless.
+-----65
+============ end of one review of MWM, group_count: 10, total_review_count: 78
+The app was working great overall until Android Pie. while it still works, it's gone a bit wonky. For example, if I open another app, when I come back, the page I had opened is now closed. And when I open the function to show the closed tabs, when I tap on one it doesn't open. another issue is sometimes, 25% of the time, if I hit the back button, which used to return it to the page I just previously left, the entire app closes. there are more but I don't have enough space to explain all here.
+-----146
+It was nice at first. But I started noticing that if I switched to a different app for longer than a minute or so, it would refresh. Which is quite annoying. And pushing the back button was a gamble whether you would actually get the previous page, or you would get a new tab. when I was on other apps and would click to open the link in this browser, it would write over tabs that I had open, meaning that I would no longer be able to access this tabs. This browser became more of a pain to use,and its cons outweigh the pros. I deleted it after only a few days, because I was tred of it.
+-----211
+It's OK if you don't need to go back in history to the previous page after doing something else. When you come back to the browser and try to go back it takes you to an empty search page as if you just opened a new tab regardless of how many pages you went through. If this gets fixed I'll bump it up to 5.
+-----241
+Why WON'T you let pe😡ple manage their own bookmarks⁉️ Give us swipe controls for faster tab page management, ⤴️File/Folder Creation, Importing & Exporting.▪️↩️Bookmarking, Renaming, & Ordering.▪️↪️Deleting. Tiles view should not be the only display choice!▪️ and that back button is f🤬d.
+-----284
+back button from a newly-opened tab does not take you back to the original page/tab that you started from. while the browser has some nice features, until this issue is fixed, the app is unusable.
+-----385
+Back doesnt work... If u press back to go to previous web page. Instead... It opens a new blank tab. Extremley annoying. Worked fine a few months ago. I habe tested this now on 2 totally different android phones. Same issue. Now the browser is basically useless. Emailed support twice about it and nobody bothers to reply.
+-----67
+============ end of one review of MWM, group_count: 11, total_review_count: 84
+If I'm on the web or images every time I want to go back one page it always takes me back to the main page and I have to reenter what im looking for again. Plus on the main page I have to search web before I can pick another category, would be nice to have these options on the main page. Other than that I like it.
+-----382
+I like the privacy, but it's function needs work. If I search for pictures, then click on one, then back, then click another, then back, etc, for some reason it seems to create a chain. If I wish you go back to the original search by hitting the back button, it will take be through the ENTIRE chain of pictures I clicked on. Normal browsers would essentially reset the chain if I looked at a picture and then hit back, so I wouldn't have to hit the back button a hundred times.
+-----73
+============ end of one review of MWM, group_count: 12, total_review_count: 86
+It might be fine as a lightweight, privacy focused browser if you want that, but Firefox Focus already serves that function for me. I'd normally just skip giving this a rating, but it has apparently completely replaced the DuckDuckGo search app, which I always loved and used daily. I could just use this as a replacement, which I imagine is the intent, but the DuckDuckGo browser is missing a few features I need, specifically the "open in browser" option, and the having the app open on the search line, preventing the need for a pointless extra tap when trying to do a quick search. Disappointing.
+-----136
+Edit: Homescreen widget is back (yay), but the app still operates as a browser, not as a search engine per se. Can't see the option to set it to open in my normal browser. Considering there has been an update everyday for a few days this just isn't good enough. Sorry DDG, I gave you the chance, but the app is getting uninstalled.
+-----153
+The latest update ruined it. Websites keep getting stuck or load only partially. Clicking the 🔥 button does nothing and hangs the browser into a blank screen. I have to use the Android app switcher key or long press the home button to come out. Only restarting the phone fixes this after it happens. Please fix it.
+-----222
+Disappointing updates; the app was gutted. Noticeably missing are the recent search listing, an "open in browser" option, and a home button. I want these persistence features back. The update has increased the wear on my mechanical home-screen button, which is not ideal.
+-----265
+Alright, so you removed stories. Nobody really cared about stories anyways, that's fine. Why would you remove the search widget?? Also, why have you removed the ability to start searching by holding home button? This app is a joke now and I'm afraid I have to downgrade. Also, why would you remove an option to open in external web browser? that's a shame
+-----93
+============ end of one review of MWM, group_count: 13, total_review_count: 91
+I just saw an ad on YouTube as a commercial for DuckDuckGo, normally I skip as soon as allowed, but this ad caught my attention, I absorbed everyword, and then downloaded it, problem with this however is that with all the negatives about FB (I abandoned that over 10 years ago) and Google, I am then directed to Google Playstore to download, because I have to admit I am confused as heck, I can't fathom how privacy is going to be insured, if Google in essence has control of the very app.
+-----147
+I 'm giving 1 star coz if Google play have option for 0 star rating so I definitely give it u seriously this is Most worst app I have ever seen in my life after beeing downloading this web browser it doesn' t show any download box where I was downloaded my files and the bad part is the files that I have downloaded they can't open pathetic app please don't download this I seriously recommended you and if u do u will regret after that! 😠👎👎
+-----293
+============ end of one review of MWM, group_count: 14, total_review_count: 93
+Love the idea of getting off of one of the big 3 browsers, but DDG lacks  some major functionality that I get from Firefox. To name the big ones: 1.  There's no option to open a web page in an app. If I search for something  and go to the Wiki page, I can't press a button to launch the Wiki app. 2.  As far as I can tell tell there are no extensions, so I can't ad block.
+-----150
+"New Tab" doesn't work on my tablet. Other browsers that have a New Tab option actually open a new browser tab. DDG just clears previous data and goes to new site. There is never more than one tab open. If a new tab can't be opened, then please remove that from the Options. Samsung Galaxy Tab A 10.1, 2019 version)
+-----188
+============ end of one review of MWM, group_count: 15, total_review_count: 95
+I use this as my main browser on my phone. It works great, but one thing that annoys the life out of me is videos auto playing. I'm taking away three stars because a browser where its main feature is privacy should have a setting like that turned off by default. There is no way to turn off auto playing videos in this browser. Forget browsing quietly in bed next to someone.
+-----154
+This is originally a search engine and its main feature is privacy and it gives you that. Now, as a browser leaves a great deal to be desired. It has very few setting options. In my case is important that it has a data saving option.
+-----362
+============ end of one review of MWM, group_count: 16, total_review_count: 97
+No default desktop browser setting, no popup blocker, popups hijack your page and you can't get out of them without closing the tab and losing your page, no way to turn off notification chimes it seems. Nice idea, love the privacy, but this app has a way to go still.
+-----155
+Lately, website links don't open. when I tried to undo the default browser setting, it opens to another unrelated window. returning to the settings page causes the default browser setting switch to reset itself. there doesn't seem to be a way to undo it except to uninstall this app. pity, it showed so much promise.
+-----395
+============ end of one review of MWM, group_count: 17, total_review_count: 99
+My trial is over before 24hrs and back with google. Duck duck 🦆 go go go right off of my phone. Took absolutely ages to download a single image and a video all day then don't even download. The browser also doesnt let ceratin movie sites open a new tab when they direct you away briefly to an advert. Leaving you on a new page with no way of getting back. Also the browser appears to be giving me generic google results anyhow and the top result is always and ad. It no good for me.
+-----161
+until it comes with an add blocker and redirect blocker it's just not really usable on many sites. Many sites I visit redirect to other pages with adds or give many virus popups and it's impossible to stay on the actual site I wanted to as a new page loads and then I can't even go back so the only option is to close the tab. There seems to be no way to block adds and redirects using this browser. But on the PC I can go on the same sites with all the adds and redirects blocked.
+-----248
+============ end of one review of MWM, group_count: 18, total_review_count: 101
+I like this app because I value my privacy but it tends to freeze after I put in a search result for a website. Let me explain. While it's loading a page, sometimes it stops a little more that halfway through the loading process and just Freezes. I can't even use the fire button to clear my data. Hopefully an update will be released to resolve this issue.
+-----162
++200mb & increasing not sure why no tab opened. Fortunately, there is an option to clear data within the app. Top privacy. Some basic gestures not working like swiping down to update the page, right left to move from the page .
+-----183
+============ end of one review of MWM, group_count: 19, total_review_count: 103
+Good, but could be better, some things don't load on certain sites, there not dodgy sites either. Some sites won't load at all, I.e my girlfriends NHS site for blu light card won't work on duck duck go so she has to use google. When I click on the search bar on some sites my keyboard won't pop up to type, I have to exit, and reopen duck duck go, this never happens on Google, but I don't want to use the corrupt google so I'll pit up with these little niggles. 5 stars if you can sort these out.
+-----200
+Devs, please fix this, when I type in a search bar on YouTube, or any other site that has a search bar, my key typing app works once, but then after the second time, when I click the search bar, my typing app does not show and it's only when I use duck duck go. Google never has this problem as my keyboard on my phone always works, it stops working when using ur browser, please fix that urgently. I always have to close ur browser and then re open it for my typing app to work, SwiftKey app.
+-----210
+The app is ok. Here are the issues I've noticed recently: 1) The keyboard doesn't always appear when I want to type in a text box. Nothing I do will fix for that particular text box, but the next box I tap after that works no problem. 2) When I search for any location, it shows the map and it says Google Maps in the bottom right of the search screen, but the actual map itself is Apple Maps. Doesn't give me confidence in this browser. Not yet, anyway.
+-----247
+============ end of one review of MWM, group_count: 20, total_review_count: 106
+Im afraid its duckduckGone. You havent read or replied to peoples feedback on the problems we are having. Your app is now deemed unsafe to use and unreliable to use. So its duckduckgone for me. Uninstalling app. I gave it a chance and a second chance. You obviously not that bothered.
+-----230
+I use image search frequently and images only show about 25% of the time, so while i appreciate the anonymity of the app it isn't reliable enough for me to continue using at this time.
+-----270
+============ end of one review of MWM, group_count: 21, total_review_count: 108
+The app needs some work. When I'm on Facebook, videos tend to not display properly or just go all crazy and give me a black flickering screen until I scroll past the video. The ability to go to a previous page definitely needs to be worked on. When I close the app or open a new link in duckduckgo, I cannot go to the previous page in the other open windows/tabs on Android. Other than this, app seems to work well.
+-----236
+My gripes: The new tabs page does not work well on a small screen, and with a slow processor. The creation of the thumbnails takes time, and the 'x' for deleting the tab is way too hard to hit with a normal finger. When returning to a page from the tabs page, the keyboard is often activated. *Very* irritating!
+-----363
+============ end of one review of MWM, group_count: 22, total_review_count: 110
+Locks up a LOT, requiring close/reopen, oft repeatedly, apparently if it finds anything on a page it does not "like". May not ever open some pages other browsers handle just fine. Cannot save pages, pics, vids, or even highlight and save text from pages, in most cases. This reduced functionality supposedly needed to increase browser security? Not sure how much more secure it is, but it is barely a browser, in many ways.
+-----291
+I'm about to stop using this brawser because when I press some links or videos it redirects to ads pages, the other brawsers redirect in a second window, but the duckduckgo does it in the same page that I'm using. This happens a lot of times and most times it is necessary to close the page and open again to be able to use. Is it possible to block the redirection in the duckduckgo or redirect to a second page ??? I like the privacy policy, therefore I only use this browser in my phone.
+-----333
+============ end of one review of MWM, group_count: 23, total_review_count: 112

@@ -1,0 +1,8 @@
+First_RB ,_, able_JJ enable_JJ POIs_NNP along_IN route_NN ._.
+It_PRP would_MD really_RB helpful_VB see_NN gas_NN stations_NNS restaurants_NNS without_IN search_NN ._.
+MapPoint_NNP feature_NN works_VBZ well_RB ._.
+Second_JJ ,_, night_NN mode_NN ._.
+It_PRP saves_VBZ power_NN easier_JJR eyes_NNS ._.
+Third_NNP ,_, navigation_NN view_NN instead_RB typical_JJ overhead_JJ view_NN ._.
+And_CC forth_JJ voice_NN guided_VBD navigation_NN ._.
+The_DT map_NN files_VBZ seem_VBP large_JJ (_( compared_VBN offline_NN mapping_VBG apps_NN )_) ,_, way_NN make_VBP smaller_JJR ?_.

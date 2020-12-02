@@ -1,4 +1,0 @@
-Trying_VBG start_VB new_JJ blog_NN 's_POS pretty_JJ frustrating_NN ._.
-My_PRP$ images_NNS wont_VBP upload_JJ ,_, blog_JJ post_NN I_PRP typed_VBD wont_JJ upload_NN I_PRP 'm_VBP confused_JJ feeling_NN defeated_VBN ._.
-Not_RB easy_JJ use_NN app_NN ._.
-I_PRP may_MD well_RB create_VB new_JJ site_NN scratch_NN ._.

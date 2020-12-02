@@ -1,0 +1,6 @@
+Adds_NNP added_VBD one_CD never_RB versions_NNS ,_, n't_RB update_JJ n't_RB already_RB !_.
+It_PRP 's_VBZ good_JJ app_NN ,_, 's_VBZ NOT_NNP universal_JJ map_NN ._.
+It_PRP works_VBZ best_RB find_JJ destination_NN address_NN browser_NN ,_, names_NNS OSM_VBP n't_RB always_RB match_VB ._.
+Due_JJ size_NN limits_NNS ,_, searching_VBG street_NN numbers_NNS possible_JJ severely_RB limits_VBZ options_NNS ._.
+The_DT app_NN goes_VBZ nuts_NNS GPS_NNP broken_NN ,_, ca_MD n't_RB follow_VB route_NN moving_VBG map_JJ fingers_NNS ,_, popups_NNS keep_VBP reappearing_NN ._.
+Maps.me_NNP best_JJS move_NN points_NNS know_VBP advance_NN ,_, using_VBG best_JJS class_NN bookmark_NN system_NN

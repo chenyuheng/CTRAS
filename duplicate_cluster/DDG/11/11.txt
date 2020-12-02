@@ -1,8 +1,0 @@
-This_DT app_NN becomes_VBZ idiotic_JJ ._.
-Stats_NNS badly_RB organized_VBN ,_, slow_JJ give_VBP relevant_JJ data_NNS ._.
-Posting_VBG editing_NN tools_NNS worthless_NN ._.
-This_DT last_JJ stupid_JJ update_JJ enough_RB ._.
-Uninstall_NN ._.
-Edit_NN :_: I_PRP used_VBD app_NN stats_NNS ,_, implementing_VBG ``_`` Insights_NNS ''_'' bad_JJ !_.
-Loading_VBG slow_JJ last_JJ update_JJ view_NN individual_JJ posts_NNS ._.
-New_NNP Wordpress_NNP post_NN editor_NN browser_NN lacks_VBZ lot_NN options_NNS ,_, app_RB even_RB :_: options_NNS missing_VBG concerning_VBG pictures_NNS ,_, buttons_NNS formatting_VBG hidden_NN ..._: 500_CD limit_NN

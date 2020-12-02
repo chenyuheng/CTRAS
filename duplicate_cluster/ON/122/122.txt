@@ -1,0 +1,6 @@
+Could_MD better_VB Purchase_NNP Pro_NNP version_NN sometimes_RB internet/Google_JJ Maps_NNP always_RB accessible_RB ._.
+The_DT maps_NNS looks_VBZ good_JJ first_JJ glance_NN ,_, especially_RB street_JJ number_NN map_NN ._.
+The_DT unbearable_JJ problem_NN far_RB poor_JJ searching_VBG function_NN :_: tried_VBN find_VBP certain_JJ address_NN map_NN actively_RB find_VB exact_JJ location_NN re-center_NN map_NN target_NN location_NN ._.
+Moreover_RB ,_, seems_VBZ app_JJ recognize_VB address_JJ nothing_NN ._.
+If_IN even_RB search_VBP address_NN maps_NNS sense_NN crippled_VBN ._.
+My_PRP$ cell_NN phone_NN LG_NNP G3_NNP ,_, Android_NNP 4.4.2_CD ,_, already_RB loaded_VBN maps_NNS used_VBD address_NN searching_NN ._.

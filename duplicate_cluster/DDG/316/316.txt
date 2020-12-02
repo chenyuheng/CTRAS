@@ -1,8 +1,0 @@
-It_PRP trails_VBZ national_JJ forests_NNS parks_NNS ,_, ._.
-One_CD thing_NN remember_VB wandering_VBG somewhere_RB new_JJ ,_, download_JJ maps_NNS place_NN ,_, wifi_VBP cellular_JJ data_NNS ._.
-I_PRP seen_VBN disturbing_VBG divergence_NN voice_NN guidance_NN blue_JJ line_NN marking_VBG route_NN ._.
-Follow_NNP blue_JJ line_NN ._.
-The_DT lady_NN tramp_NN ._.
-If_IN 're_VBP cyclist_NN ,_, might_MD want_VB use_NN app_NN ._.
-The_DT route_NN suggested_VBD house_NN Portland_NNP ,_, Ore_NNP would_MD riding_VB busy_JJ highway_NN plenty_JJ country_NN roads_NNS would_MD better_VB experience_NN ._.
-Google_NNP Maps_NNP better_RBR ._.

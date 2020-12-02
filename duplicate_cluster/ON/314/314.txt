@@ -1,0 +1,10 @@
+I_PRP 've_VBP using_VBG app_NN car_NN pedestrian_JJ navigation_NN years_NNS ,_, latest_JJS version_NN simply_RB useless_JJ car_NN navigation_NN ._.
+I_PRP got_VBD back_RB weekend_NN car_NN trip_NN Netherlands_NNP ,_, using_VBG app_JJ segment_NN navigate_NN ._.
+About_IN 20_CD (_( !_. )_)
+times_NNS 2_CD days_NNS map_JJ display_NN would_MD simply_RB freeze_VB ._.
+Sometimes_RB minute_NN ,_, 2_CD ,_, 5_CD ,_, sometimes_RB hung_VB kill_NN app_JJ restart_NN ._.
+The_DT voice_NN announcements_NNS still_RB worked_VBN (_( speed_JJ indicator_NN )_) ,_, since_IN app_NN 's_POS turn-by-turn_JJ instructions_NNS often_RB ambiguous_JJ sometimes_RB plain_VBP wrong_JJ ,_, ca_MD n't_RB rely_VB ,_, frozen_JJ map_NN really_RB worst_JJ thing_NN navigation_NN ._.
+We_PRP lost_VBD quite_RB bit_JJ time_NN around_IN Arnhem_NNP ,_, Oosterbeek_NNP ,_, Nijmegen_NNP ,_, etc_NN ._.
+stop_JJ side_NN road_NN restart_NN navigation_NN ._.
+And_CC n't_RB phone_NN ,_, also_RB used_VBD app_JJ parallel_JJ wife_NN 's_POS phone_NN hung_NN *_NNP exactly_RB *_VBZ places_NNS ._.
+So_RB current_JJ version_NN would_MD really_RB get_VB one_CD star_NN car_NN navigation_NN ._.

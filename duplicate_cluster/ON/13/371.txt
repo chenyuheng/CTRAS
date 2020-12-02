@@ -1,0 +1,8 @@
+I_PRP wanted_VBD use_NN app_NN ._.
+The_DT concept_NN really_RB good_JJ ._.
+But_CC I_PRP wo_MD n't_RB use_VB simply_RB barely_JJ functions_NNS ._.
+For_IN starters_NNS 's_POS online_NN ..._: n't_RB enough_RB sync_JJ Android_NNP place_NN -_: app_NN would_MD sometimes_RB ask_VB ``_`` done_VBN things_NNS today_NN ?_. ''_''
+tasks_NNS scheduled_VBN day_NN 1_CD AM_NNP tasks_NNS day_NN ..._:
+Speaking_VBG tasks_NNS ,_, I_PRP could_MD n't_RB set_VB multiple_JJ repeating_VBG tasks_NNS certain_JJ days_NNS week_NN (_( per_IN task_NN ,_, wanted_VBD fill_JJ whole_JJ week_NN various_JJ tasks_NNS repeat_NN )_) reason_NN ,_, would_MD sync_VB weekdays_NNS ._.
+I_PRP enabled_VBD reminders_NNS never_RB reminder_VBP come_VBP far_RB I_PRP researched_VBP online_JJ common_JJ problem_NN Android_VBP n't_RB resolved_VBN time_NN ._.
+So_RB seems_VBZ I_PRP create_VBP habit_JJ opening_JJ habit_NN tracker_NN app_NN ..._:

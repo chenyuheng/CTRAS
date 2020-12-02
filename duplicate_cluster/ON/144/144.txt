@@ -1,0 +1,5 @@
+Very_RB unstable_JJ Asus_NNP Tablet_NNP Adding_NNP photos_NN via_IN camera_NN often_RB crashes_VBZ app_JJ ,_, course_NN loses_NNS everything_NN 've_VBP written_VBN ._.
+If_IN want_JJ use_NN I_PRP suggest_VBP saving_VBG every_DT sentence_NN unless_IN really_RB enjoy_VB retyping_VBG ._.
+Annoyingly_RB also_RB closes_VBZ post_NN ,_, constantly_RB go_VBP back_RB edit_RB mode_NN ._.
+Thank_NNP goodness_NN I_PRP keyboard_VBP dock_NN ._.
+Also_RB ,_, adding_VBG photos_JJ work_NN ,_, lets_VBZ set_VBN alignment_NN ,_, n't_RB seem_VB able_JJ properly_RB type_JJ text_NN flow_NN around_IN images_NNS ,_, using_VBG Alignment_NNP None_NNP really_RB option_NN ._.

@@ -1,0 +1,5 @@
+I_PRP like_VBP app_JJ works_NNS well_RB set_VBN things_NNS ._.
+I_PRP published_VBD section_NN blog_NN post_NN ._.
+It_PRP shows_VBZ end_NN I_PRP try_VBP view_NN externally_RB says_VBZ new_JJ wordpress_JJ site_NN coming_VBG ._.
+I_PRP wish_VBP 's_POS published_VBN end_NN also_RB publishes_VBZ online_NN ._.
+Now_RB I_PRP figure_VBP get_VB blog_JJ online_JJ others_NNS view_VBP ._.

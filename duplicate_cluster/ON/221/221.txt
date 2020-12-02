@@ -1,0 +1,4 @@
+It_PRP 's_VBZ love-hate_JJ thing_NN .._NN
+I_PRP really_RB love_VB concept_NN ,_, helps_VBZ sometimes_RB ._.
+I_PRP wish_VBP way_NN set_VBN time_NN habits_NNS reset_VBP daily_RB ._.
+I_PRP understand_VBP say_VBP ``_`` flossed_JJ night_NN ''_'' 're_VBP part_NN challenge_NN would_MD amazing_VB say_VB ,_, ``_`` day_NN goes_VBZ 10_CD 2_CD ''_'' able_JJ check_NN certain_JJ things_NNS midnight_VBP n't_RB mess_JJ group_NN challenges_VBZ boss_IN fights_NNS

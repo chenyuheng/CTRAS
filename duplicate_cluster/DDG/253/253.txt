@@ -1,4 +1,0 @@
-The_DT app_NN amazing_NN ,_, maps_NNS amazing_VBG ,_, Venice_NNP really_RB happy_JJ ._.
-There_EX 's_VBZ one_CD problem_NN ._.
-The_DT GPS_NNP n't_RB show_VB exact_JJ location_NN ,_, shows_VBZ location_NN 300_CD meter_NN radius_NN u_JJ actually_RB standing_VBG ._.
-If_IN fix_VBN ,_, I_PRP 'll_MD give_VB 5_CD stars_NNS

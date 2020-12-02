@@ -1,0 +1,5 @@
+The_DT reader_NN I_PRP mentioned_VBD reader_NN I_PRP meant_VBP I_PRP 'm_VBP able_JJ view_NN site_NN in-app_NN ._.
+I_PRP like_VBP using_VBG app_RP even_RB 's_POS issues_NNS I_PRP 'd_MD love_VB reader_NN returns_NNS ._.
+I_PRP like_VBP addition_NN searching_VBG posts_NNS via_IN keywords_NNS &_CC hope_NN stays_NNS ._.
+An_DT improvement_NN would_MD posts_VB related_JJ keyword_NN (_( )_) n't_RB random_JJ order_NN date_NN ._.
+Also_RB ,_, I_PRP 've_VBP noticed_VBN I_PRP try_VBP visit_JJ self-hosted_JJ sites_NNS goes_VBZ blog_RB in-app_JJ 'd_MD nice_JJ available_JJ view_NN reader_NN ._.
