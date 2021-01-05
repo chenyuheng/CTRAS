@@ -26,7 +26,7 @@ def load_corpus(app:str)->list:
 
 def generate_hist(app):
 	corpus = load_corpus(app)
-	vectorizer = TfidfVectorizer(norm=u'l1', max_features=200)
+	vectorizer = TfidfVectorizer(norm=u'l1', max_features=10, ngram_range=(1,1))
 	X = vectorizer.fit_transform(corpus)
 	# 生成一个 tfidf 函数 tf-idf(t, d, D) 表格，对于每一个篇文档的特定词（features），得到tfidf的值。
 	i = 0

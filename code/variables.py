@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import os
 
-APPS = [ "ON"] # names of all apps
+APPS = [ "DDGS"] # names of all apps
 CTRAS_root_path = "/home/student/wy/CTRAS/"
 HEADER = {
     'id': 0,
@@ -47,7 +47,7 @@ K = 0.25 # summary compression ratio
 HIST_IMG_DICT_SIZE = 200    # default
 HIST_IMG_LAYER_NUM = 3      # default
 
-T_THRESHOLD = 0.72               # default
+T_THRESHOLD = 0.3               # default
 img_similar_threshold = 0.01    # default
 LINK_THRESHOLD = 0.2
 
