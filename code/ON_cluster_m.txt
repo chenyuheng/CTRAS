@@ -1,0 +1,544 @@
+['1']
+['2', '3']
+['10', '4']
+['5']
+['6']
+['7']
+['8']
+['9']
+['11']
+['12']
+['13', '210', '371']
+['14']
+['15']
+['16']
+['17']
+['18']
+['19']
+['20']
+['159', '21']
+['22']
+['137', '195', '23']
+['24']
+['144', '25', '297']
+['26']
+['27']
+['28']
+['29']
+['30']
+['31']
+['32']
+['33']
+['34']
+['35', '374']
+['249', '36']
+['37']
+['38']
+['39']
+['40']
+['41']
+['42']
+['43']
+['44', '93']
+['45']
+['101', '46']
+['47']
+['48']
+['49']
+['50']
+['51']
+['52']
+['53']
+['54']
+['116', '121', '272', '291', '343', '55', '58', '95']
+['135', '56']
+['57']
+['59']
+['60']
+['61']
+['62']
+['63']
+['64']
+['65']
+['166', '176', '205', '327', '66']
+['67']
+['68']
+['69']
+['70']
+['71']
+['72']
+['246', '73']
+['74']
+['75']
+['76']
+['140', '394', '77']
+['78']
+['79']
+['80']
+['81']
+['251', '82']
+['83']
+['84']
+['85']
+['86']
+['87']
+['208', '88']
+['89']
+['90']
+['106', '190', '91']
+['92']
+['314', '94']
+['96']
+['97']
+['98']
+['99']
+['100']
+['102']
+['103']
+['104']
+['105']
+['107']
+['108', '241']
+['109']
+['110']
+['111']
+['112']
+['113']
+['114']
+['115']
+['117', '289']
+['118']
+['119']
+['120']
+['122', '170']
+['123']
+['124']
+['125']
+['126']
+['127']
+['128', '141']
+['129']
+['130']
+['131']
+['132']
+['133']
+['134']
+['136']
+['138']
+['139']
+['142']
+['143']
+['145']
+['146', '348']
+['147']
+['148']
+['149']
+['150']
+['151']
+['152']
+['153']
+['154']
+['155', '370']
+['156']
+['157']
+['158']
+['160']
+['161']
+['162']
+['163']
+['164']
+['165']
+['167']
+['168']
+['169']
+['171']
+['172']
+['173']
+['174']
+['175']
+['177']
+['178']
+['179']
+['180']
+['181']
+['182']
+['183']
+['184']
+['185']
+['186']
+['187']
+['188']
+['189']
+['191']
+['192']
+['193', '219', '256', '306']
+['194']
+['196']
+['197']
+['198']
+['199']
+['200']
+['201']
+['202']
+['203']
+['204']
+['206']
+['207']
+['209']
+['211']
+['212']
+['213']
+['214']
+['215']
+['216']
+['217']
+['218']
+['220']
+['221', '367']
+['222', '238', '301']
+['223']
+['224']
+['225']
+['226']
+['227']
+['228']
+['229']
+['230']
+['231']
+['232']
+['233', '356']
+['234']
+['235']
+['236']
+['237']
+['239']
+['240']
+['242']
+['243']
+['244']
+['245']
+['247']
+['248']
+['250']
+['252']
+['253', '277']
+['254']
+['255']
+['257']
+['258', '398']
+['259']
+['260']
+['261']
+['262']
+['263']
+['264']
+['265']
+['266']
+['267']
+['268']
+['269']
+['270']
+['271']
+['273']
+['274']
+['275']
+['276', '392']
+['278']
+['279']
+['280']
+['281']
+['282']
+['283']
+['284']
+['285']
+['286']
+['287']
+['288']
+['290']
+['292']
+['293']
+['294']
+['295']
+['296']
+['298']
+['299']
+['300']
+['302']
+['303']
+['304']
+['305']
+['307']
+['308']
+['309']
+['310']
+['311']
+['312']
+['313']
+['315']
+['316']
+['317']
+['318']
+['319']
+['320']
+['321']
+['322']
+['323']
+['324']
+['325']
+['326']
+['328']
+['329']
+['330']
+['331']
+['332']
+['333']
+['334']
+['335']
+['336']
+['337']
+['338']
+['339']
+['340']
+['341']
+['342']
+['344']
+['345']
+['346']
+['347']
+['349']
+['350']
+['351']
+['352']
+['353']
+['354']
+['355']
+['357']
+['358']
+['359']
+['360']
+['361']
+['362']
+['363']
+['364']
+['365']
+['366']
+['368']
+['369']
+['372']
+['373']
+['375']
+['376']
+['378']
+['379']
+['380']
+['381']
+['382']
+['383']
+['384']
+['385']
+['386']
+['387']
+['388']
+['389']
+['390']
+['391']
+['393']
+['395']
+['396']
+['397']
+['399']
+['400']
+Good idea in theory but the interface is way too ham-handed. If I try to set multiple reminders for a task, it seems like it would allow it, but then it discards the second reminder time and only saves the first one. Moving tasks up and down the list doesn't work properly (lags and jitters). Tapping refresh puts them back in their original order making re-sequencing them pointless. Which brings me to another point: refresh has to be tapped constantly to see changes that you make. I created a habit and it seemingly disappeared right after hitting save and wouldn't appear until I refreshed. Also, how do I hear the theme song? I can change it in the settings but tapping each option simply changes which one is active. How am I supposed to know which theme I want if I can't preview it? Another problem is the tutorial: tapping the menu items at the bottom didn't always activate each sections tutorial. For example, I tapped on To-do and created some items, then went to Rewards, saw that tutorial, went back to To-do, and then the app decided to display the tutorial for To-do. Making tasks, habits and goals like an RPG is a great idea. But honestly, I think most people would get frustrated at this clunky interface and just give up after 5 or 10 minutes like I did.
+-----end of report 2 MASTER
+Idea is great and I love using this app, but parts need refining. Sorting items (ToDos, Dailies, etc) from the app doesn't persist, but doing so from the website does. There is a widget for Habits and Dailies, but not for ToDos, and I this ToDos is the list people would best like to see made into a widget. There is no clean way to take back a button press (If you accidentaly pressed on + and didn't mean to your options are leave it as is even though you didn't earn the rewards or edit the task to include a minus option and take the HP hit). Would be nice if you could automatically sort by Due Date ascending. Creating a Daily and setting it to all days, then editing it and removing the current day still leaves the Daily Active (Same with the reverse if it was first created as not enabled for this day of the week, then editing and enabling it, it remains disabled). Etc , My point is the idea is amazing, there is a huge community behind it which is great, and I personally love the app. But it lacks polish around the edges and some bugs could be fixed.
+-----end of report 3 
+============ end of one review of ON, group_count: 1, total_review_count: 2
+This is my second time returning, and after a 2 year hiatus, I'm pleased to say that everything I hated about this app is still there and nothing new has really changed. It's so buggy and I can't get any help on any of the bugs I experience. Like the fact that I don't do any damage when my cron rolls over. Yea�?I get no response from the developers.  The only reason I use this app is for the sake of quests? Because everything else is so boring. But even the quests are dull. And if you're in a big party, they don't even scale it properly? There's nothing like having a quest start and then having it finish a couple hours later before you even have a chance to do anything. Not to mention it totally lacks the ability remind you of anything. All it does is nag you everyday at a set time. That's all it's capable of. Set a to do with a due date? Great but you won't get a reminder about it. Not to mention the fact that it still doesn't allow any form of offline capabilities. And they just make up excuses for why they can't have it. Which I don't buy because I've used other apps like this where I can go offline and use it. Its slow as hell.  And for forcing me to be connected to the internet it doesn't even notify me of new posts from my guilds and party.
+-----end of report 10 MASTER
+This app is so bright it hurts. You're trying to read, write and relax, but the blank color scheme reminds me more of the sun hitting my face at 6am than of me relaxing while browsing.  This app doesn't have some sort of front page like imgur has for example, instead all we get is the "discover" feature which only promotes bland, vague and uninteresting posts with no personality. Just look at it right now! Where are the people sharing relatable stories, or video game strategies, or book or tv show reviews or something? All the posts featured there are just... unattractive, to say the least. And it's the only source of new content there is, otherwise you have to look it up manually.  There are no set categories or tags, instead you make them up and unless people type them up exactly like you did they won't see your post, which is counterintuitive and discourages finding new posts or bloggers.  People can disapprove or even edit your comments. That is twisted, discourages freedom of speech and opinion sharing and even allows people to literally put words in your mouth by changing your original comment to whatever they want.  You can't dislike posts or comments, so the voting system is pointless. You might think otherwise because Twitter and Vine have no downvotes,  but they promote discovery of new content in various ways, while WordPress does not.  The search bar doesn't work. I've tried finding my own posts with the exact same title they have and they don't appear.  All of these factors make it feel deserted and lacking of a community, and discourage new users of getting into writing or reading on WordPress. Also there used to be a eay to add a black outline to images; a necessity when the background is white.
+-----end of report 4 
+============ end of one review of ON, group_count: 2, total_review_count: 4
+I seriously don't understand. The basic functions of the app are so janky and broken. In the avatar creation, I had to keep pressing the options I wanted over and over for it to actually work, then when I finished the avatar had options I didn't pick. Every habit defaults to being both positive and negative. I know there has to be some default, but it's kind of weird that if I have a positive habit I have to tap the negative button. Adding tags is really clunky because the tags have to be added to the filter, (I guess it works but it's unintuitive to have to add a tag to the filter instead of just tagging the task itself) but when I add them they don't immediately get added. They disappear and then get added a few minutes later. Half the time it won't let me move around the tasks. Sometimes the FAQ text pops up overlaying whatever screen I'm on. Switching between habits, dailies, to-dos, and rewards is finicky. Sometimes swiping doesn't work, sometimes trading the icon doesn't work. I have to tap things in the equipment menu multiple times for them to work. Same for the avatar menu. With patience all this stuff does eventually work, but it's tedious to just use the app. The app would be 10 times better just by fixing the buggy menus
+-----end of report 13 MASTER
+It's functional but the app won't let me add habits, dailies, to-dos, or rewards. Pressing the save button after making one of those apparently does nothing, because whatever I made doesn't actually show up in the menu. The browser based version doesn't have it either, but at least I can add things to do and such in my browser!
+-----end of report 210 
+I wanted to use this app. The concept is really good. But I won't use it simply because it barely functions. For starters it's online only... but as if that wasn't enough the sync on Android is just all over the place - the app would sometimes ask "have you done these things today?" for tasks that were scheduled the day before or at 1 AM for tasks on that day... Speaking of tasks, I couldn't set up multiple repeating tasks for certain days of the week (per task, wanted to fill the whole week with various tasks and repeat them) for some reason, they would all sync to same weekdays. I enabled reminders but never had a reminder come up once and as far as I researched online this is a common problem on Android and hasn't been resolved for some time. So it seems I have to create a habit of opening this habit tracker app...
+-----end of report 371 
+============ end of one review of ON, group_count: 3, total_review_count: 7
+Not a good start. The ideas are sound, and I've gone in with hopes. But I ran into issue after issue right at the start. Can't get glasses to select. Can't add my beard or moustache without gems. Can't even party with my wife because of redirect errors. I like this idea a lot, and my wife adores this. If these get fixed, I'll edit and bump up the rating.
+-----end of report 159 MASTER
+The idea is wonderful. But a lot of tedious mistakes spoil the whole impression. For example, information is slowly updated even within the application, often clicking on a menu item is ignored. If you create a task without a title, but with a list, it will become closed for editing, just delete. Not all things are obvious. I had to read help to solve simple questions. Well, the old-school 8-bit graphics - not everyone likes it.
+-----end of report 21 
+============ end of one review of ON, group_count: 4, total_review_count: 9
+Decent app. Tried out a few offline nav apps that use osm for data and this had the best looking map display for me. Clean and clear display during navigation a plus. Suggested nav routes were generally good, but did not care for the inability to ignore toll roads as well as to get more than one suggested route. The biggest shortcoming for me was that with just about all osm apps, the POI/address search are useless unless those items are entered in the osm database. A suggestion would be to have a online search function (like MapFactor's google search) to be able to find those items and be able to translate the info into an offline nav point. Another suggestion would be to improve the display functions during navigation, ie: speedometer/speeding warnings, lane assist, and fixed speed cameras. Needs improvements but a solid app overall.
+-----end of report 137 MASTER
+Navigation is available only from your current location, you cant set another starting point for a route there is - NO route options for a route - like in google maps.  I found one app which has this and offline maps and for moment is free which i recommend after I have spent a afternoon with install and test of famous and good rated apps like Telnav, ex Skobler, Sygic, GPS Navigation from Bzing s.r.o. ex. Be-on road which miss basic function like the one mentioned before
+-----end of report 195 
+I wanted to like this app. I'm looking for an alternative to google maps. The routing is actually ok, although the estimated timings don't take traffic conditions into account. The offline operation is good, but there isn't really an 'online' mode. If I currently have a good connection I want to be able to search a new area without having to download the section first. But what has killed it for me is that the search is useless. There us no UK postcode search, which is what I primarily use. Searching by street name sometimes works, but often comes up empty. Conversely when there are multiple matches adding extra location details (borough, etc) doesn't narrow the search effectively. As far as i can tell it treats each term entered separately and at some point if you haven't chosen one of the matches for your first term and keep typing it switches to searching on the second term, ignoring the first. I only managed to experience the navigation by finding places on Google maps, and then matching the street pattern and zooming to find them manually in this. I gather it works better in some countries than others, so I'll probably try it again sometime, but for now I'm giving up.
+-----end of report 23 
+============ end of one review of ON, group_count: 5, total_review_count: 12
+Very unstable on Asus Tablet Adding photos via the camera very often crashes the app, which then of course loses everything you've written. If you want to use it I suggest saving every sentence unless you really enjoy retyping. Annoyingly this also closes the post, so you have to constantly go back into edit mode. Thank goodness I have the keyboard dock. Also, adding photos does work, and it lets you set alignment, but it doesn't seem to be able to properly type text to flow around those images, so using Alignment None is really the only option.
+-----end of report 144 MASTER
+Was able to connect to my personally hosted blog. Everything looks pretty good, but the Featured Image setting doesn't work. I add an image from my Media Library, then edit its properties...Check the box for "Featured Image" and then leave the box for "Show in post" unchecked, but it always just shows the image in the post and refuses to set it as the Featured image, no matter how many times I go back and try to edit it/redo it.   Unfortunately, that was the main function I was hoping to use, so pretty worthless to me.
+-----end of report 25 
+This app screews up everything you already have made. If you have used/or are using the web part of wordpress and combines it with this app...it screews up everything. Ex; if you have set NO IMAGE BORDER on your images, and edit the post in this app, it adds borders on all img. If you have set FULL SIZE on images in the web edit and the uses this app, it resizes ALL images to very small when you open/edit only one of the posts...it has made my page horrible and made a LOT of extra work afterwords
+-----end of report 297 
+============ end of one review of ON, group_count: 6, total_review_count: 15
+Needs bug fixes Please add a reminder feature to the daily and to do lists and also notifications of quest invitations,messages etc. The app also freezes many times! Please fix this and and i will give it 5 stars.
+-----end of report 35 MASTER
+Just UNINSTALLED this. It used to be ok but suddenly it kept on  AUTOMATICALLY DELETING the map files that I downloaded. This did not happen  just once or twice but many times. The locations that were saved were also  lost. Very disappointing app this is !!!
+-----end of report 374 
+============ end of one review of ON, group_count: 7, total_review_count: 17
+I started using this 2 years ago, and it was very good then. With recent updates the quality of routes for pedestrians has declined sharply.  I was recently in Manchester and could see my destination 100m down the street, yet maps.me wanted me walk 250m round a block. It was giving me a driving route, although I checked, it was set to pedestrians.  The version of a year ago was better for walking.
+-----end of report 249 MASTER
+Adds have been added in one of the never versions, don't update if you haven't already! It's a good app, but it's NOT a universal map. It works best if you find your destination address with a browser, as the names in OSM don't always match. Due to size limits, searching by street numbers is not possible and this severely limits your options. The app goes nuts if your GPS is broken, and you can't just follow the route by moving the map with fingers, as popups keep reappearing. Maps.me is best if you just move to points you know in advance, using the best in class bookmark system
+-----end of report 36 
+============ end of one review of ON, group_count: 8, total_review_count: 19
+Blatant internal storage hog.  Each time the app is updated, it decides to fill up the internal phone storage, rather than the the SD card. And following an app update, you then MUST re-download ALL previously downloaded apps, and again, fill up the phone storage not the SD.  At over half a Gigabyte of app and mapping data, this app is just blatantly greedy, and the developers are either too lazy or too incompetent to design an app appropriately to store directly on exterior SD card storage. ----------- WHY do I have to download maps again following app update?  EDIT: why also the need to automatically start up at boot?  This app is getting very tiresome to use - weekly updates, repeatedly having to download all previous map files after every app update, frequent nag screens.  Just develop a simple app - which works properly, doesn't nag its users, and doesn't gobble up huge amounts of data!
+-----end of report 44 MASTER
+Latest update data hog Latest software update used my network data to automatically download updated maps. No warning. Can't find an option to only update maps via wifi. Default should always be to update via wifi with option to use network data. Result I went over my 2GB allowance and got dinged for overage. I am not impressed. App is good otherwise but this for me is a significant flaw. It's coming off my phone until it's fixed. Despite developer response, I just confirmed no warning message when download over mobile network.
+-----end of report 93 
+============ end of one review of ON, group_count: 9, total_review_count: 21
+Good but missing Custom Post Type support. I add CPTs into most of my sites and only being able to update blog entries is very limiting. Image handling is a bit buggy. Really good when fixing typos or creating quick posts. The earlier versions of this app were way more functional.
+-----end of report 101 MASTER
+Doesn't post a new blog if I clear the 'uploading...' notification The new blog posting process is somehow interrupted and doesn't finish completely if I clear the 'uploading...' notification.  As a user I would assume that such a process should continue in the background.  Next, if I open the app again, it doesn't show any indication of the ongoing process which doesn't give me any kind of update (of whether the new blog got completely/half way uploaded/or cancelled).  To check this, if I manually click the 'refresh' icon on top-right corner, it gives a warning message which is really doesn't help the user what his/her action should be.
+-----end of report 46 
+============ end of one review of ON, group_count: 10, total_review_count: 23
+Maps are stored on internal memory by default. Even when app itself is moved to SD. There is no option in settings to change the location of maps to SD card.     App has to be open all the time during maps download. If you move to other app download stops and has to be started from the very beginning.  Maps are not downloaded in background. Leaving screen with download progress shown resets download from say 50 % to 0%, meaning you cannot use your phone during maps downloading process untill it completely finished.
+-----end of report 116 
+Downloaded this app to use on a trip. It clearly said I had the offline map downloaded yet when I entered in the exact address or a category.. It said zero results found even though I knew the address was within my downloaded map. Poor experience. I reconnected with at a McDonald's and only then did the address show up. If this app requires you to have data then google maps is better.
+-----end of report 121 
+"Best App of 2014"? I'd sure hate to see the worst! I'm guessing the reviewers who rated it #1 tested it exclusively in one state because this GPS app can't even cross map boundaries. If you want to go from Burbank to Las Vegas, you'll have to set up the California portion, then a separate Nevada portion. Unbelievable. Selecting a destination is an awkward process that involves manipulating the map. Sheesh! The best Android GPS I've found so far is "MapFactor GPS Navigation", which provides a variety of ways (such as Google Search) to quickly select any number of waypoints and destinations, plus traveling between states is not a problem.
+-----end of report 272 
+My maps are stored on the sd card but updates always change it to the phone which isn't large enough. Now I have to download a world map before I can change back the storage location in the settings and is unuseable if no wifi. "Here we go" maps doesn't give me this hassle.
+-----end of report 291 
+As other reviewers have mentioned, you can't search by address. For example, if your want directions to 12335 Fake St, the app will refuse. It will only let you plot a route to Fake St. If Fake St is more than a few blocks long, that's a huge problem. Also, you can't even search for an address until you download that region's maps. If you want to drive from NYC to LA, you have to download every map along the way before you go. Problem is, most maps are named after smaller towns, not big cities.
+-----end of report 343 
+this app is an absolute rubbish. the new update is real catastrophe. the settings go back to default each time and the app loses the address for map storage files which results in asking to download the map data again. i had bookmarked the location of my hotel but then when i was in Spain it failed show me even the downloaded maps. just rubbish.
+-----end of report 55 MASTER
+This latest version changed my default map location from SD card to main memory, then told me I didn't have enough memory to update my maps, although this version only updates changes. I then had to download my maps again after changing the location, as it STILL doesn't recognise that I already have downloaded maps!  Just to add that I have used maps from my sdcard correctly for a few years now!  This rating only applies to the latest version which screwed up my configuration. This forced me to re download maps that are already on my sdcard, as even after changing the location back to the sdcard, the app still didn't check for the existent of valid maps in the selected location.
+-----end of report 58 
+Can't change Offline Map Location (Phone Memory to Sd Card)  How can I move maps to SD? (for Android devices)     If you want to store downloaded maps on SD, you should move them directly from the app �?open app’s settings > Map > Maps storage > select SD card. If you don’t see Maps storage tab in app’s settings, turn off the device, take out SD card and put it back again, turn on the device. If you moved the app itself to SD, move it back to the device storage.
+-----end of report 95 
+============ end of one review of ON, group_count: 11, total_review_count: 31
+I like the app and it works well for me to set things up . I have published an about me section and a blog post. It shows up on my end but when I try to view it externally it just says that a new wordpress site is coming. I just wish that when it's published on my end that it also publishes online. Now I have to figure out how to get my blog online so others can view it too.
+-----end of report 135 MASTER
+The reader I mentioned the reader I meant I'm not able to view my site in-app. I like using this app even when there's issues but I'd love it if the reader returns. I do like the addition of searching for posts via keywords & hope that stays. An improvement would be if the posts related to the keyword(s) weren't in random order by date. Also, I've noticed when I try to visit self-hosted sites it goes to their blog in-app it'd be nice if they were available to view in reader.
+-----end of report 56 
+============ end of one review of ON, group_count: 12, total_review_count: 33
+Disappointing The big plus is the offline use of maps and the maps that look good. On the downside: we disagree on the fastest route. On first use it misses a connection to a highway and suggesting a longer route. Then the app even tries to send me back three times unnecessary, making the journey even longer. Vocal directions are ambiguous compared to my regular Garmin nav and compared to Google. Maybe it's just the dutch language. At times the GPS update seems out of sync with the actual location. Good as a backup nav.
+-----end of report 166 
+All of a sudden this app has turned rubbish. It was good a couple of years ago and I used to recommend it but tonight it has issues : 1) cannot locate me using wifi, phone signal, GPS...it states that I must be in a building. Google maps locate and finds a gps in this same location. 2) does not find Danang, Vietnam...it just lists a load of places in China So it's now proven to be unreliable when I most need it. Time to uninstall and stop recommending.
+-----end of report 176 
+Needs better support on yotaphone UPDATED 2 STARS REVIEW: After using this app for a few weeks on my old phone , I bought a new yotaphone 1 solely because of the native support of this app for the e ink display. I was hoping to use the e ink display as an energy saving GPS navigator. However I was soon saddened to find out that routing is not supported on the back display, and the maps that do display on the back do not automatically update to the current location.
+-----end of report 205 MASTER
+Background battery draining Constantly using gps thereby draining battery, on a new nexus 5x, denying location permission to the maps.me app removes the gps icon from the status bar, granting location permission instantly puts the location icon back and battery goes down very fast. Cleaning cache from recovery mode doesn't help. Only uninstall or denying gps helps. Maps.me was gradually getting worse and worse after they become free and now they reached the point of total unusability. That's sad. Gotta move on to an  alternative OSM
+-----end of report 327 
+Love it with a few hicups Good app but has a few issues... 1: When updating the app I loose all my downloaded maps, why not have the app download them for me or perform an update on them. 2: After an update I loose my customised locations. 3: I want to be able to find my destination using coordinates not just names of places... 4. It seems to give prescidence to highways even if they a longer route, this isnt a good algorithm... Otherwise its a good app... I love it and use it daily.
+-----end of report 66 
+============ end of one review of ON, group_count: 13, total_review_count: 38
+Garbage!! App ever Don't know why a big blogger company like WP, creating such a damn s**** app. Just recently install it today but can't even use it nor logged in. Here's the app bug logs : WordPress Android version: 4.3 Android device name: Xiaomi HM 1SW 01 - resetting suggestion tables 02 - trackLastActivity, activityId: My Site 03 - Number of old stats deleted : 0 04 - NewAccountAbstractOage.onCreate() 05 - trackLastActivity, activityId: Login Screen 06 - GCM Error: INVALID_SENDER 07 - Server response:  08 - NewAccountAbs
+-----end of report 246 MASTER
+EDITED- SOMETHING IS WRONG. POSTS ARE NOT POSTING, PICTURES ARE NOT UPLOADING, PEOPLE ARE NOT ABLE TO VIEW POSTS. PLEASE FIX. Wonderful. I like the upgraded version of this app. I've used WordPress for years but your new step forward is amazing. Just a little request though. PLEASE ADD 'SHARE' OPTION IN SITE PAGES SO THAT WE COULD SHARE LINKS OF OUR INDIVIDUAL SITE PAGES FROM THE APP FOR THOSE OF US MANAGING MULTIPLE PAGES IN ONE WEBSITE. THANKS.
+-----end of report 73 
+============ end of one review of ON, group_count: 14, total_review_count: 40
+I honestly didn't get much chance to use the app before it stopped connecting and not letting me do anything. Before that happened i started setting up daily tasks and the part where you set how often (such as the days of the week) you do each task was confusing. I would change the days on one task and it would change it for all of them. Over all, too much work for its worth. Loved the idea though, it would have really gotten me doing things to level up and collect items
+-----end of report 140 
+I really really want to use this app, but my todo lists keep disappearing. I accidentally checked one off in the widget and it's gone. Not in completed, not showing up in any filter, just gone. Then a few hours later, another todo with several sub items just plain vanished. I don't even know what I did this time to make it disappear. I love the concept and the design, but a task app that loses my tasks is pretty much a waste of time.
+-----end of report 394 MASTER
+Really buggy right now. There's no way to create a party on the app, and I can't even join one. The website can't seem to log me in and if I click on any of the links on the FAQ page, it takes me back to the homepage. Also, tasks are listed in the order which I put them and not in the order that they expire.. so I have to check each task for the date and time of expiry. Not only that, the dates are displayed weirdly.. some have dd/mm/yy format while others have mm/dd/yy. Developers have much work to do.
+-----end of report 77 
+============ end of one review of ON, group_count: 15, total_review_count: 43
+It takes too long to be fun, and sets you up for failure. At the start you are asked to create a small # of tasks. However, the number of tasks you do is directly related to how fast you level. And a few tasks means it takes a LONG time to get to level 10 which is when you finally get to pick a class. However, you could level faster if you add more tasks, but doing that before you are ready will set you up to fail. This is not discouraged as it should be, and there few goals at lower levels.
+-----end of report 251 MASTER
+Needs Reminders Option This app is a sort of quick-and-dirty version of what you get at the Habitica website (which I do love) that's moderately useful on the fly but no replacement for using the website. It provides quick access to your basics and not much more. A glaring oversight is the lack of an option to add reminders to the "Dalies" and "To-Do" tasks you create. This app would be five-stars useful to me if only there were a way to set reminders.
+-----end of report 82 
+============ end of one review of ON, group_count: 16, total_review_count: 45
+Excellent offline access, mediocre travel tool It's really nice not to have to have a WiFi connection to access detailed maps. You can download just the areas you need to your internal or external storage and always have access (the KitKat external SD "sandbox" is supported).  The map will follow your position if you have location enabled.  One serious flaw is the inability to interpret address info being sent from other applications, so you can't use this application as your default map.  Links from calendar, e-mail, and browser apps will just go to the middle of the ocean near Africa at Lat/Lon 0/0).  Another issue is cross-map routing: you can't plan a route across state or country boundaries that cross map files.
+-----end of report 208 MASTER
+Too many bugs Ecoing another user, the maps themselves are nice after they finally download. Love that I can view them offline and save data usage. Not much else appeals to me. The search results are odd and difficult to interpret. Voice commands never seem to work. Once address is inputed, the route doesn't appear. You sit there showing current location only. I can't get miles to work as the setting defaults back to kilometers every time. Fix the bugs, I love this app. As it is, it's only good for offline map viewing.
+-----end of report 88 
+============ end of one review of ON, group_count: 17, total_review_count: 47
+recent update ruined the reading list and the app can no longer save pages.. when offline all pages disappear yet I saved them even my old saved pages all disappeared. That is my best feature on this app because I normally used it offline since I don't access wireless all day so please restore the original version, it was better.
+-----end of report 106 
+Lost loads of features with an update a few months ago. Now the sidebar is gone, so I don't know how to view my browsing history, and while I can save pages for offline reading, I no longer have access to a list of such saved pages as I once did, while all those I had saved prior to the update seem to be gone. Terrible, awful update! Lastly, every time I get off the app and use a different one, then return to Wikipedia, I am back at the main page. So annoying.
+-----end of report 190 MASTER
+Offline reading is a huge draw for me but I don't know if it's the android app or what but the gui is completely obtuse. Impossible to get to main menu and read my saved articles, I have scoured everywhere. All I can do is save pages to my lists but not read them. One time when I updated my install it worked but no button returns me to main menu. Pressing back exits the app. Please I've searched what in Christ's name is this?
+-----end of report 91 
+============ end of one review of ON, group_count: 18, total_review_count: 50
+I've been using this app for car and pedestrian navigation for years, but this latest version is simply useless for car navigation. I just got back from a weekend car trip in the Netherlands, using the app for each segment to navigate. About 20 (!) times in 2 days the map display would simply freeze. Sometimes for a minute, or 2, or 5, sometimes it just hung and you had to kill the app and restart it. The voice announcements still worked (as did the speed indicator), but since this app's turn-by-turn instructions are often ambiguous and sometimes just plain wrong, you can't rely on them, so having a frozen map is really the worst thing for navigation. We lost quite a bit of time around Arnhem, Oosterbeek, Nijmegen, etc. having to stop at the side of the road to restart the navigation. And that wasn't just on my phone, we also used the app in parallel on my wife's phone and it hung at *exactly* the same places. So the current version would really get only one star for car navigation.
+-----end of report 314 MASTER
+Used to be the best map. Great features, easy to use, but it has ONE MAJOR BUG that has been there for 2 years - they sometimes solve it, most of the time they mess it up.  It is a very simple thing : the option to save maps to SD CARD.  Sometimes an update would relocate your maps to the phone, sometimes it would delete all maps, sometimes you had to uninstall and reinstall, sometimes ....  This time they have surpassed it : it moved all my SD CARD maps to memory, filling it right up!! And today there is no option to locate maps to SD CARD any more.  2 years and they still can't get this simple but ABSOLUTELY CRITICAL feature to hold.  So, finally, I'm done and, guess what, in doing so, after trying 8 apps I have found an even better one :  HERE MAPS.
+-----end of report 94 
+============ end of one review of ON, group_count: 19, total_review_count: 52
+A significant backward step Now there is no way to select which maps to update, nor is there any indication of download size (why not?). The option to download WITHOUT routing has disappeared. I do not require routing as I already have a sat nav. Fortunately I have not updated my phone, only my tablet. I will not be updating my phone to v6 as this is the device I use most. Until now this was a 5 star app (and I had the paid version before it became free). Hugely disappointed. ------------------UPDATE. Tried updating one small map (Guernsey 449kB) and found ALL my old maps had been deleted. The new style Guernsey map is 882kB. I have backups of my old maps, so not a problem to recover them.
+-----end of report 108 MASTER
+Not able to download Tamil Nadu, India Map. I have been using the app now for many years and it was working fine. Now I'm not able to download/update Tamil Nadu, India Map and able to download other maps. I tried all possibilities (clear storage, uninstall & reinstall, restart of phone etc. and still failing. I don't have any VPN and also I'm very close to the WIFI so no problem with that as well. As TN, India is my birth state and it is bad that I'm not able to download the map giving 1 star
+-----end of report 241 
+============ end of one review of ON, group_count: 20, total_review_count: 54
+App is much better since I last used it. Though, locating a specific post is tricky and time consuming (unless it's a recent post). The list will not show old posts unless you reload and continuously scroll to the bottom. Then repeat said process. I have hundreds of posts and finding one from a few years back is simply not worth doing with the app (even though I know the date and title). A search filter would be nice.
+-----end of report 117 MASTER
+The app gets worse and worse with each release. It used to be much better in terms of responsiveness and usability.  Probably the worst part is how slow search functionality has become. Even simple search takes like half a minute (iOS version suffers from the same problem). Even worse: after these incredible delay, it is not even guarantied that found POI are sorted properly: in many cases it wouldn't find closest one, for example.  Of course there are great stuff too, like ability to download regions separately, but search functionality is something you deal with daily, and recently it is very-very lame.
+-----end of report 289 
+============ end of one review of ON, group_count: 21, total_review_count: 56
+Could have been better Purchase the Pro version because sometimes internet/Google Maps is not always accessible. The maps looks good at first glance, especially it has street number in the map. The most unbearable problem so far is the poor searching function: tried to find a certain address but the map can not actively find the exact location and re-center the map to the target location. Moreover, it seems that the app does not recognize the address at all and do nothing. If you can not even search an address then this maps in a sense is crippled. My cell phone is LG G3, Android 4.4.2, had already loaded with the maps used for address searching.
+-----end of report 122 MASTER
+severely flawed app I was favorably impressed with the quality of the maps that came with Maps with Me Light; so, I ordered the full version.  However, I found that full version severely flawed. While the program correctly identified my being at my home, and while it correctly identified the name of the street I was on, when I tried to search for my full address, including the house number, it could not find the address and suggested similarly named streets in other towns. When I asked for the Walgreen pharmacy, it identified such pharmacies in distances of over 4 miles, but failed to identify the pharmacy that is less than half a mile from where I was. When I asked for restaurants, it failed to identify the 99 Restaurant two blocks away from my home, while identifying another restaurants offer the same chain, several miles away.  In my opinion, the application completely failed the test. If I were in an unfamiliar city, (which is the point of a mapping application), I need to find the nearest gas station, ATM, pharmacy, or a specific address. If I cannot rely on Maps with Me to do that, I have no use for it. I have requested cancellation of my purchase.
+-----end of report 170 
+============ end of one review of ON, group_count: 22, total_review_count: 58
+It's good but..... It's good but some more improvements required such as edit post quickly...... I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----end of report 128 MASTER
+It's good but..... It's good but some more improvements required such as edit post quickly...... I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----end of report 141 
+============ end of one review of ON, group_count: 23, total_review_count: 60
+Nearly no function worked properly. The app updated older versions of post drafts so that the recent progress was deleted. The draft mode does not show contents like lists or images. Uninstalled. The mobile bowser version works fine, while the app is causing more problems than is solves.
+-----end of report 146 MASTER
+I'm done. Uploading images has gotten progressively worse and now I can't upload at all. All image uploads fail. The mobile app was great for quick posts and updates but like the web version it seems to have prioritized features and UI over functionality and stability. I'll try again in a year.
+-----end of report 348 
+============ end of one review of ON, group_count: 24, total_review_count: 62
+I was really excited about this app when I first started planning a road  trip overseas. There are a lot of places I searched for to pin that the app  didn't find. It's search feature could use a lot of improvement. But the  deal breaker for me was found when I tried texting the offline navigation  in my home city the other day. I searched a location on the other side of  the city. The app only offered me one option for a route and, as a local,  it's not one that I would ever take - neither fastest nor shortest  distance. I started out on the route anyway and then purposefully deviated,  waiting to see how it would handle the route change. The answer is not  well. It directed me to turn around for the next several minutes even  though I was headed towards a major freeway, which was closer. If I'm using  this overseas and a road is closed for whatever reason, this app is never  going to help me get around the detour. Im going to have to figure it out  myself. Even after I got on the freeway, navigation continued to try to  route me off at the next several exits, which would have been way out of  the way. I'm super disappointed. Will definitely be trying another app  instead.
+-----end of report 155 MASTER
+First, you should be able to enable all POIs along your route. It would be really helpful to see gas stations or restaurants without having to search for them. MapPoint has this feature and it works well. Second, is night mode. It saves power and is easier on the eyes. Third, is a navigation view instead of the typical overhead view. And forth is voice guided navigation. The map files seem to be large too (compared to other offline mapping apps), any way you can make them smaller?
+-----end of report 370 
+============ end of one review of ON, group_count: 25, total_review_count: 64
+Worst example of optimization for android even Call of duty mobile doesn't lags or crashes like this. When I am editing a post, the app automatically uploads it while I am editing. No I haven't kept the post as scheduled post. The block editor is worse than pubg mobile's rolling mechanism after landing. The selected text gets bolded or italics after 20 second of pressing the bold button. It nearly takes 20 mins to write a post, but it takes 2 hrs to edit a single paragraph. F1RECHARGE Gaming.
+-----end of report 193 MASTER
+Formatting is lost each time I exit post view after editing. Upon returning  to the post it appears as one solid block of text with all styling removed.  Issues with Grammarly's inline word correction appearing as a question mark  icon in the WordPress Mobile post editor. Update: The formatting problem  occurs when using the Gutenberg editor on a computer then editing the same  post on mobile. It seems the content blocks don't translate well to the  mobile editor
+-----end of report 219 
+Lacking options When adding an image to a post I cant set alt text or remove the link off the pic... this app is pathetic. It has so much potential yet too little effort has been made :( can't even view the html editor to remove the link and change alt text. This forces me to use the full site which has a very poor mobile interface... To the guy bellow defending this app: I am so sorry your site is so basic and your SEO so poor that this app is acceptable by your apparently low standards.
+-----end of report 256 
+The app regularly crashes as I type. It freezes and grinds to a crawl just as often. The app fails to recognize letters as I type them and it deletes spaces after words. A solution is to work in html mode. It appears that these bugs are only an issue when you have images display while editing a post. The more images, the worse the problem. It seems unbelievable that WordPress, with its QA resources, can't fix these issues.
+-----end of report 306 
+============ end of one review of ON, group_count: 26, total_review_count: 68
+It's a love-hate thing.. I really love the concept, but it only helps me sometimes. I just wish that there was a way to set what time the habits reset daily. I understand that you can say "flossed night before" but when you're a part of a challenge it would be amazing to say, "my day goes from 10 am to 2 am" and be able to check off certain things after midnight so you don't mess up the group challenges and boss fights
+-----end of report 221 MASTER
+Having to find players to be able to do anything is a bit annoying, it's really boring otherwise. Reminders don't work properly - I set a bunch for last night that never happened, and a bunch this morning that never happened. It's not really built for proper daily routines including things you need to do twice per day so... It's not really useful for me.
+-----end of report 367 
+============ end of one review of ON, group_count: 27, total_review_count: 70
+Very buggy This app is extremely buggy. It constantly fails to display blog postings that I click on from blogs I follow. I have to close the app, re-open it find the post again, and click again.  It's very annoying.   Also - when the app gives you notifications of replies to comments you've made, it doesn't show you which comment of yours the person was replying to. It just says "In reply to your comment on..." and to see that comment, you have to press an icon that launches a Web browser.  Annoying!
+-----end of report 222 
+Great app with some awkward features This app is really good for writing posts on the go/ staying up to date with stats. To truly be a 5 star app, I think an upload bar should be added to posts/photos and videos that you're uploading. It's also awkward to upload a post once it's become a local draft. Edit: an upload progress bar is really necessary for the uploading of posts.
+-----end of report 238 MASTER
+So, wordpress has been good, great even until now. My posts are not having the comment section even though the settings are adjusted to that. Then, when I delete a post, it only deletes on the site itself, on the app, it will keep showing. It's tiring really. Then again, the app starts hanging when I am creating a post.
+-----end of report 301 
+============ end of one review of ON, group_count: 28, total_review_count: 73
+Pixel 2 (Stock Android) Feb/2019: Looks promising but app rarely works properly. Even while traveling abroad, Google Maps Offline worked great but MAPS.ME Offline did not work at all - couldn't even find my location, let alone use navigation. You may have a different experience than I did but I cannot rely on it, and hence, will not recommend it. Hope they fix the issues.
+-----end of report 233 MASTER
+I don't understand this app does not work at all offline... What's the point? On my Android headset every search or navigation attempt fails to find any results after downloading the whole city which took hours.   even for a city like San Francisco can't find anything unless it's connected to the internet - so why not just use Google Maps?
+-----end of report 356 
+============ end of one review of ON, group_count: 29, total_review_count: 75
+Worst blog app It works most of the time, but it likes to mysteriously delete parts of a post or a whole post when publishing. I spend an hour while traveling only to have my posts constantly deleted when I'm trying to write or edit them. STAY AWAY FROM WORDPRESS IF YOU NEED TO USE YOUR PHONE FOR A BLOG...THE SITE DOESN'T WORK WELL FOR UPLOADING PHOTOS AND THE APP CONSTANTLY TRIES AND EVENTUALLY SUCCEEDS AT DELETING YOUR POSTS AND PHOTOS...STAY AWAY...FIND A DIFFERENT BLOG VENUE!!!!
+-----end of report 253 MASTER
+I AM SO SORRY I EVER INSTALLED IT. This app is malfunctioning in several ways, relating to strange displays of blog text. Once OVERLAPPING so the post displayed UNDER or OVER the photo of prior post. The next time, yesterday, so the text displayed WAY OUT TO THE RIGHT. Reader has to swipe far, far to the keft to view it. What a disaster for a writer trying to create a following of readers.
+-----end of report 277 
+============ end of one review of ON, group_count: 30, total_review_count: 77
+Change their business model to a subscription. I purchased this app for all my devices Android and iOS. At the time there where no additional fees, ads or subscriptions. Now this app has ads and to get rid of them you have to pay a monthly subscription. They changed the rules in the middle of the game, I'm deleting it from all my devices. This app works offline after you download maps. Searching for an address is not good. You can import KMZ files, such as places you've mark in Goolge Maps.
+-----end of report 258 MASTER
+Pretty good app. It's great to be able to download offline maps. Searching for a store or address works well. Unfortunately you can't sort the results by distance so it takes a minute to find a store near you. Otherwise it works well. I will try again at some point. Perhaps the sort option will be added.
+-----end of report 398 
+============ end of one review of ON, group_count: 31, total_review_count: 79
+Edit: Reverted to old version or something and issues are back :( Edit: Issue fixed and new update is great! Seems like you actually passed the issue along instead of making complaining subscriber have to repeat the complaint in email... Huge fan of Habitica. Used it for years. It was called HabitRPG when I started. Only to-do list app I have stuck to. Encourages you to build good habits in a fun way. Community-built. No ads...worth subscribing to support the app.
+-----end of report 276 MASTER
+UPDATE: I'd expected this robo response, because it's the only one given in this reviews section... "call us".  No offense but that's the *laziest* way to handle common recurring tech issues... you (the user) do something.    Here's a tip:  put in your software an error tracking feature that uploads "cannot post" and "generic" errors and other similar "cannot do that.. failed" errors to you and YOU FIGURE IT OUT.  I can tell this software is not robustly developed and tested.  Another alternative would be for you to give meaningful diagnostic answers so we can all benefit from solutions found and discussed here.  Terrible support model going on here.   Original review:  Absolutely WORTHLESS and UNRELIABLE.  This WP app feels like an Alpha version that hasn't been tested.  Does NOT handle SHARING well if at all.  Too many bugs and failures to list.  Using Galaxy Note 8 w latest Androidd. Sad.  This is late May 2019.
+-----end of report 392 
+============ end of one review of ON, group_count: 32, total_review_count: 81

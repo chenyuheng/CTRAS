@@ -9,6 +9,8 @@ from zhconv import convert
 from variables import APPS, HEADER
 from variables import RAW_PATH, CORPUS_PATH, STOP_WORDS_PATH, SYNONYM_WORDS_PATH
 from variables import cws_model_path, pos_model_path
+from nltk.stem.snowball import SnowballStemmer
+stemmer = SnowballStemmer("english")
 
 # ---------------------------------------------------------------------------------------
 # Description   : Function to preprocess the raw reports
@@ -58,12 +60,13 @@ def preprocess(app):
 				sents = nltk.sent_tokenize(_description) # 分成一句一句
 				content = []
 				for sent in sents:
-					words = [w for w in nltk.word_tokenize(sent) if w not in stop_words] # 去除 stopwords
+					words = [w for w in nltk.word_tokenize(sent) if w.lower() not in stop_words] # 去除 stopwords
 					words = [synonym_words[w] if w in synonym_words.keys() else w for w in words] # 替换同义词
-
 					postags = nltk.pos_tag(words) #打标签
+					words = [stemmer.stem(w) for w in words]
+					#print(words)
 					items = ['_'.join(x) for x in postags] #打标签 [ "I_tag1", "am_tag2" ..]
-					content.append(' '.join(items)) # 合成一句话 [ "I_tag1 am_tag2" ..]
+					content.append(' '.join(words)) # 合成一句话 [ "I_tag1 am_tag2" ..]
 				content = '\n'.join(content) #content 是一个sentence的列表
 
 				f_out = open('/'.join([CORPUS_PATH, app, _id+'.txt']), 'w') #存储处理完的reciew

@@ -5,12 +5,12 @@ import csv
 import nltk.data
 
 count = 0
-rf = open("report_DDGS.csv", "w")
+rf = open("report_ONS.csv", "w")
 csv_writer = csv.writer(rf)
-with open("report_DDG.csv", "r") as f:
+with open("report_ONN.csv", "r") as f:
     csv_reader = csv.reader(f)
     for row in csv_reader:
-        text = row[1]
+        text = row[5]
         sent_detector = nltk.data.load("tokenizers/punkt/english.pickle")
         sents = sent_detector.tokenize(text.strip())
         for sent in sents:

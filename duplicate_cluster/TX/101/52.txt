@@ -1,0 +1,6 @@
+Downloaded_NNP app_NN use_NN trip_NN ._.
+It_PRP clearly_RB said_VBD I_PRP offline_VBP map_RB downloaded_VBN yet_RB I_PRP entered_VBD exact_JJ address_JJ category_NN .._NN
+It_PRP said_VBD zero_NN results_NNS found_VBD even_RB though_IN I_PRP knew_VBD address_NN within_IN downloaded_JJ map_NN ._.
+Poor_NNP experience_NN ._.
+I_PRP reconnected_VBD McDonald_NNP 's_POS address_NN show_NN ._.
+If_IN app_JJ requires_VBZ data_NNS google_NN maps_NNS better_RBR ._.

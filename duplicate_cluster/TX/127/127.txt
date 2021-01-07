@@ -1,0 +1,12 @@
+The_DT update_JJ buried_JJ feature_NN I_PRP use_VBP app_IN This_DT app_NN great_JJ last_JJ update_NN ._.
+The_DT part_NN app_NN I_PRP used_VBD admin_JJ page_NN access_NN ._.
+It_PRP always_RB first_JJ thing_NN I_PRP looked_VBD whenever_WRB I_PRP opened_VBD app_NN ._.
+I_PRP maintain_VBP several_JJ WP_NNP sites_NNS ,_, business_NN personal_JJ ._.
+I_PRP use_VBP app_JJ I_PRP n't_RB want_VB time_NN sit_JJ pc_NN updates_NNS ._.
+Where_WRB I_PRP thought_VBD app_RB shined_VBN maintaining_VBG WP_NNP sites_NNS ._.
+The_DT app_NN allowed_VBD able_JJ easily_RB cycle_NN sites_NNS quickly_RB see_VB needed_JJ plugin_NN WP_NNP updates_VBZ ._.
+After_IN selecting_VBG admin_NN option_NN ,_, I_PRP could_MD click_VB site_NN within_IN minutes_NNS sites_NNS updated_VBD ,_, significantly_RB quicker_JJR using_VBG pc_NN ._.
+With_IN latest_JJS update_JJ app_NN ,_, developers_NNS buried_VBD admin_JJ page_NN access_NN 3_CD clicks_NNS deep_JJ ,_, would_MD take_VB 1_CD click_JJ +_NNP click_NN per_IN site_NN check_NN update_JJ status_NN ,_, requires_VBZ click_JJ settings_NNS ,_, 2_CD clicks_NNS per_IN site_NN check_NN update_JJ status_NN ._.
+I_PRP considered_VBD app_RB 5_CD star_NN app_NN bizarre_JJ change_NN ._.
+I_PRP 'm_VBP hoping_VBG oversite_JJ test_NN developers_NNS part_NN 'll_MD fix_VB next_JJ update_NN ._.
+Otherwise_RB ,_, least_JJS opinion_NN ,_, 've_VBP partially_RB crippled_VBN app_NN ._.

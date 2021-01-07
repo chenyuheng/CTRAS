@@ -3,6 +3,7 @@ import json
 import os, csv
 import numpy as np
 import scipy.cluster.hierarchy as sch
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 from variables import APPS
 from variables import DISTANCE_BASE_PATH, DUPLICATES_REPORT_PATH, MASTER_REPORT_PATH
@@ -10,6 +11,26 @@ from variables import CORPUS_PATH
 from variables import T_THRESHOLD
 
 from util_corpus import get_all_reports_id
+from variables import POS_TAGS, APPS
+from variables import CORPUS_PATH, HIST_TXT_PATH
+
+
+
+def parse_corpus(_corpus:str)->str:
+	for tag in POS_TAGS:
+		_corpus = _corpus.replace(tag, '') # 把posttag又去掉了
+	_corpus = _corpus.replace('_n', '') # 这里为什么是_n??????????????????????????????????
+	return _corpus
+
+def load_corpus(app:str)->list:
+	corpus = [] # 装入所有的review
+	for name in sorted(os.listdir('/'.join([CORPUS_PATH, app])), key=lambda x: int(x[:-4])):
+		_corpus_file = open('/'.join([CORPUS_PATH, app, name]), 'r')
+		_corpus = _corpus_file.read().replace('\n','') # 一个review
+		corpus.append(parse_corpus(_corpus))
+	print(len(corpus)) #1000
+	return corpus
+
 
 # ---------------------------------------------------------------------------------------
 # Description   : Function to aggregate the reports into groups
@@ -50,6 +71,11 @@ def cluster(app):
 		writer.writerow(records)
 	out.close()
 	# yuheng add---------------------------------------------------------------------
+	corpus = load_corpus(app)
+	#print(corpus)
+	vectorizer = TfidfVectorizer(norm=u'l1', max_features=25, ngram_range=(1,1))
+	X = vectorizer.fit_transform(corpus)
+	#print(vectorizer.get_feature_names())
 	master_report_dict = {}
 	try: # 如果已经探测 master report，则在打印中标记
 		master_report_dict_file = open('/'.join([MASTER_REPORT_PATH, app, "master_report.json"]), "r")
@@ -74,6 +100,8 @@ def cluster(app):
 				repo_file = open('/'.join([CORPUS_PATH, app +"original", num]) + ".txt", "r")
 				repo_con = repo_file.read()
 				print(repo_con)
+				#print(corpus[int(num)])
+				#print(vectorizer.get_feature_names())
 				repo_file.close()
 				print(f"-----end of report {num} {'MASTER' if num == master_id else ''}")
 			print(f"============ end of one review of {app}, group_count: {group_count}, total_review_count: {review_count}")

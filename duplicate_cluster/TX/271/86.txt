@@ -1,0 +1,6 @@
+God_NNP ,_, I_PRP love_VBP Wikipedia_NNP ,_, ..._:
+This_DT app_JJ way_NN potential_JJ awesomeness_NN ._.
+When_WRB I_PRP hit_VBP back_RB button_NN ,_, one_CD two_CD things_NNS happens_VBZ :_: either_CC I_PRP kicked_VBD way_NN back_RB main_JJ page_NN ,_, back_RB previous_JJ article_NN ,_, I_PRP left_VBD ._.
+If_IN I_PRP ever_RB want_VBP follow_JJ link_NN article_NN ,_, navigate_NN back_RB article_NN ,_, I_PRP search_VBP ._.
+How_WRB site_NN well_RB developed_JJ Wikipedia_NNP app_NN working_VBG 'back_NNP '_POS function_NN ?_.
+And_CC Wikipedia_NNP 's_POS response_NN ``_`` Hey_NNP ,_, 're_VBP open_JJ source_NN ,_, YOU_NNP edit_VBP ,_, users_NNS !_. ''_''

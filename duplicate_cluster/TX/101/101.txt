@@ -1,0 +1,7 @@
+Maps_NNS stored_VBD internal_JJ memory_NN default_NN ._.
+Even_RB app_VBZ moved_VBN SD_NNP ._.
+There_EX option_NN settings_NNS change_VBP location_NN maps_NNS SD_NNP card_NN ._.
+App_NNP open_JJ time_NN maps_NNS download_NN ._.
+If_IN move_VBN app_NN download_NN stops_NNS started_VBD beginning_VBG ._.
+Maps_NNP downloaded_VBD background_NN ._.
+Leaving_VBG screen_JJ download_NN progress_NN shown_VBN resets_NNS download_VBP say_VBP 50_CD %_NN 0_CD %_NN ,_, meaning_NN use_NN phone_NN maps_NNS downloading_VBG process_NN untill_JJ completely_RB finished_VBN ._.

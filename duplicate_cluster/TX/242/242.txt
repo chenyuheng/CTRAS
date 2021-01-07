@@ -1,0 +1,8 @@
+Still_RB better_RBR use_NN web_WRB browser_NN Pros_NNS :_: Useful_JJ quickly_RB view_NN single_JJ article_NN 's_POS ._.
+Cons_NNS :_: Text_NNP re-flow_JJ fit_NN screen_NN zoomed_VBN ,_, No_DT text_NN selection_NN ._.
+Tables_NNS resize_VBP fit_JJ screen_NN columns_NN screen_NN lost_VBN ._.
+No_DT way_NN open_JJ links_NNS separately_RB later_RB reading_VBG i.e_NN ._.
+new_JJ tab_NN window_NN ._.
+This_DT means_VBZ current_JJ article_NN reading_NN position_NN lost_VBD link_NN selected_VBN ._.
+Please_NNP add_VB tabbed_JJ browsing_VBG links_NNS opened_VBN separate_JJ tabs_NNS ,_, reflow_JJ text_NN ._.
+Until_IN 's_POS easier_JJR use_NN Wikipedia_NNP web_NN browser_NN ..._:

@@ -1,0 +1,5 @@
+No_DT advantages_NNS browser_VBP I_PRP think_VBP Chrome_NNP better_RBR reading_VBG Wikipedia_NNP ._.
+Page_NN organization_NN almost_RB identical_JJ ._.
+And_CC Google_NNP search_NN article_NN title_NN provides_VBZ suggestions_NNS similar_JJ titles_NNS ._.
+This_DT app_NN says_VBZ ``_`` article_NN ''_'' ._.
+So_RB use_JJ app_NN ?_.

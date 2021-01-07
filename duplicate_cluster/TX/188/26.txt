@@ -1,0 +1,12 @@
+I_PRP wanted_VBD like_IN app_NN ._.
+I_PRP 'm_VBP looking_VBG alternative_JJ google_NN maps_NNS ._.
+The_DT routing_VBG actually_RB ok_RB ,_, although_IN estimated_VBN timings_NNS n't_RB take_VB traffic_NN conditions_NNS account_VBP ._.
+The_DT offline_JJ operation_NN good_NN ,_, n't_RB really_RB 'online_VB '_'' mode_NN ._.
+If_IN I_PRP currently_RB good_JJ connection_NN I_PRP want_VBP able_JJ search_NN new_JJ area_NN without_IN download_NN section_NN first_RB ._.
+But_CC killed_VBN search_NN useless_NN ._.
+There_EX us_PRP UK_NNP postcode_NN search_NN ,_, I_PRP primarily_RB use_VBP ._.
+Searching_VBG street_NN name_NN sometimes_RB works_VBZ ,_, often_RB comes_VBZ empty_JJ ._.
+Conversely_RB multiple_JJ matches_NNS adding_VBG extra_JJ location_NN details_NNS (_( borough_NN ,_, etc_FW )_) n't_RB narrow_JJ search_NN effectively_RB ._.
+As_IN far_RB tell_JJ treats_NNS term_NN entered_VBD separately_RB point_JJ n't_RB chosen_VB one_CD matches_NNS first_JJ term_NN keep_VB typing_VBG switches_NNS searching_VBG second_JJ term_NN ,_, ignoring_VBG first_RB ._.
+I_PRP managed_VBD experience_NN navigation_NN finding_VBG places_NNS Google_NNP maps_NNS ,_, matching_VBG street_NN pattern_JJ zooming_VBG find_NN manually_RB ._.
+I_PRP gather_VBP works_NNS better_RBR countries_NNS others_NNS ,_, I_PRP 'll_MD probably_RB try_VB sometime_RB ,_, I_PRP 'm_VBP giving_VBG ._.

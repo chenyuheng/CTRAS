@@ -1,0 +1,3 @@
+Great_NNP app_JJ flaws_NNS In_IN case_NN ,_, I_PRP 'm_VBP using_VBG Taiwan_NNP map_NN Chinese_NNP interface_NN display_NN perfect_NN ,_, search_NN specifically_RB NO_NNP ._.
+(_( number_NN )_) level_NN ._.
+It_PRP 's_VBZ annoying_VBG I_PRP search_VBP navigate_JJ street_NN names_NNS ._.

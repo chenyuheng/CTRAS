@@ -1,0 +1,8 @@
+I_PRP installed_VBD map_NN Feb_NNP 2020_CD Toronto_NNP ._.
+All_DT street_NN names_NNS blacked_VBD ._.
+Map_NNP unusable_JJ ._.
+I_PRP deleted_VBD ._.
+May_NNP try_NN problem_NN resolved_VBD ._.
+Map_NNP accurate_JJ simple_JJ interface_NN ._.
+Lacks_NNP basic_JJ functionality_NN ._.
+Can_MD alternate_VB route_NN ,_, choose_VBP b/w_JJ toll_NN free_JJ route_NN ,_, save_VB route_NN ._.

@@ -1,0 +1,6 @@
+Improvement_NNP made_VBD much_JJ worse_JJR ._.
+The_DT ``_`` random_JJ page_NN ''_'' link_NN favorite_JJ part_NN Wikipedia_NNP -_: 's_POS gone_VBN ,_, along_IN menu_JJ capabilities_NNS browser-based_JJ version_NN ._.
+The_DT news_NN feed_NN card_NN main_JJ page_NN n't_RB updated_VBD two_CD weeks_NNS ._.
+No_DT way_NN clear_JJ cache_NN in-app_NN ._.
+No_DT way_NN restore_RB main_JJ page_NN cards_NNS accidentally_RB deleted_VBN ._.
+No_DT user_NN help_NN file_NN app_NN ._.

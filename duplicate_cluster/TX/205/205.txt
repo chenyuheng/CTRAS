@@ -1,0 +1,8 @@
+Ca_NNP n't_RB access_NN site_NN !_.
+Previous_JJ version_NN (_( Android_NNP phone_NN )_) would_MD n't_RB let_VB access_NN Notifications_NNP ,_, I_PRP updated_VBD app_NN ,_, hoping_VBG would_MD help_VB ._.
+Now_RB wo_MD n't_RB even_RB let_VB site_NN unless_IN I_PRP click_VBP View_NNP External_NNP -_: I_PRP longer_JJR access_NN options_NNS like_IN Stats_NNP ,_, edit_NN ,_, etc_FW ._.
+Not_RB user_RB friendly_JJ ,_, frustrating_NN ._.
+Please_NNP fix_VB problems_NNS !_.
+UPDATE_NN :_: After_IN ``_`` response_NN ''_'' multiple_NN uninstalls_NNS ,_, reinstalls_NNS &_CC updates_NNS ,_, problem_NN still_RB ._.
+Ca_NNP n't_RB access_NN blog_NN using_VBG app_NN !_.
+Useless_NN ._.

@@ -1,0 +1,3 @@
+Main_NNP page_NN reading_VBG list_NN I_PRP able_JJ open_JJ reading_VBG list_NN app_JJ settings_NNS ._.
+All_DT appears_VBZ start_RB featured_VBN article_NN connection_NN internet_NN ._.
+Please_NNP fix_JJ bugs_NNS got_VBD recent_JJ updates_NNS ._.

@@ -1,0 +1,3 @@
+The_DT mobile_JJ website_JJ functional_JJ app_NN app_NN 's_POS features_NNS pretty_RB cool_VBP ._.
+I_PRP think_VBP go_VB main_JJ page_NN open_JJ stuff_NN like_IN random_JJ article_NN 's_POS separate_JJ page_NN ._.
+Also_RB ,_, page_NN CSS_NNP rendered_VBN instead_RB displayed_JJ text_NN ._.

@@ -1,0 +1,8 @@
+Decent_JJ app_NN ._.
+Tried_NNP offline_NN nav_NN apps_NN use_NN osm_JJ data_NNS best_RB looking_VBG map_NN display_NN ._.
+Clean_JJ clear_JJ display_NN navigation_NN plus_CC ._.
+Suggested_VBN nav_JJ routes_NNS generally_RB good_JJ ,_, care_JJ inability_NN ignore_RB toll_JJ roads_NNS well_RB get_VB one_CD suggested_VBN route_NN ._.
+The_DT biggest_JJS shortcoming_NN osm_NN apps_NN ,_, POI/address_NNP search_NN useless_NN unless_IN items_NNS entered_VBD osm_JJ database_NN ._.
+A_DT suggestion_NN would_MD online_VB search_NN function_NN (_( like_IN MapFactor_NNP 's_POS google_NN search_NN )_) able_JJ find_JJ items_NNS able_JJ translate_JJ info_NN offline_NN nav_JJ point_NN ._.
+Another_DT suggestion_NN would_MD improve_VB display_NN functions_NNS navigation_NN ,_, ie_NN :_: speedometer/speeding_NN warnings_NNS ,_, lane_JJ assist_NN ,_, fixed_VBN speed_NN cameras_NNS ._.
+Needs_JJ improvements_NNS solid_JJ app_RB overall_JJ ._.

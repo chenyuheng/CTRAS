@@ -1,0 +1,6 @@
+It_PRP 's_VBZ ok_JJ ._.
+It_PRP frustrating_VBG use_NN ._.
+The_DT directional_JJ arrow_NN sometimes_RB keeps_VBZ turning_VBG round_RP round_NN points_NNS wrong_JJ direction_NN ._.
+Nov._NNP 2019_CD :_: I_PRP maps.me_VBP update_JJ --_: search_NN function_NN n't_RB work_VB way_NN used_VBN update_NN ._.
+I_PRP used_VBD able_JJ put_VBD number_NN house_NN building_NN ,_, street_NN ,_, city_NN ,_, state_NN ,_, app_NN would_MD locate_VB address_NN ._.
+That_DT n't_RB work_NN anymore_RB ._.

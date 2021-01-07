@@ -1,0 +1,3 @@
+After_IN installing_VBG app_NN showed_VBD location_JJ street_NN name_NN completely_RB wrong_JJ ._.
+I_PRP wanted_VBD see_NN routes_NNS would_MD offer_VB father_NN 's_POS village_NN ,_, search_NN name_NN village_JJ yield_NN results_NNS ._.
+Uninstalled_VBN ._.

@@ -1,0 +1,1224 @@
+['0', '231', '295', '417', '44', '442', '512', '97']
+['1', '124', '169', '170', '196', '312', '418', '450', '51', '53', '561', '563']
+['2', '210', '215', '271', '290', '337', '343', '424', '443', '588']
+['248', '253', '3', '444']
+['100', '114', '12', '144', '179', '189', '192', '195', '21', '22', '241', '252', '277', '293', '307', '322', '323', '358', '382', '395', '4', '404', '416', '419', '428', '436', '454', '464', '465', '471', '479', '481', '495', '501', '522', '532', '578', '589', '590', '65', '75', '77', '79', '90']
+['103', '160', '20', '222', '230', '296', '326', '332', '364', '373', '387', '390', '449', '451', '457', '459', '480', '491', '5', '523', '542', '593', '594', '7', '83', '86', '89']
+['132', '143', '151', '276', '279', '29', '304', '32', '325', '33', '331', '344', '352', '398', '406', '429', '432', '446', '463', '492', '516', '521', '556', '564', '576', '6', '74']
+['255', '257', '437', '548', '8']
+['237', '392', '447', '517', '9']
+['10', '161', '239', '262', '270', '273', '274', '275', '28', '381', '391', '402', '409', '420', '507', '518', '519', '580', '61']
+['11', '147', '198', '452']
+['13', '197', '380', '461', '71', '76']
+['14', '301']
+['15']
+['16', '212', '386']
+['17']
+['18', '545']
+['176', '182', '19', '217', '314', '346', '347', '353', '370', '375', '38', '399', '484', '528', '568', '584']
+['23', '31', '310', '35', '360', '365', '426', '530']
+['24']
+['156', '25']
+['26']
+['115', '136', '183', '193', '234', '27', '291', '303', '315', '333', '334', '341', '40', '475', '48', '544', '56', '575', '599']
+['30', '500', '59', '63']
+['209', '34']
+['36', '369', '96']
+['37']
+['39']
+['117', '135', '158', '202', '220', '221', '288', '41']
+['42']
+['43']
+['45']
+['435', '46', '596', '602', '73']
+['213', '219', '256', '278', '318', '327', '47', '49', '490', '505', '531']
+['139', '174', '216', '250', '283', '285', '329', '338', '388', '394', '422', '431', '439', '453', '456', '474', '482', '50', '504', '515', '597', '66', '70', '84', '92']
+['460', '52', '567', '69']
+['299', '324', '434', '487', '529', '54']
+['55']
+['566', '57']
+['109', '141', '173', '177', '203', '223', '259', '261', '264', '311', '383', '502', '509', '565', '570', '572', '58']
+['60']
+['236', '62', '85']
+['64']
+['118', '178', '356', '552', '592', '67']
+['410', '489', '591', '68']
+['116', '131', '226', '243', '249', '294', '305', '351', '440', '477', '488', '553', '587', '72']
+['110', '111', '129', '224', '229', '308', '393', '569', '586', '78']
+['134', '80']
+['130', '335', '81']
+['172', '218', '246', '82']
+['244', '411', '441', '470', '87']
+['163', '472', '88']
+['91']
+['340', '93']
+['94']
+['95']
+['98']
+['99']
+['101']
+['102', '200']
+['104', '287', '425']
+['105', '181', '286', '309', '397', '598']
+['106']
+['107', '128', '168', '175', '260', '265', '289', '366', '600']
+['108', '361']
+['112', '152', '207', '245', '300', '345', '547', '601']
+['113']
+['119']
+['120']
+['121', '405']
+['122', '510']
+['123', '280', '320', '363', '573']
+['125']
+['126', '142', '171', '377', '543', '551', '559', '560']
+['127']
+['133']
+['137']
+['138']
+['140']
+['145']
+['146']
+['148', '157', '497']
+['149']
+['150']
+['153', '154']
+['155', '185']
+['159']
+['162']
+['164']
+['165', '201']
+['166', '413']
+['167']
+['180', '251', '342']
+['184', '254', '384', '385', '485', '514']
+['186']
+['187', '316', '350', '368', '423', '473', '503']
+['188']
+['190']
+['191']
+['194', '233']
+['199']
+['204']
+['205', '414']
+['206', '228']
+['208']
+['211']
+['214']
+['225', '408', '535', '581']
+['227']
+['232']
+['235']
+['238']
+['240']
+['242']
+['247']
+['258']
+['263']
+['266']
+['267', '577']
+['268']
+['269']
+['272']
+['281']
+['282', '284', '554']
+['292']
+['297']
+['298']
+['302']
+['306']
+['313']
+['317']
+['319']
+['321', '557']
+['328']
+['330']
+['336']
+['339']
+['348']
+['349']
+['354']
+['355']
+['357']
+['359', '389', '486', '525', '595']
+['362']
+['367']
+['371']
+['372', '378']
+['374']
+['376']
+['379']
+['396']
+['400']
+['401']
+['403']
+['407', '555']
+['412']
+['415']
+['421']
+['427']
+['430']
+['433', '468']
+['438', '493']
+['445']
+['448']
+['455']
+['458']
+['462']
+['466']
+['467', '526']
+['469']
+['476']
+['478']
+['483']
+['494']
+['496']
+['498']
+['499']
+['506']
+['508']
+['511']
+['513']
+['520']
+['524']
+['527', '562']
+['533']
+['534']
+['536']
+['537']
+['538']
+['539']
+['540']
+['541']
+['546']
+['549']
+['550']
+['558']
+['571']
+['574']
+['579']
+['582']
+['583']
+['585']
+603
+Supposed to be able to edit, but crashes each time I hit the edit button.
+-----end of report 0 
+Now you need an additional step, click on the edit (pen) button at the bottom right.
+-----end of report 231 
+There's a bug in the bookmark view, it's difficult to edit the bookmark for items with a lot of details, it will snap to the bottom or top, and the "edit" button is in the middle.
+-----end of report 295 
+Edit mode needs to support phone numbers and links like Gnotes.
+-----end of report 417 
+This is my number one problem that makes me lose a lot of time and sometimes by doing this it accidentally edits my text so I need to fix it.
+-----end of report 44 
+Edits from other devices may not show immediately.
+-----end of report 442 
+What I don't like is the bugs and errors when I want to edit something.
+-----end of report 512 
+Creating a Daily and setting it to all days, then editing it and removing the current day still leaves the Daily Active (Same with the reverse if it was first created as not enabled for this day of the week, then editing and enabling it, it remains disabled).
+-----end of report 97 
+============ end of one review of ONSF, group_count: 1, total_review_count: 8
+Need some sort of an update for this app.
+-----end of report 1 
+Kept this app on one phone in meantime in case later updates solve the storage problems, but unlikely as it is policy.
+-----end of report 124 
+Each time the app is updated, it decides to fill up the internal phone storage, rather than the the SD card.
+-----end of report 169 
+And following an app update, you then MUST re-download ALL previously downloaded apps, and again, fill up the phone storage not the SD.
+-----end of report 170 
+This app was the best app on my device since last 30 months uptil last update in Dec. 18.
+-----end of report 196 
+Updated Dec 2017: crashes repeatedly all day long since app update end of Nov on Samsung s8.
+-----end of report 312 
+too many updates and some minor annoyances good solid app,  but too many updates all the time.
+-----end of report 418 
+Previous version (on my Android phone) wouldn't let me access my Notifications, so I just updated the app, hoping this would help.
+-----end of report 450 
+You'd assume such a massively popular and old app that gets frequent updates would have had bugs like these fixed years ago...
+-----end of report 51 
+I'm not sure if they fixed it on purpose or by mistake, but I'm not going to take any chances updating the app again after this in case the next update brings back the lag again.
+-----end of report 53 
+The app allowed me to be able to easily cycle through all my sites quickly to see if they needed plugin or WP updates.
+-----end of report 561 
+With the latest update to the app, the developers buried the admin page access 3 clicks deep, so what would take me 1 click + a click per site to check update status, now requires me to click into the settings, then 2 clicks per site to check for update status.
+-----end of report 563 
+============ end of one review of ONSF, group_count: 2, total_review_count: 20
+Did that, except in Settings, there was no "Support" button, thus, no "Send Activity Log"  And, here I am paying for the "Premium" feature of Evernote.
+-----end of report 2 
+I can forgive almost all the other quirks except the fact that when I type a word (and Evernote causes my keyboard to get it wrong) and I backspace, it doesn't delete the entire word, and I have to go thru and delete the entire word manually, no matter what long, nonsensical word Evernote has decided to put in for me.
+-----end of report 210 
+So hears my review While sharing something to evernote, I have to click this and then that just to select which notebook I want to save it to otherwise it automatically saves into the wrong notebook.
+-----end of report 215 
+I tried downloading evernote on my computer but can't start it (just in the browser, and can't play the audio files there anyway) and just encountered more useless problems that I have no idea how to fix...
+-----end of report 271 
+Last of all, please stop pushing Evernote ads into my device's notification menu.
+-----end of report 290 
+Evernote has completely lost my trust - how can you not keep a local cache of data, and not even show an error message when the sync fails?!
+-----end of report 337 
+I really want to completely leave Keep for Evernote however the lack of this feature may be a deal breaker for me.
+-----end of report 343 
+Please provide a restricted version with fewer permissions "Evernote Private", without the privacy issues and albeit, less functionality.
+-----end of report 424 
+When I try to add the Evernote List widget it gives me the following error "Problem loading widget".
+-----end of report 443 
+my problem is that evernote overrides/bugs out the native spell checker which results in the autoreplace preventing me from typing because EVERY SINGLE KEYSTROKE results in a word injection.
+-----end of report 588 
+============ end of one review of ONSF, group_count: 3, total_review_count: 30
+Even working with Evernote tech support (who spent a lot of time assisting me) the problem couldn't be resolved.
+-----end of report 248 
+Suffice to say that just before I started typing this, I fired a message from a reserve Evernote account (opened solely for this purpose) to the main one via Work Chat.
+-----end of report 253 
+Having said that, the tablet version of Evernote is a very poor excuse of an attempt to create something that works.
+-----end of report 3 
+It only happens with this specific one, if I try to add the Evernote Action Bar works fine.
+-----end of report 444 
+============ end of one review of ONSF, group_count: 4, total_review_count: 34
+Can't I just work offline and sync in the house?
+-----end of report 100 
+At least most of the features work in a general sense; just not in my area.
+-----end of report 114 
+The search bar doesn't work.
+-----end of report 12 
+The game loads slowly, and doesn't work without an internet connection.
+-----end of report 144 
+The movable curve for setting time and wheel for setting date is not working and imo is totally redundant.
+-----end of report 179 
+-Sometimes pics wouldn't transfer into a notebook once captured  After a half hour of trying to make it work right I just hung it up.
+-----end of report 189 
+The sync works fast and without problems.
+-----end of report 192 
+2000 words of hard work gone.
+-----end of report 195 
+The handwriting is a huge pain, pdf notation is quite confusing and doesn't work on my tablet or phone.
+-----end of report 21 
+It takes forever to load the notebook too and the so called in text search function only works 1/3 of the time.
+-----end of report 22 
+and I thought of course, upload the changes, but what it did was download the first draft (the published one) overwriting the last one so I completely lost ALL of my work.
+-----end of report 241 
+Words following a checkbox for some reason do not work with my keyboard auto suggest, meaning I have to spell each word correctly on this little mobile keyboard.
+-----end of report 252 
+I supposed you would need to enter the hotel name in Japanese in order for the search to work.
+-----end of report 277 
+I can't get miles to work as the setting defaults back to kilometers every time.
+-----end of report 293 
+Extremely frustrating to loose hours and hours of work.
+-----end of report 307 
+Adding tags is really clunky because the tags have to be added to the filter, (I guess it works but it's unintuitive to have to add a tag to the filter instead of just tagging the task itself) but when I add them they don't immediately get added.
+-----end of report 322 
+Sometimes swiping doesn't work, sometimes trading the icon doesn't work.
+-----end of report 323 
+I've since moved on to OI Notepad: basic but allows tags, works with OI File Manager, writes to SD, and needs no internet rights.
+-----end of report 358 
+The undo/redo feature frequently will not work ... you can get into a situation where it "forgets" what's in the clipboard and your previous version of the document.
+-----end of report 382 
+A work around is to manually forcing syncs between changes.
+-----end of report 395 
+I have found another program that works, and works well.
+-----end of report 4 
+Ok for simple text but shear horror if you want to upload images.Upload is interrupted most of the time leaves the local media cache completely broken.No easy upload of multiple images (workaround via filemanager share dialog), no progress bar on upload (no idea if finished, incomplete or still working).Crashes if accidentally refresh media library during upload.
+-----end of report 404 
+Android version needs work No undo.
+-----end of report 416 
+Plus,  some of the UI needs works.
+-----end of report 419 
+Reset password again, tried logging in AGAIN, still didn't work.
+-----end of report 428 
+I'd also like to see the incorporation of a simple To-do list add-on that works similarly to Wunderlist, with reminders and quick simple text entries.
+-----end of report 436 
+Followed all the steps to change my email, that won't work either.
+-----end of report 454 
+Tried to uninstall/install several times and still does not work correctly.
+-----end of report 464 
+More stars when this major feature is working correctly.
+-----end of report 465 
+Nearly no function worked properly.
+-----end of report 471 
+Back to square one having to buy a GPS, and these garmins aren't cheap at all; I am however pleased on how close this was to actually work, that I dared to write this review; hoping they implement it, even if it's paid; maybe they can have competition in something they never expected to.
+-----end of report 479 
+It works best if you find your destination address with a browser, as the names in OSM don't always match.
+-----end of report 481 
+The bar appear in the screen but the functions (bold, highlight, list...) didn't work.
+-----end of report 495 
+Come to find out that it didn't save my work even though I synced multiple times.
+-----end of report 501 
+But you really do need to work on technical assistance and helping customers that run into problems.
+-----end of report 522 
+So when I am at work, I what to be able to look at my To Do list that is only relevant to when I am at work.
+-----end of report 532 
+Some functions simply do not work.
+-----end of report 578 
+Saved searches do not work correctly at all.
+-----end of report 589 
+My saved searches work fine on desktop, but not here.
+-----end of report 590 
+Moving tasks up and down the list doesn't work properly (lags and jitters).
+-----end of report 65 
+If I had purchased Premium on my work account, maybe I could share notebooks and sort of hack the same result, but I bought it for my personal account and still can't access my work account here.
+-----end of report 75 
+Searching by street name sometimes works, but often comes up empty.
+-----end of report 77 
+Everything looks pretty good, but the Featured Image setting doesn't work.
+-----end of report 79 
+Woe be unto you if you mak long pots, because after a certain size copy/paste stop working and the editor gets so slow you have to wait for the displayed text to catch up to you.
+-----end of report 90 
+============ end of one review of ONSF, group_count: 5, total_review_count: 78
+But the latest update has bugs that affected both my Android version and Mac version.
+-----end of report 103 
+I have around 30,000 images in various picture folders (I am travelling and have a 128GB sd card in my tablet where my images are stored)  and this update to 3.9 has made choosing images impossible.
+-----end of report 160 
+Then I have to delete the old version of the notebook if I made any change, but I it doesn't automatically update for me.
+-----end of report 20 
+10/13/15 UPDATE-- Now BAR widget is gone from my tablet screen.
+-----end of report 222 
+Since the last 2-3 updates however, one has to physically hit the done button to save ur wrk.
+-----end of report 230 
+GPS Bug updated.
+-----end of report 296 
+I was just traveling without internet and was pleased I could update my offline lists to account for changes I didn't think of before my trip.
+-----end of report 326 
+Sometimes an update would relocate your maps to the phone, sometimes it would delete all maps, sometimes you had to uninstall and reinstall, sometimes ....
+-----end of report 332 
+The newest updates still had bug.
+-----end of report 364 
+UPDATE Thu May 23 2019: Sadly, downgradin from 3 to 2 stars.
+-----end of report 373 
+A significant backward step Now there is no way to select which maps to update, nor is there any indication of download size (why not?).
+-----end of report 387 
+Tried updating one small map (Guernsey 449kB) and found ALL my old maps had been deleted.
+-----end of report 390 
+This latest version changed my default map location from SD card to main memory, then told me I didn't have enough memory to update my maps, although this version only updates changes.
+-----end of report 449 
+UPDATE: After a "response" and multiple uninstalls, reinstalls & updates, same problem is still there.
+-----end of report 451 
+Update UI issues The UI faces some tremendous update glitches when I try to set big Dailies or To-Dos with lots of checklist items and lots of reminders.
+-----end of report 457 
+I hope you update this point; 1) coz I read many reviews in Google that users are asking for it.
+-----end of report 459 
+Adds have been added in one of the never versions, don't update if you haven't already!
+-----end of report 480 
+Recent update auto assigns a category, making it roughly a 3 step process to change each time something falls in a different category.
+-----end of report 491 
+One step forwards, two steps backwards (UPDATE#2)   Material design is in the right direction, BUT The overlap text bug that was fixed in the previous version IS BACK.
+-----end of report 5 
+Update - Now I keep getting update email notifications - WHY???
+-----end of report 523 
+I just updated it & can't find the TEXT FORMATTING BAR which contained BOLD FONT, UNDERLINE, HIGHLIGHT, BULLETS, SUBSCRIPT, SUPERSCRIPT.
+-----end of report 542 
+Frustrated with the latest update to the business card scanning function.The label (phone number, fax, email, etc) only shows when the box is empty.
+-----end of report 593 
+Has become useless after Dec 17 update Puts up message about needing card space, which takes for ages, which never happened before.
+-----end of report 594 
+(UPDATE#1)  Another bug unfortunately is when I paste an image from Chrome, only a small pink box appears.
+-----end of report 7 
+UPDATE: After latest update, have to say the mobile (phone) UI is WAY more desireable than the tablet UI.
+-----end of report 83 
+As well, the web based editor crashes EVERY SINGLE TIME I do an update to a blog.
+-----end of report 86 
+It also cannot pull the most recent version of you updates which you created with the web editor.
+-----end of report 89 
+============ end of one review of ONSF, group_count: 6, total_review_count: 105
+Finally, business card scanning is missing and there is a persistent error when trying to use the page scanner.
+-----end of report 132 
+This is simply the most bugged piece of software I have ever used.
+-----end of report 143 
+To get full use, use more tags and less notebooks.
+-----end of report 151 
+The hotels that I've booked cannot be found using the search function.
+-----end of report 276 
+Even without using the search function, the Osaka map is difficult to read (compared to Google Map) as it is mostly in Japanese.
+-----end of report 279 
+UPDATE- Developer replied to this review and asked me for the name I used to contact them.
+-----end of report 29 
+Still using it daily, after restarting it several times, but the bugs are a huge drawback!
+-----end of report 304 
+It is now impossible to use saved searches in the widget, and that was what made it so useful.
+-----end of report 32 
+--> Cannot save whole Internet pages - it saves only URLs when I use the share feature in my browser.
+-----end of report 325 
+But without the saved searches in the widget the whole thing is not half as handy as it used to be.
+-----end of report 33 
+Great features, easy to use, but it has ONE MAJOR BUG that has been there for 2 years - they sometimes solve it, most of the time they mess it up.
+-----end of report 331 
+I use the PC applications and for some reasons it hangs (long waits, not necessary crash).
+-----end of report 344 
+- Car navigation is so bad it's practically useless  PROS: - Good offline map support for when you visit countries where you have no service so long as you do not need navigation - Maps include hiking trails which is very useful if you're hiking national parks and you want to check where you are on the trail.
+-----end of report 352 
+The sharing features are useful, but accessing them is not intuitive and I tire of digging through notebooks and chats to find information shared with me.
+-----end of report 398 
+Use pc and mac and android versions to have stuff always around.
+-----end of report 406 
+Last week I logged in and was forced to use one of 3 times to sign out a suspicious iPhone (I have never used an iPhone) so I added security to my account, including password.
+-----end of report 429 
+Leaving screen with download progress shown resets download from say 50 % to 0%, meaning you cannot use your phone during maps downloading process untill it completely finished.
+-----end of report 432 
+My cell phone is LG G3, Android 4.4.2, had already loaded with the maps used for address searching.
+-----end of report 446 
+I used settings to download the maps to my external SD card.
+-----end of report 463 
+I am a paying user for the image search capabilities, but may discontinue that now that this is so hard to use.
+-----end of report 492 
+It's search feature could use a lot of improvement.
+-----end of report 516 
+Now it keeps freezing on me if I touch any of the controls Search, Download Maps (I can download only by using the map itself), Settings at the bottom of the screen.
+-----end of report 521 
+Storage use on my tablet was 1gb plus and crashing my tablet with no easy way to either 1) unsync folders en masse, or 2) move database to sd card.
+-----end of report 556 
+I use a lot of bullet points and I always have a problem when I want to copy all text under bullet points.
+-----end of report 564 
+I'd prefer if free synchronization were back, possibly at the cost of functionality I'm not using - text& image sync on all devices is all I need.
+-----end of report 576 
+Also, the formatting bar is taking more space on a tablet, when it used to share the space with the top bar.
+-----end of report 6 
+Plus, the text editor could really use a remake... it doesn't behave like a normal text editor (like when using backspace, or enter, or other stuff...).
+-----end of report 74 
+============ end of one review of ONSF, group_count: 7, total_review_count: 132
+Thus you keep getting Conflicting changes,and when someone tells you he has finished editing the note, the final version does not reflect immediately, so there's always a pang of doubt as to whether you are reading the right one.
+-----end of report 255 
+If I do find what I'm looking for, I can't edit at that location, as soon as I hit the edit button (why you'd need a button to edit a note when thats basically all this program is for is beyond me), it takes me back to the top of the note.
+-----end of report 257 
+I understand that there are more security features and the ability to edit shared notes with the premium account, but this is not worth anything near $45 per annum.
+-----end of report 437 
+It's largely in the interaction details, things like notes auto-exiting "edit" mode while I'm in the middle of meetings and the lack of formatting feature parity (can't select multiple lines of "bullet" items, can't indent checkboxes).
+-----end of report 548 
+When I save the note, I can see the image fine, but now I am unable to edit the note properly because it tells me that the "format is not supported".
+-----end of report 8 
+============ end of one review of ONSF, group_count: 8, total_review_count: 137
+I like the app but wonder sometimes why WordPress suggests that I share posts on social media to increase views when I have done so to several sites the day before and had multiple comments and likes on those sites but WP shows me having less than one-third as many views or worse.
+-----end of report 237 
+Then when you go back into the app to see what is going on it deletes the post you were trying to upload and you are left with only the title and the knowledge that you have entirely wasted your time and need to write the whole thing and locate all the media files again.
+-----end of report 392 
+The app lacks easy linking to already published posts, a way to copy a previous post, and the mouse support on Android is terrible - formatting buttons and most dialog boxes don't respond to mouse clicks at all.
+-----end of report 447 
+But the problem is  , " I can't upload any posts to my wordpress site with this app " .... Gosh !!!!
+-----end of report 517 
+This app doesn't have some sort of front page like imgur has for example, instead all we get is the "discover" feature which only promotes bland, vague and uninteresting posts with no personality.
+-----end of report 9 
+============ end of one review of ONSF, group_count: 9, total_review_count: 142
+All the posts featured there are just... unattractive, to say the least.
+-----end of report 10 
+Either I upload the images to google or similar and put a link in the post to them.
+-----end of report 161 
+I search for something like post adjustments (oh, they were in the footer!
+-----end of report 239 
+So you have to delete the photo from the post and leave it as the featured image for the post to look normal and not retarded.
+-----end of report 262 
+I need these links to submit post to my editor through Slack or Trello.
+-----end of report 270 
+Misses lots of posts ..
+-----end of report 273 
+The latest version's reader seems to miss random posts .. and only shows a handful of posts ..
+-----end of report 274 
+I would have to check my email notifications, read the posts there, and if I need to comment I would need to go look for it .. very annoying and undermines the main purpose I installed the application for ..
+-----end of report 275 
+UPDATE- As shown below, the someone from the developer company posted suggestions.
+-----end of report 28 
+I do like the addition of searching for posts via keywords & hope that stays.
+-----end of report 381 
+Doesn't upload and deletes posts It will upload small posts with no pictures in them, but as soon as I attempt to upload a longer post with photos it starts a never ending upload which never actually finishes.
+-----end of report 391 
+When I clicked on it the draft from one month ago opened, the post without  any pictures and half of the text missing.
+-----end of report 402 
+POSTS ARE NOT POSTING, PICTURES ARE NOT UPLOADING, PEOPLE ARE NOT ABLE TO VIEW POSTS.
+-----end of report 409 
+Though, locating a specific post is tricky and time consuming (unless it's a recent post).
+-----end of report 420 
+The only good thing about this is being able to manage posts, pages and comments (move or remove them).
+-----end of report 507 
+When I try to post something it shows "Uploading " for around 50 seconds and after that it always shows. "
+-----end of report 518 
+post upload failed : An error occured while uploading the post "  Even if the post contain just a heading and 3 lines of content ( no media files ) the result is same.
+-----end of report 519 
+It added formatting to a post I had started on my computer, which is funny because in the preview all the formatting is stripped.
+-----end of report 580 
+I just want to post quickly with no hassle- the control needed but not clutter.
+-----end of report 61 
+============ end of one review of ONSF, group_count: 10, total_review_count: 161
+There are no set categories or tags, instead you make them up and unless people type them up exactly like you did they won't see your post, which is counterintuitive and discourages finding new posts or bloggers.
+-----end of report 11 
+Doesn't post a new blog if I clear the 'uploading...' notification The new blog posting process is somehow interrupted and doesn't finish completely if I clear the 'uploading...' notification.
+-----end of report 147 
+And for forcing me to be connected to the internet it doesn't even notify me of new posts from my guilds and party.
+-----end of report 198 
+From not being able to upload photos, to my site being hidden when it's quite blatantly not, and not being able to start a new post, oy being able go into setting for about 5 seconds be for it puts me back to the main menu.
+-----end of report 452 
+============ end of one review of ONSF, group_count: 11, total_review_count: 165
+All of these factors make it feel deserted and lacking of a community, and discourage new users of getting into writing or reading on WordPress.
+-----end of report 13 
+But those dev have made changes n kept lower end devices compatibility with new features also.
+-----end of report 197 
+Showing new job applications when I'm just trying to show my bosses some new protocols.
+-----end of report 380 
+That is why the new version gets frozen without any explanation.
+-----end of report 461 
+EVEN MORE SAD: new free version rule is ONLY 2 DEVICES -&gt; BUT YOU CAN'T DISABLE or UNINSTALL on SAMSUNG PHONES!
+-----end of report 71 
+If I currently have a good connection I want to be able to search a new area without having to download the section first.
+-----end of report 76 
+============ end of one review of ONSF, group_count: 12, total_review_count: 171
+New Upgrade = Loss of Functionality Evernote automatically updated on 9/4/14.
+-----end of report 14 
+I'm a long-time premium Evernote user, but this new update is baffling.
+-----end of report 301 
+============ end of one review of ONSF, group_count: 13, total_review_count: 173
+but instead of opening up a blank template for a new note, IT OPENED UP THE PREVIOUS UNEDITED VERSION OF MY OTHER NOTE... from before I spent all that time adding all the additional info.
+-----end of report 16 
+This may have something to do with my keyboard auto-loading when I try to make a new note, as it does not when I go the "Start a new..." route.
+-----end of report 212 
+Speed is still an issue for those functions which have always been there: new note, search (especially within large notes of text) and camera access within a note.
+-----end of report 386 
+============ end of one review of ONSF, group_count: 14, total_review_count: 176
+Tags are used instead of folders, so there's absolutely no separation between work or personal notes.
+-----end of report 18 
+I wish that the location tagging of notes allow you to specify a location using its name, instead of just a pin on a map, for example being able to tag a location as my works name and make that metadata searchable.
+-----end of report 545 
+============ end of one review of ONSF, group_count: 15, total_review_count: 178
+I use Evernote pretty heavily, and it does what I need it to, but it also has a few annoying problems.
+-----end of report 176 
+Absolutely appalled - had to clear the data and cache associated with the gallery and restart phone - have deleted Evernote and won't be using it no matter how useful it could be.
+-----end of report 182 
+I'm slowly training myself to use OneNote because Evernote is becoming unusable due to the unresolved bugs.
+-----end of report 19 
+One of the main reasons I used Evernote was to create lists for myself and display them on my home screen so I would not forget or ignore the tasks I set myself throughout the day.
+-----end of report 217 
+Free Evernote account was great on devices, then on Google enabled Nokia smartphone became so slow unable to use (even tho' using SD card).
+-----end of report 314 
+Alternative for reading evernote is the online login - don't every say its not useful - to search and read back.
+-----end of report 346 
+I was so embarassed when i showed a colleague how to use the evernote chat but it turns out i never received the shared page.
+-----end of report 347 
+If you want to use Evernote for its high level features and are willing to pay for it, then you'll probably like it.
+-----end of report 353 
+At the moment I'm getting by with the web version of Evernote when I'm using my Pixelbook but I really don't want to be
+-----end of report 370 
+This feature actually is extremely useful and Evernote keeps it rather simple.
+-----end of report 375 
+I feel bad for all the loyal Evernote users that will probably have to upgrade to keep the features they use to have for free.
+-----end of report 38 
+I have upgraded to premium to use the most out of Evernote and use it with it's full features.
+-----end of report 399 
+Decided to try Evernote using the Springpad export feature (Evernote waived the file size limit for this changeover).
+-----end of report 484 
+Less and less impressed I am less and less impressed the more I use evernote.
+-----end of report 528 
+In addition, I've found out that trying to privately inform Evernote of a bug that is causing me to stop using their product is a paid feature.
+-----end of report 568 
+If I buy premium account it would represent the MOST expensive piece of software (if U buy win every 5 years and use mostly opensource, Evernote is twice as much = cca 300$) When you read reviews on net - be adviced: they are mostly written by premium account users or by users with almost all time internet conection.
+-----end of report 584 
+============ end of one review of ONSF, group_count: 16, total_review_count: 194
+2015 Update - Evernote has officially jumped the shark by removing key offline functionality for free users.
+-----end of report 23 
+I paid for the Evernote Plus to get the extra functionality on web and widget, and since the last update I regret this.
+-----end of report 31 
+Updated Feb 2020: what is wrong with Evernote?
+-----end of report 310 
+This last update really really ruined the whole Evernote experience for me, to the extent that the widget is now completely useless, frustrating me and messing up my workflow on Evernote.
+-----end of report 35 
+Evernote, you better get you act together and send an update to fix these problems.
+-----end of report 360 
+Since Evernote update version 8.2 above, cannot send/share image through Whatsapp, and cannot open the image sent .
+-----end of report 365 
+I got a pop up message @ 5pm, showing that Evernote cannot sync the latest update.
+-----end of report 426 
+Gets worse with every update On launching Evernote, I have to dismiss a full-screen plug for a feature I don't care about.
+-----end of report 530 
+============ end of one review of ONSF, group_count: 17, total_review_count: 202
+Now I'm searching for another app which can save my data as it is available like the previous versions of Evernote used to do.
+-----end of report 156 
+In this day and age of FREE, full functionality organizational apps like OneNote (font changes, sketching capabilities, email to app, etc), I don't see a reason to continue using Evernote.
+-----end of report 25 
+============ end of one review of ONSF, group_count: 18, total_review_count: 204
+I am aware you can opt out of most advertising by going to settings and switching off "Show offers", but there's no garuntee your app will stop giving other unwanted push notifications, such as the one asking if the user is aware of the bookmarking feature.
+-----end of report 115 
+The load time for a list is "unbearably" long (two seconds may seem like nothing but cumulatively from opening app everytime you switch screens whether loading a 1 line list, saving, or just pressing back).
+-----end of report 136 
+How dare an app be set up to arbitarily change settings on other apps without informing the user and giving them the choice not to do it!
+-----end of report 183 
+Android app still lacks many features the Windows PC version supports.
+-----end of report 193 
+I once rated the app 5 star for all the incredible features, but now the simplest task of all, writing lines of text with the date and names of events I've recently attended, has become a near impossible one to complete.
+-----end of report 234 
+------------- Next I uninstalled & re-installed the app (for the 12th time trying to fix the vanishing maps problem).
+-----end of report 27 
+And on few occasions the App version threw off main version from Laptop.
+-----end of report 291 
+Great app based on features, AWFUL due to bugs!
+-----end of report 303 
+**I do not recommend a buy on this app' but stick with the free version as the  major difference is the ability to search on this one, but it is not good and you essentially have the same features on both, free & Pro, with out it.
+-----end of report 315 
+(for Android devices)     If you want to store downloaded maps on SD, you should move them directly from the app – open app’s settings > Map > Maps storage > select SD card.
+-----end of report 333 
+If you don’t see Maps storage tab in app’s settings, turn off the device, take out SD card and put it back again, turn on the device.
+-----end of report 334 
+Continuous upsell of "Upgrade you subscription" type messages in push notification and in-app promos daily are starting to really bug me.
+-----end of report 341 
+The app relies on your device's keyboard autocorrect features, which is great....for phones.
+-----end of report 40 
+Very unstable on Asus Tablet Adding photos via the camera very often crashes the app, which then of course loses everything you've written.
+-----end of report 475 
+You need to disable the info sharing, apparently this app sells info on you 20 times more than other apps
+-----end of report 48 
+It's overbloated with useless features (chat, connect to FB, Twitter...) but it is missing important features - export to PDF and share (in normal way like every other app do)...
+-----end of report 544 
+I don't want to have to remove the sync setting as I do want the app to sync regularly when I'm online.
+-----end of report 56 
+And while I like to be encouraged to switch to a subscription by extra features, but forcing your customers to pay up by removing the core functionality of the app (ability to synchronize across more than 2 devices) is a very ugly business practice.
+-----end of report 575 
+When I try logging  into OpenStreetMap on the app, there always says there is an error with log  in.
+-----end of report 599 
+============ end of one review of ONSF, group_count: 19, total_review_count: 223
+I will update the review & star rating when (if) they reply & tell me how to make this application work.
+-----end of report 30 
+UPDATE: I worked with support for 3 separate bugs.
+-----end of report 500 
+I have things working as they should... then an update like the latest wrecks everything.
+-----end of report 59 
+Wrangle things back to where they work again....then get blitzed by the next update
+-----end of report 63 
+============ end of one review of ONSF, group_count: 20, total_review_count: 227
+I have the same typing/editing issues as everyone else since the new update.
+-----end of report 209 
+NEW EDIT:Went from 3 to 1: since the new update, I get at least 2-3 times the message that my widget list could not be loaded, and that it has to do something with my wifi.
+-----end of report 34 
+============ end of one review of ONSF, group_count: 21, total_review_count: 229
+There's no option to save here, and the *affirmative* choice *deletes* my edits (jeez, if you're not paying attention...).
+-----end of report 36 
+I also really appreciated the tables functionality of the Mac version but this hasn't even got the option to make a table, let alone edit it.
+-----end of report 369 
+There is no clean way to take back a button press (If you accidentaly pressed on + and didn't mean to your options are leave it as is even though you didn't earn the rewards or edit the task to include a minus option and take the HP hit).
+-----end of report 96 
+============ end of one review of ONSF, group_count: 22, total_review_count: 232
+The notes you type in the web version are not fully compatible with the app version, which is really frustrating.
+-----end of report 117 
+I liked this app at first because of the emmense amount of features to make very customizable notes and list from check boxes and formatting.
+-----end of report 135 
+Now that the overlay widget is gone and you're taken into the app itself, it's much less functional and shows off all your other saved notes at the same time.
+-----end of report 158 
+great features BUT ... i love the features (great widget, compatibility with Skitch etc) - they're great for my Note II, and make for a great SNote (app) replacement  BUT - there are some issues.
+-----end of report 202 
+The most frustrating feature missing for me right now is the ability to change the default view in the computer based app, it always defaults to "Created" (date) and "Revers Sort Order", I do not think that way; I need to specify my preferred view ("Notes by Title" Ascending).
+-----end of report 220 
+Would love to be able to see PDFs in-line in my notes and viewable full screen, without having to download the PDF and open in another app (which often creates another copy of the PDF file).
+-----end of report 221 
+Google Play Services has Stopped Every time I open this app, my Note 4 heats up and lags until I get a message saying Google play services has crashed.
+-----end of report 288 
+You have the ability to add in photos from your gallery or dowloads into notes, which is awesome in addition to my Chromebooks "snippet" feature, however you can NOT resize the image from within the app.
+-----end of report 41 
+============ end of one review of ONSF, group_count: 23, total_review_count: 240
+For instance, I'd like to have the option of disabling the local storage of notes on my phone.
+-----end of report 435 
+The quick note option in the notification bar is not appearing for me.
+-----end of report 46 
+Half the options for adding a note are at ant given time not even an option.
+-----end of report 596 
+👍 Sometimes i wanna put my hand-written note on the screen as a widget showing all its details i.e as if its a paper or a sticky note on the home page (bc i need it as reminder but not for a specific time, its mostly stuff i wanna get done with through out a day; like  "remember to get a gift for your friend" , i will do it any day during the week when i find a chance, However sometime its more than a note for one subject, so the title only won't be enough) ...2nd: Well, I need this one from time to time: an option to copy/paste from one notebook to another.
+-----end of report 602 
+BUT, it lacks the very "androidy" things like color options for your lists or notes, color options for what you write in those notes, color options for the highlighter (damn it!!!!
+-----end of report 73 
+============ end of one review of ONSF, group_count: 24, total_review_count: 245
+Gallery creation/modification missing, Nexus 4 video upload doesn't work	On the whole, the UI is clear and nicely built, but two basics things I use most are missing/not working: - Creating a gallery necessitates first googling the workaround in their support forums (i.e.
+-----end of report 213 
+Here's what's lacking for me: When I'm in a lecture class that I would like to record, the record function only works if I do not use any other insertable feature such as taking a picture or drawing a diagram.
+-----end of report 219 
+Untrustworthy for work purposes and right now I use it mostly because my boss does.
+-----end of report 256 
+Google map works wonder using English.
+-----end of report 278 
+* The Samsung 7.0 comes with, Latitude, for free and gives you the ability to download maps for offline uses and work just as good.
+-----end of report 318 
+But ultimately - I have been using this on my laptop/phone/tablet/and work PC.
+-----end of report 327 
+It does work offline for me which is 1 reason not to boot it just yet but its useless to navigate with, i use it just to look for trails.
+-----end of report 47 
+I used to love this and it worked really well for me.
+-----end of report 49 
+I use this for regular work and other projects.
+-----end of report 490 
+It's extremely unreliable when trying to use it to get work done.
+-----end of report 505 
+On my desktop, using the Chrome add on,  the web clipper works well, discards useless page parts and saves the article in readable form.
+-----end of report 531 
+============ end of one review of ONSF, group_count: 25, total_review_count: 256
+Missing "do not download" option in map diwnload dialog window.
+-----end of report 139 
+In what universe does this "feature" count as an "option" that should be lower on the priority list of things to implement than things like... location tagging?
+-----end of report 174 
+Also while saving my recipes, half of the ones do not show its picture and there is no option of deleting the picture and manually adding one for myself .
+-----end of report 216 
+Then there's the fact of trying to delete check boxes and other formatting options.
+-----end of report 250 
+❌please give us options like you have given in iPhone📱(iOS), ⚫Options in iOS are  ✔Share ✔Present ✔Add Shortcut ✔Duplicate ✔Simplify Formatting ✔Delete ✔Cancel ...
+-----end of report 283 
+The first mentioned problem is solvable with this option.
+-----end of report 285 
+There is no option to remove the unsupported formatting.
+-----end of report 329 
+Password needs improvement in lock time, and you must add a lock button at the menu options.
+-----end of report 338 
+The option to download WITHOUT routing has disappeared.
+-----end of report 388 
+I though maybe  trying the premium version would allow us this option, but sadly, no.
+-----end of report 394 
+Every option for contact leads you to "Make a ticket" with no option to make this ticket (whatever that is).
+-----end of report 422 
+There is no option in settings to change the location of maps to SD card.
+-----end of report 431 
+needs a sync option, and more features on the widget.
+-----end of report 439 
+Thought this was a simple way to easily create a blog but it wouldn't let me have the same username/blog/url name so I attempted to delete but apparently that isn't an option.
+-----end of report 453 
+I've  shared one of my many lists via Wi-Fi direct between my devices, but it's  archived and there is no option to import.
+-----end of report 456 
+Then I can't save the username and display name I create, and the avatar generator screen doesn't load any options.
+-----end of report 474 
+Due to size limits, searching by street numbers is not possible and this severely limits your options.
+-----end of report 482 
+Now even basic words are shown as misspelled and there is no option to add a word to the dictionary I can no longer print individual pages, it is either all or nothing and that leads to a huge waste of paper.
+-----end of report 50 
+The "Send Logs" option under settings opens up an email with logs but there is no recipient.
+-----end of report 504 
+Limited without annotation options on images Doesn't appear to be any way to add markups or annotations on images that are captured.
+-----end of report 515 
+It's fine to limit the quick select menu to only 6 items, but somewhere on the page you HAVE to give a "more options" button to click on to select from all the other options, so as to make them still an option.
+-----end of report 597 
+I can change it in the settings but tapping each option simply changes which one is active.
+-----end of report 66 
+Other options and business options could be charged?
+-----end of report 70 
+Please consider syncing these up, or at least give us the option of which to install/use!
+-----end of report 84 
+I tried sending an activity log but when I click on the option to submit a ticket (as you have advised others here to do).
+-----end of report 92 
+============ end of one review of ONSF, group_count: 26, total_review_count: 281
+I downgraded to a much older version and saw an error message where it hangs: "Note edit error: Android system is updating.
+-----end of report 460 
+Edit: Last update has drastically fixed the lag issue with long notes.
+-----end of report 52 
+When in area without Internet access & spotty cell phone coverage and you try edit or update a Note, it will "Lock" the note!
+-----end of report 567 
+Note editing - After the last update, I need to roll up the note to make this little green circle appear.
+-----end of report 69 
+============ end of one review of ONSF, group_count: 27, total_review_count: 285
+You have to stop the app restart it with GPS already enabled and it seems to work for the most part but it was very spotty and it makes it extremely hard to use if you don't have time to stop and park and occasionally I had to hit the lower left button to make it connect again if it stopped working.
+-----end of report 299 
+With patience all this stuff does eventually work, but it's tedious to just use the app.
+-----end of report 324 
+Having used the app for a little while now, I'd like to see more work put into it.
+-----end of report 434 
+With some of the apps, it really would be nice if you could choose to go back to, or not use an upgraded version if it works for you as is.
+-----end of report 487 
+I tried using this app on my Infinity Android Tablet PC in place of OneNote during a meeting at work.
+-----end of report 529 
+I used to love this app and I use it a lot for work and personal info organisation.
+-----end of report 54 
+============ end of one review of ONSF, group_count: 28, total_review_count: 291
+Updates have ruined this app The sharing option has been turned into a mess.
+-----end of report 566 
+(NB the Windows 10 app update doesn't even appear to have the option to change the sync setting at all - in fact the settings menu seems to have disappeared completely!!!)
+-----end of report 57 
+============ end of one review of ONSF, group_count: 29, total_review_count: 293
+Another bug exists when trying to change the font characteristics of any text you have already typed into the note.
+-----end of report 109 
+Train stations are well-marked and it's pretty easy to follow along with your reason trip to know how much further you need to go and where to get off (note that the routing itself i s by driving rather than public transport, which would have been a nice feature, but that you can simply see where the tracks are).
+-----end of report 141 
+Tonnes of fluff, but lacks some basic stuff... ... like the ability to delete a note, which has been requested for a bloody long time.
+-----end of report 173 
+The rich text formatting also occasionally bugs out completely, especially on a note with lots of formatting, and sometimes the only way to fix it is to remove the formatting and add it all back manually.
+-----end of report 177 
+my number one problem is the lack of accessibility - can't batch delete notes, not to mention it's cumbersome still to delete them one by one (open...menu...scroll down... delete).
+-----end of report 203 
+And why do you have to perform 2 steps to get note to appear on homescreen?
+-----end of report 223 
+It's really hard to get a good snapshot of your notes as a whole and how they're organized, or to move around between notes by navigating rather than searching.
+-----end of report 259 
+Same is true if a refresh or save fails for some reason: the message appears only briefly, so if you miss it you can keep plugging away at notes that you'll never be able to save.
+-----end of report 261 
+Is there a way to disable these features and what logic is behind you needing access to my contact and call log information for making note taking easier?
+-----end of report 264 
+Still freezes, note reopens while reading, crashes.
+-----end of report 311 
+To list but a few, the 2 device limit now,  Bugs not being fixed, always had trouble with PC version not saving changes, and recently it will put loads of extra blank lines in my notes for NO REASON!
+-----end of report 383 
+I'm sure it has something to do  with them wanting me to pay for a premium version but if I cannot get more  than a half a page of notes before I start having problems then I am not  going to consider a subscription.
+-----end of report 502 
+I was trying to ride through the problems as most of them were small as I loved the search functionality for going through tons of academic notes.
+-----end of report 509 
+notebooks need to be paid for so that when you sync you won't need to open notes one by one for offline viewing.
+-----end of report 565 
+It is very complicated to create a note from an image one shares from a web browser, because it keeps creating a note with the image's url, instead of attaching the actual image.
+-----end of report 570 
+I save a note and come back to see that the numbering is off: every line has the same number, or the numbering starts over halfway through the list, or that one line has two numbers and you can't fix it without completely deleting the numbering.
+-----end of report 572 
+I tried being nice and simply asked you to remove my name devices and any notes or images you have for or from me in your system .
+-----end of report 58 
+============ end of one review of ONSF, group_count: 30, total_review_count: 310
+And when visiting someone's blog, I prefer seeing an outline of their posts, which can help me access ANY post of that person, over an incomplete list of posts sorted chronically which doesn't display all of their posts (some of them are only accessible on the app through browser, so what's the point of using the app over browser?)
+-----end of report 236 
+What used to take seconds... select some pics on phone ... share to WP app... add text hit upload and DONE... is now futz with this and that ... fight the awful quirks ...hit post and wait wait wait...error.
+-----end of report 62 
+Went to create a blog post today using my WordPress app and discovered that the editor is some weird, useless version of what it was before.
+-----end of report 85 
+============ end of one review of ONSF, group_count: 31, total_review_count: 313
+The biggest complaint I have is how many privacy permissions they gave themselves - the latest update gives them a new permission, to add, create, delete, and set passwords for user accounts on the device.
+-----end of report 118 
+The new "Context" feature is intrusive and keeps trying to turn itself back on after updates.
+-----end of report 178 
+Plus this password reset thing made me not only change my password once but create a new one on every desktop and phone tablet because of how update was tooled.
+-----end of report 356 
+I have a subscription so I wasn't caught off by the mobile access counting as one device (on the 2 device access limit), but the new update increased loading times as well on Android.
+-----end of report 552 
+I dont know whats up with this new update, but it was definitely a miss guys.
+-----end of report 592 
+inconvinient interface The new update is as stylish and beautiful as it inconvenient and wrong.
+-----end of report 67 
+============ end of one review of ONSF, group_count: 32, total_review_count: 319
+I've used WordPress for years but your new step forward is amazing.
+-----end of report 410 
+Bad UI layout Don't upgrade: the new version uses too much screen space!
+-----end of report 489 
+I get a new phone & now I cannot access it unless I upgrade to use on all devices!!
+-----end of report 591 
+I didn't used all the new "features" so I'll comment only few of them.
+-----end of report 68 
+============ end of one review of ONSF, group_count: 33, total_review_count: 323
+DO NOT engage the user outside of the app unless it is for a currently requested function or feature they are actively using, such as continuing navigation while in the background.
+-----end of report 116 
+Reduction of performance Useful app plus web tutorials are great however, it is slow, to do lists are clumsy and do not allow for removing completed tasks easily.
+-----end of report 131 
+I have used this app from the beginning, and I have been through all the bugs and fixes.
+-----end of report 226 
+I should have chosen to use Google Keep which came naturally installed app on my phone but I didn't like that everything was based on Google, also same thing with my photos, non-existent music player and some other stuff we're based on Google too meaning no gallery app (blue and yellow flower icon) and had to download VLC as a music player making me feel like I was lacking basic essentials from my phone apps.
+-----end of report 243 
+I rely on this app for everything and now I can't use it for its most important feature to me!
+-----end of report 249 
+I wanted to use it offline and without using my location (to save battery), but the app constantly prompted me to switch on location.
+-----end of report 294 
+Will change the review once I will be able to rearrange the tasks without having them moved back were they  were (or placed somewhere in-between), when it wouldn't crash when I set a notification on a task, when the party tabs don't appear on tasks view, and when the animals appear in the app when they are found, not hours later (refresh + app restart = no use in this case).
+-----end of report 305 
+Missing key features Been using this app for a few years and it is still lacking two significant features:  1.
+-----end of report 351 
+it uses data and slow the app in place with slow internet.
+-----end of report 440 
+As a cyclist I have to say that this is the only app so far that I have checked that allows you to create routes using small roads that doesn't crash or fails for some random reason or has them all removed; google maps, strava, osmand, bike citizen, here we go, sygic maps, all of them failed spectacularly, this one did not.
+-----end of report 477 
+Bug report on checkboxes Very useful and helpful app, HOWEVER!
+-----end of report 488 
+The more functions get added the less I like using the app.
+-----end of report 553 
+(5 stars w/ disabled spellcheck) Galaxy S9 (used this app on S6 and LG G4 and loved it) overall excellent app i have used for some years now over multiple devices.
+-----end of report 587 
+SO I REAAALLY START TO HATE THIS APP: NOT BEING ABLE TO USE or REMOVE BUT BEING FORCED TO KEEP... AND UPGRADE... AND USE MY STORAGE!
+-----end of report 72 
+============ end of one review of ONSF, group_count: 34, total_review_count: 337
+But suddenly, after switching to Android, I've noticed that when I use the search key, it searches all my notes.
+-----end of report 110 
+It used to be that if I tapped that icon, it would search within that note, finding the key text right then and there, highlighting it.
+-----end of report 111 
+Or, to have your notes available off line, you have to select each note book, one at a time, make a few clicks to set it to keep it off line, and then you have to wait while that syncs because if you try the next, the dialog keeps popping away before you can use it, until the pervious one is synced.
+-----end of report 129 
+Used to be able to set reminder from inside note when creating note.
+-----end of report 224 
+Use to be if u typed something in ur note & used the back button, it would save whatever u wrote AUTOMATICALLY & BEFORE going back to the main menu.
+-----end of report 229 
+My older phone (Note Fe) using older version don't have this problem.
+-----end of report 308 
+Unfortunately, I need to keep using one note in  order for me to be able to utilize my notes the way I need.
+-----end of report 393 
+Also when using shared notes, if you are revoked access or the shared note is deleted, it still shows up with no way to delete or remove from view (can't do it on web either).
+-----end of report 569 
+creating notes using firefox on galaxy S4: can't select article OR image OR even the most basic function: copy/save whole page!
+-----end of report 586 
+Creating a note is also laggish, I need to first click on + button and it takes like 0.5 seconds to pop up the menu which consists of many items out of which I have ever used one - "text note".
+-----end of report 78 
+============ end of one review of ONSF, group_count: 35, total_review_count: 347
+4) post settings button is hidden when keyboard is open 5) can't edit site url 6) can't batch upload local charges
+-----end of report 134 
+I add an image from my Media Library, then edit its properties...Check the box for "Featured Image" and then leave the box for "Show in post" unchecked, but it always just shows the image in the post and refuses to set it as the Featured image, no matter how many times I go back and try to edit it/redo it.
+-----end of report 80 
+============ end of one review of ONSF, group_count: 36, total_review_count: 349
+And event this would be OK, if Evernote would listen and act on these annoyances, but instead they go on a develop new features for their new business ideas, and leave the chance for a great product lagging.
+-----end of report 130 
+New user interface sucks I am paying Evernote user and I must tell you: new user experience sucks.
+-----end of report 335 
+It hadn't occurred to me to log out of the account on my old phone before doing a factory reset, so when I tried to synch the new one, Evernote saw it as a fourth device.
+-----end of report 81 
+============ end of one review of ONSF, group_count: 37, total_review_count: 352
+It shows up as installed in my app settings, but evernote's icon is no where to be found nor is there a widget like before.
+-----end of report 172 
+I tried send a file from (Google keep) to evernote, every file if content : yahoo or Google and login or password these kind of words, will be changed to yahoo online news or advertising in my evernote , it's really make me worry about this app it's safe to save my files ??!!
+-----end of report 218 
+I installed the Metro version of the app on my Windows 10 PC, not knowing their was a legacy version of Evernote.
+-----end of report 246 
+Great App, wish tablet UI had better usability Love the Evernote application for its function (sharing across multiple platforms/users), but I wish the direction taken on the tablet UI was more like the PC, web and mobile app.
+-----end of report 82 
+============ end of one review of ONSF, group_count: 38, total_review_count: 356
+I wish it could just do a small box over the existing screen, where you could select your options like tags and notebook, without changing the active app.
+-----end of report 244 
+PLEASE ADD 'SHARE' OPTION IN SITE PAGES SO THAT WE COULD SHARE LINKS OF OUR INDIVIDUAL SITE PAGES FROM THE APP FOR THOSE OF US MANAGING MULTIPLE PAGES IN ONE WEBSITE.
+-----end of report 411 
+needs an option to sync every week, more like offline app.
+-----end of report 441 
+The app also seems to only give you one route  choice, no option to change to quickest or shortest in the settings, or  avoid motorways etc.
+-----end of report 470 
+- - - I received an automated response to this review which said, "You can switch back to the app's old editor: Go to App Settings in the app and toggle off the 'Show Visual Editor' option.
+-----end of report 87 
+============ end of one review of ONSF, group_count: 39, total_review_count: 361
+Updating posts on tablets and phones has been great with the WordPress app and I feel it's just been made more difficult with this update.
+-----end of report 163 
+The app updated older versions of post drafts so that the recent progress was deleted.
+-----end of report 472 
+This app doesn't allow you to link to your own earlier posts, crashes often, can sometimes delet your whole draft even unsave a previously update and saved page, and has issues previewing images.
+-----end of report 88 
+============ end of one review of ONSF, group_count: 40, total_review_count: 364
+After multiple updated over the years, Evernote definitely is a lot more polished and feature rich than it used to be.
+-----end of report 340 
+I have been using Evernote for 6 years, this issue is only since the last update.
+-----end of report 93 
+============ end of one review of ONSF, group_count: 41, total_review_count: 366
+Bugs, Bugs, Bugs in the Latest Update This app worked great and loved the material design update a couple weeks ago.
+-----end of report 102 
+Update February 2020: app still isn't working correctly even after reinstalling again.
+-----end of report 200 
+============ end of one review of ONSF, group_count: 42, total_review_count: 368
+Hope they roll out a fix soon because I use Evernote a lot for work.
+-----end of report 104 
+I used Evernote years ago and loved it,now I feel like I need a master's degree to navigate and make it work.
+-----end of report 287 
+Story goes like this: Almost all the working days I used to add important information in Evernote.
+-----end of report 425 
+============ end of one review of ONSF, group_count: 43, total_review_count: 371
+Some key features are buggy on this app such as adding new notebooks.
+-----end of report 105 
+If I hatch a new pet or try to make a new change to my avatar it can sometimes take several minutes for the app to recognize and show the change, meanwhile I'm trying to figure out what I did wrong.
+-----end of report 181 
+This app is way to complicated and every task I try presents a new set of tasks that can't be completed in order to complete the first task!
+-----end of report 286 
+With each new version, you kept on removing functions and crippling the app.
+-----end of report 309 
+New Device Limit Feedback If you're going to lock us out of a 3rd device, which may be our Mobile App, at least give us access to Manage Devices in the mobile app!
+-----end of report 397 
+HOWEVER, despite all the effort I have put into the  app with adding new places, it never seems to be able to back up my saved  pins for places I like.
+-----end of report 598 
+============ end of one review of ONSF, group_count: 44, total_review_count: 377
+Poor implementation of a good idea I thought that the idea of being able to create notes and sync them between desktop and mobile phone was a great idea, as I find that working on my desktop PC for most things is much easier than doing the same on my phone.
+-----end of report 107 
+For example, this Android version does not support the same (basic) formating of the desktop version, meaning I can not work solely on my tablet if I want to structure my note text in a way that makes it more meaningful and easier to read.
+-----end of report 128 
+It would help to separate work/personal etc notes and would simplify searching by tags when one has many.
+-----end of report 168 
+Syncs notes so I can share them between home, work and my phone.
+-----end of report 175 
+There's no warning message if you close a note without saving it, so it's really easy to lose your work.
+-----end of report 260 
+Lost several large, detailed notes over the past year or more, help and support steps do not work (searching the trash, sending an activity log, can't email without subscription, etc.).
+-----end of report 265 
+There's no simple way to center the canvas on screen, the arrows continually get in the way, and the zooming/scrolling never seems to work on the first try, preferring to detect only one finger and leave a giant streak in the note.
+-----end of report 289 
+(Open note that have picture file > select image > tap share button > choose Whatsapp > select contact > send > tap the file send > sender & receiver can't see the image files) On 8.1 version all works fine.
+-----end of report 366 
+When you take notes at work or school, do you just throw them all into one folder called "notes?"
+-----end of report 600 
+============ end of one review of ONSF, group_count: 45, total_review_count: 386
+I like the idea of being able to insert images into my notes, which Evernote allows, but the Browser version does not allow insertion of new images between existing ones.
+-----end of report 108 
+Slowly but surely Evernote has been removing features from the free version (presentation mode, offline notebooks, etc), so it should really come as no surprise that they've sunk to the new low of making the free version essentially a "trial version"; only allowing two devices when their mantra all along has been "Sync your notes across all of your devices".
+-----end of report 361 
+============ end of one review of ONSF, group_count: 46, total_review_count: 388
+Not able to find business tags on android nor on web version Since I switched to business evernote im not able to find notes by searching tags using android or the web version.
+-----end of report 112 
+If I use evernote across all of my devices (the only reason I use it) it constantly happens that an older version of a note on one device will sync as the most recent version, even though that device hasn't been synced in days.
+-----end of report 152 
+Useful, but slow Evernote allows you to enter notes from a computer, smartphone or tablet, and even by email, and access it from any device with an Internet connection.
+-----end of report 207 
+I used Evernote for all my notes, but pretty much disabled the other functions.
+-----end of report 245 
+Taking notes on whatever device and sync them with all my other devices, is why I started using evernote.
+-----end of report 300 
+I appreciate the technical complexity in the Evernote - for 100,000 notes I use there were 7 un sync able - and most of them were out of strange fonts when using the samsung pad written module , which i can understand.
+-----end of report 345 
+Decent but Android is lagging I use evernote all the time on many devices (OSX, iphone, ipad, Note 10.1) and it's a great service but their Android implementation definitely feels like it lags behind the other platforms.
+-----end of report 547 
+Some current bugs: 1: If you have more than 5 notes and use it on Yosemite retina forget about using Evernote, takes over 5 seconds to even copy and paste something in.
+-----end of report 601 
+============ end of one review of ONSF, group_count: 47, total_review_count: 396
+The view mode shows the updated info, but when I edit it, it's outdated.
+-----end of report 121 
+Last 2 updates made the formating menu useless while editing on a galaxy tab s2.
+-----end of report 405 
+============ end of one review of ONSF, group_count: 48, total_review_count: 398
+Also when I edit it it tells me "this note contains some unsupported formatting" and says "This version of evernote does not support inline editing of webclips..." Funny thing is that it's not a webclip.
+-----end of report 122 
+The problems are mostly small but constant, like how evernote will randomly remove some spaces when I try to edit the note in android.
+-----end of report 510 
+============ end of one review of ONSF, group_count: 49, total_review_count: 400
+HTC Aria  UPDATE: Okay, still not sure why it wasn't updating some notes, but the "webclip" problem seemed to be caused by inserting "horizontal rules" into the note.
+-----end of report 123 
+Update:  Found solution and more I wanted to download and sync Outlook notes to my Fascinate.
+-----end of report 280 
+Update: It turns out that EN has more issues that I thought - for example, desynchronised formatting between Web and desktop versions or a chance for a note's content to disappear.
+-----end of report 320 
+Recently, even after update, my notes get locked and kept having a message, "This note is a text-only.
+-----end of report 363 
+Lastly, notes don't update immediately from one device to another.
+-----end of report 573 
+============ end of one review of ONSF, group_count: 50, total_review_count: 405
+I used to give this app 5 stars but recent years' updates have rendered it almost useless for me.
+-----end of report 126 
+Updated review: I have used this app for half a year, against my better judgement.
+-----end of report 142 
+This app is getting very tiresome to use - weekly updates, repeatedly having to download all previous map files after every app update, frequent nag screens.
+-----end of report 171 
+The recent update (v 10.4.4 build 458403 public; Editor: v112.1.14477; Service: v1.23.6) completely ruined what used to be a great app.
+-----end of report 377 
+I have been using this app for several years in classes, starting on the first generation Asus Transformer, and there really hasn't been any changes or updates made since then.
+-----end of report 543 
+App used to be a solid 5/5, but they pushed out an update that removed functionality that I relied on heavily (widgets daily).
+-----end of report 551 
+The update buried the feature I use most in the app This app was great until the last update.
+-----end of report 559 
+I use the app for when I don't want or have time to sit down at my pc to do updates.
+-----end of report 560 
+============ end of one review of ONSF, group_count: 51, total_review_count: 413
+Next, if I open the app again, it doesn't show any indication of the ongoing process which doesn't give me any kind of update (of whether the new blog got completely/half way uploaded/or cancelled).
+-----end of report 148 
+The update to the new format has made this app practically unusable.
+-----end of report 157 
+I loved the app until now...with this new update someone messed up on the scan a new document settings.
+-----end of report 497 
+============ end of one review of ONSF, group_count: 52, total_review_count: 416
+If I have it on my computer and I didn't close it out and my computer is in sleep mode for a weekend and I've been using it on my phone throughout the weekend and I return to the computer and wake it up, that version of the notes syncs up and screws me out of the entire weekend's worth of data and updates.
+-----end of report 153 
+What kind of idiot programming allows it to think a note that hasn't been updated in two days on one device should override a note that has been constant use on another device.
+-----end of report 154 
+============ end of one review of ONSF, group_count: 53, total_review_count: 418
+But now from last two updates Evernote has disappointed me again and again because whenever I share and save a note, it's(note's) view is totally compromised.
+-----end of report 155 
+However, after yesterday's update, the only way to share notes today (11/04/2016) is by sending them as regular text emails, not Evernote link.
+-----end of report 185 
+============ end of one review of ONSF, group_count: 54, total_review_count: 420
+It always open with all notes in a flat view  - No password protection per folder,  only for the whole app - Pictures are not attached in line so that you can comment on them and in context with the rest of the note - No font customization - No manual notebook sorting  - No default view/sort option per folder,  only for the whole app - No ability to include notes with tables.
+-----end of report 165 
+I have since removed from my phone and looking for another note app option.
+-----end of report 201 
+============ end of one review of ONSF, group_count: 55, total_review_count: 422
+I can still never find a way to use the settings and change my default notebook when sharing from browsers or create a new note.
+-----end of report 166 
+Needs web clipping function This is handy for reading notes created on the desktop version or creating new text notes, pictures, etc., but if you are using any browser besides Dolphin the web clipping function clips the HTML address for a page and not the actual page.
+-----end of report 413 
+============ end of one review of ONSF, group_count: 56, total_review_count: 424
+But when i select "set location", the app automatically search and pin my CURRENT location and worst, it uses the TITLE of the note as the name of my CURRENT location.
+-----end of report 180 
+it deleted all my notes and told me that it no longer uses notepad and used this app instead.
+-----end of report 251 
+Ok so when I use Google Keep I have my top 3 notes pinned, so don't have to look through app to find them, I open the Keep app and they are literally right there every single time, I mainly use this feature for my daily to do lists so I don't have to look for it every single time.
+-----end of report 342 
+============ end of one review of ONSF, group_count: 57, total_review_count: 427
+Shared notes do not generate Evernote or email notification to recipient, even though recipient receives emails from others and spam folder is empty.
+-----end of report 184 
+The PC version seems more reliable on this regard, but nevertheless Evernote is not very reliable and cannot handle version control especially when the note is shared.
+-----end of report 254 
+Please do the needful since the note is locked I am unable to do anything against it Emailing is also not helpful as they directly mentioned they do not respond to the email and have provided some sort of training links for Evernote.
+-----end of report 384 
+Bring back the old Evernote please or bring back those missing features: widget + quick note access from notifications menu.
+-----end of report 385 
+Since I primarily access notes offline this is a huge step-down for me since I can't yet see that Evernote is worth the extra expense and NONE of the other premium features are needed by me.
+-----end of report 485 
+I don't need to "sync my notes across all my devices" nor to back them up, an Evernote account should be OPTIONNAL, thanks.
+-----end of report 514 
+============ end of one review of ONSF, group_count: 58, total_review_count: 433
+Seems like it would be great, but it's a bit clunky & makes my phone freeze I was really excited about this app, I wish it worked better on my phone (Moto X 2nd Gen/ And.
+-----end of report 187 
+MapWithMe Pro has a nice mapping interface it works great on my 7.0, but *The app doesn't do navigation or street address search but merely shows you as a dot on a map which is the same as the free version.
+-----end of report 316 
+This app needs work.
+-----end of report 350 
+Please change the mobile app back to the old version until you're sure everything works.
+-----end of report 368 
+BTW the app works great other than that one small problem - oh and the lack of support.
+-----end of report 423 
+The mobile bowser version works fine, while the app is causing more problems than is solves.
+-----end of report 473 
+If I'm gonna live inside a notebook app, it needs to work like I do.
+-----end of report 503 
+============ end of one review of ONSF, group_count: 59, total_review_count: 440
+Most features that aren't supported I have to refuse to use because I can't make my notes look how I want, or if I edit on Android a note made with formatting on Windows it will royally !screw!
+-----end of report 194 
+Becomes extremely slow as file grows I keep adding to a couple of notes I use to list various activities I do, and as soon as a file is longer than a couple of pages it becomes frustratingly slow to edit.
+-----end of report 233 
+============ end of one review of ONSF, group_count: 60, total_review_count: 442
+EDIT: I haven't transferred everything to OneNote so I still use Evernote to view some notes but (1) and (2) haven't been resolved, and I'm not sure about (3) because I no longer edit notes or create new notes using the app.
+-----end of report 205 
+EDIT 2 phone corrupts old notes when editing & I Can't sync or delete them EDIT: on new desktop app, caps lock disables control commands (ctrl+b bold etc) I have used & loved free & paid evernote versions.
+-----end of report 414 
+============ end of one review of ONSF, group_count: 61, total_review_count: 444
+(1) If I'm not using the default font, icons just show up as random letters, I wouldn't know what I was tapping if I wasn't using it before, (2) My notes look chaotic, font sizes vary throughout the note even when everything's in default and (3) I've never had problems with my keyboard using different apps but typing in Evernote was so frustrating.
+-----end of report 206 
+Useful App This is a useful app especially because I am able to upload my notes from my Write  Scribe pen directly into Evernote.
+-----end of report 228 
+============ end of one review of ONSF, group_count: 62, total_review_count: 446
+Error when uploading imagen to post.WordPress Android version: 4.5.2 Android device name: LGE Nexus 5  01 - Configuring Simperium 02 - Already registered for GCM 03 - resetting suggestion tables 04 - reader post list &gt; restoring instance state 05 - reader post list &gt; creating post adapter 06 - reader post list &gt; purging database 07 - reader post list &gt; updating current user 08 - reader post list &gt; updating tags and blogs 09 - trackLastActivity, activityId: My Site 10 -
+-----end of report 225 
+Strange defects and incapacities I was able to post immediately with simple text updates immediately.
+-----end of report 408 
+Loading is slow and with the last update you cannot view individual posts.
+-----end of report 535 
+if i retry maps.me I'll post an update.
+-----end of report 581 
+============ end of one review of ONSF, group_count: 63, total_review_count: 450
+Such a shame but just not worth risking using as I have lost important information without any option to retrieve it.
+-----end of report 267 
+Other formatting options are hard to use and different between web and mobile.
+-----end of report 577 
+============ end of one review of ONSF, group_count: 64, total_review_count: 452
+In Edit Note I need these Options , Kindly solve my issue 😠 When I save a txt note and then I try to edit it , the font change its color to white and get disappeared , then no matter what to do but the Note get clear.
+-----end of report 282 
+I need these option in editing a note the most important option is❕Simply Formatting.
+-----end of report 284 
+Now it's an extra click to the check boxes, while extra screen space is taken up with unnecessary options for formatting and auto indentations etc are making editing my notes messy.
+-----end of report 554 
+============ end of one review of ONSF, group_count: 65, total_review_count: 455
+In the avatar creation, I had to keep pressing the options I wanted over and over for it to actually work, then when I finished the avatar had options I didn't pick.
+-----end of report 321 
+Only real option was to uninstall, which worked.
+-----end of report 557 
+============ end of one review of ONSF, group_count: 66, total_review_count: 457
+Used to be great One of the recent updates broke the check box function.
+-----end of report 359 
+I will not be updating my phone to v6 as this is the device I use most.
+-----end of report 389 
+As it continued to update it became less and less useful to me as it became less and less simple to use.
+-----end of report 486 
+Latest update data hog Latest software update used my network data to automatically download updated maps.
+-----end of report 525 
+STOP USING YOUR END USERS AS ALPHA TESTERS, DO YOUR HOMEWORK BEFORE LAUNCHING AN "UPDATE" YOU CLOWNS!
+-----end of report 595 
+============ end of one review of ONSF, group_count: 67, total_review_count: 462
+This time (June 5 update) a synching error message keeps on appearing, upon which the app suggests to "see the original note".
+-----end of report 372 
+Inability to load notes when there is no internet connection if they had been updated (and there is no setting to turn on local storage) makes the app completely unreliable.
+-----end of report 378 
+============ end of one review of ONSF, group_count: 68, total_review_count: 464
+I also like the fact that you can download the app to any device and log in and change or edit your note in real time!
+-----end of report 407 
+The app does not allow to do basic things like deleting folders, bulk action on notes, it syncs slowly, the basic function of tap-to-edit so common in ALL the other note taking apps is missing.
+-----end of report 555 
+============ end of one review of ONSF, group_count: 69, total_review_count: 466
+I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----end of report 433 
+I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----end of report 468 
+============ end of one review of ONSF, group_count: 70, total_review_count: 468
+No Android Love I like evernote wanted to love it,but compared to windows and mac version it doesn't compare, give android users some love, let us change the view setting, give us the same tool options, and it would be nice if there was a spell check and color coding options on the tags or notebooks, why are you guys so afraid of  color!
+-----end of report 438 
+Mainly this is due to crazy formatting when clipping a webpage from chrome (menu -> share -> add to Evernote), or even just copy and paste, as 'paste plain text' pastes with exactly the same formatting as the standard paste option.
+-----end of report 493 
+============ end of one review of ONSF, group_count: 71, total_review_count: 470
+Toolbar Change -1 What happened to the "save" option on the tool bar after the latest update?!?!
+-----end of report 467 
+Can't find an option to only update maps via wifi.
+-----end of report 526 
+============ end of one review of ONSF, group_count: 72, total_review_count: 472
+Default should always be to update via wifi with option to use network data.
+-----end of report 527 
+After selecting the admin option, I could click each site and within minutes have all the sites updated, significantly quicker than using a pc to do it.
+-----end of report 562 
+============ end of one review of ONSF, group_count: 73, total_review_count: 474

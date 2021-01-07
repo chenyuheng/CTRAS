@@ -1,0 +1,4 @@
+Does_VBZ n't_RB open_VB google_NN search_NN -_: Note_NN 3_CD Kitkat_NNP Searching_NNP via_IN Google_NNP (_( least_JJS mobile_JJ Chrome_NNP )_) bring_VBP result_NN open_JJ directly_RB app_RB ,_, awesome_JJ ._.
+Except_IN brings_NNS blank_JJ page_NN error_NN ,_, article_NN ._.
+Sent_NNP support_NN ticket_NN ,_, never_RB heard_VBN back_RP ._.
+When_WRB fix_NN ,_, I_PRP 'll_MD change_VB five_CD star_NN ._.

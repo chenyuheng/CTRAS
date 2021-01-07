@@ -1,0 +1,4 @@
+Hmmm_NN ..._:
+I_PRP 'm_VBP sticking_VBG mobile_JJ website_NN ._.
+When_WRB press_NN Android_NNP ``_`` back_RB ''_'' button_NN app_NN ,_, reloads_VBZ previous_JJ page_NN scratch_NN (_( placing_VBG top_JJ page_NN )_) ,_, rather_RB remembering_VBG place_NN (_( open_JJ sub-topics_NNS )_) previous_JJ page_NN ._.
+This_DT makes_VBZ annoying_VBG follow_JJ links_NNS try_VBP go_VB back_RB reading_VBG earlier_RBR ._.

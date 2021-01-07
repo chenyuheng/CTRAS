@@ -1,0 +1,6 @@
+Background_NNP battery_NN draining_VBG Constantly_NNP using_VBG gps_JJ thereby_RB draining_VBG battery_NN ,_, new_JJ nexus_NN 5x_CD ,_, denying_VBG location_NN permission_NN maps.me_NN app_NN removes_VBZ gps_JJ icon_NN status_NN bar_NN ,_, granting_VBG location_NN permission_NN instantly_RB puts_VBZ location_NN icon_NN back_RB battery_NN goes_VBZ fast_RB ._.
+Cleaning_VBG cache_NN recovery_NN mode_VBP n't_RB help_VB ._.
+Only_RB uninstall_JJ denying_VBG gps_NN helps_VBZ ._.
+Maps.me_NNP gradually_RB getting_VBG worse_JJR worse_JJR become_JJ free_JJ reached_VBD point_NN total_JJ unusability_NN ._.
+That_DT 's_VBZ sad_JJ ._.
+Got_NNP ta_JJ move_NN alternative_NN OSM_NNP

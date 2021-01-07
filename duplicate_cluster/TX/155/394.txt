@@ -1,0 +1,6 @@
+I_PRP using_VBG app_JJ several_JJ years_NNS ._.
+It_PRP good_JJ become_NN less_RBR reliable_JJ time_NN passed_VBN ._.
+I_PRP beginning_VBG think_VBP phone_NN developing_VBG problem_NN I_PRP know_VBP new_JJ one_CD still_RB fundamental_JJ issues_NNS ._.
+It_PRP ca_MD n't_RB find_VB home_NN street_NN several_JJ major_JJ roads_NNS London_NNP (_( eg_JJ Holloway_NNP Road_NNP ,_, Oxford_NNP Street_NNP )_) regularly_RB fails_VBZ get_VB route_JJ due_JJ application_NN errors_NNS ,_, dumping_VBG coast_NN Africa_NNP ._.
+Tried_VBN deleting_VBG reloading_VBG better_RBR ._.
+Time_NNP try_NN apps_NN

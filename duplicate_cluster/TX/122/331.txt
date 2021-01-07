@@ -1,0 +1,9 @@
+We_PRP grateful_VBP living_VBG times_NNS ._.
+Two_CD decades�_NN ?_. ago_RB ,_, go_VBP library_JJ encyclopaedia_NN buy_VB one_CD ._.
+Today_NN ,_, encyclopaedia_RB synonymous_JJ user-updated_JJ real-time_JJ information_NN -Wikipedia_NNP ._.
+Bookmarks_NNS offline_VBP feature_NN helpful_NN ._.
+The_DT format_NN ,_, dark_JJ mode_NN ,_, panning_VBG main_JJ image_NN great_JJ ._.
+However_RB ,_, dark_JJ mode_NN ,_, quote_JJ block_NN poorly_RB visible_JJ fonts_NNS grey_VBP background_IN white_JJ ._.
+Please_NNP review_NN ._.
+Example_NN :_: Robinson_NNP Crusoe_NNP page_NN ._.
+Also_RB please_VB improve_VB Windows_NNP 10_CD app_NN tabs_NN sync_NN across_IN devices_NNS ._.

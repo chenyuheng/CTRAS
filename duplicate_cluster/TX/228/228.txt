@@ -1,0 +1,4 @@
+The_DT app_NN pretty_RB handcuffed_VBD compared_VBN web_NN editor_NN ._.
+The_DT app_NN lacks_VBZ easy_JJ linking_VBG already_RB published_VBN posts_NNS ,_, way_NN copy_VBP previous_JJ post_NN ,_, mouse_VB support_NN Android_NNP terrible_JJ -_: formatting_NN buttons_NNS dialog_NN boxes_VBP n't_RB respond_VB mouse_NN clicks_NNS ._.
+Basic_JJ interaction_NN admin_JJ side_NN ,_, comment_NN moderation_NN stats_NNS fine_VBP ,_, actually_RB creating_VBG publishing_VBG content_NN ,_, app_RB much_JJ second_JJ class_NN citizen_NN compared_VBN web_JJ editor_NN ._.
+Full_NNP integration_NN web_NN editor_NN capabilities_NNS would_MD make_VB much_JJ better_JJR experience_NN ._.

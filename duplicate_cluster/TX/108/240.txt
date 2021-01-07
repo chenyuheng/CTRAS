@@ -1,0 +1,3 @@
+Garbage_NN !_. !_.
+Can_MD input_VB house_NN numbers_NNS This_DT trash_NN gps_NN app_NN allow_IN search_NN house/building_VBG numbers_NNS street_NN names_NNS ._.
+If_IN try_VBN search_NN number_NN street_NN name_NN WILL_NNP NOT_NNP get_VB results_NNS ._.

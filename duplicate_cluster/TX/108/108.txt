@@ -1,0 +1,13 @@
+Yet_RB convinced_VBN ..._:
+This_DT seems_VBZ interesting_JJ app_NN ,_, doubt_NN ,_, BUT_NNP work_NN ._.
+Why_WRB ?_.
+1_CD ._.
+Font_NNP size_NN hopelessly_RB small_JJ even_RB 5.2-inch_JJ smartphone_NN screen_NN ._.
+Maybe_RB ten-inch_JJ tablet_NN ..._: 2_CD ._.
+No_DT options_NNS routes_NNS (_( fastest_JJS ,_, shortest_JJS ,_, easiest_JJS .._NN )_) ._.
+It_PRP seems_VBZ automatically_RB opt_JJ shortest_JJS routes_NNS ,_, always_RB convenient_NN ._.
+3_CD ._.
+Searches_NNP POIs_NNP return_VBP vague_JJ names_NNS (_( like_IN ``_`` Gas_NNP station_NN ''_'' without_IN brand_NN ,_, ``_`` Parking_VBG ''_'' without_IN immediate_JJ street_NN indication_NN ._.
+4_CD ._.
+No_DT voice_NN guidance_NN Romanian_NNP ._.
+Uninstalled_VBN

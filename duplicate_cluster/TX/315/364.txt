@@ -1,0 +1,3 @@
+Need_NN detailed_VBD !_.
+Seems_NNP great_JJ 1st_CD ,_, really_RB need_VB search_NN exact_JJ location_NN especially_RB foreign_JJ land_NN (_( In_IN case_NN Melbourne_NNP )_) ,_, I_PRP find_VBP address_JJ street_NN name_NN unavailable_JJ ._.
+This_DT like_JJ draft_NN beta_NN version_NN Google_NNP map_NN ._.

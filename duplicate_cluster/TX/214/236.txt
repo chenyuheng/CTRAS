@@ -1,0 +1,5 @@
+Good_JJ missing_VBG Custom_NNP Post_NNP Type_NNP support_NN ._.
+I_PRP add_VBP CPTs_NNP sites_VBZ able_JJ update_JJ blog_NN entries_NNS limiting_VBG ._.
+Image_NN handling_VBG bit_NN buggy_JJ ._.
+Really_RB good_JJ fixing_NN typos_NN creating_VBG quick_JJ posts_NNS ._.
+The_DT earlier_JJR versions_NNS app_VBP way_NN functional_JJ ._.

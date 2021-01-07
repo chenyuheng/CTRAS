@@ -1,0 +1,4 @@
+I_PRP 'm_VBP fan_JJ Maps.me_NNP ,_, I_PRP use_VBP latest_JJS version_NN ._.
+The_DT screen_NN freezes_VBZ ,_, sartup_JJ app_NN crashes_NNS (_( Redmi_NNP 3_CD &_CC Samsung_NNP tab_NN )_) ._.
+Clear_JJ cache_NN ,_, data_NNS ,_, old_JJ maps_NNS ,_, uninstall_VBP n't_RB fix_VB ._.
+Have_VBP gone_VBN back_RB 7.3.7_CD ._.

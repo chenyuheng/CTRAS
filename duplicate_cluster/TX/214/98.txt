@@ -1,0 +1,4 @@
+Does_VBZ n't_RB post_VB new_JJ blog_NN I_PRP clear_VBP 'uploading_VBG ..._: '_POS notification_NN The_DT new_JJ blog_NN posting_VBG process_NN somehow_RB interrupted_VBD n't_RB finish_JJ completely_RB I_PRP clear_VBP 'uploading_VBG ..._: '_POS notification_NN ._.
+As_IN user_NN I_PRP would_MD assume_VB process_NN continue_NN background_NN ._.
+Next_JJ ,_, I_PRP open_VBP app_RB ,_, n't_RB show_VB indication_JJ ongoing_VBG process_NN n't_RB give_VB kind_NN update_NN (_( whether_IN new_JJ blog_NN got_VBD completely/half_JJ way_NN uploaded/or_JJ cancelled_VBN )_) ._.
+To_TO check_VB ,_, I_PRP manually_RB click_VBP 'refresh_NNP '_POS icon_JJ top-right_JJ corner_NN ,_, gives_VBZ warning_VBG message_NN really_RB n't_RB help_VB user_VB his/her_JJR action_NN ._.

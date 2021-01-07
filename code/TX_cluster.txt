@@ -1,0 +1,533 @@
+['1', '235']
+['2']
+['3']
+['4']
+['5']
+['6']
+['7']
+['8']
+['9']
+['10']
+['11']
+['12', '137', '172', '60']
+['13']
+['14']
+['15']
+['16']
+['17']
+['18']
+['19']
+['188', '20', '26']
+['21']
+['22']
+['23']
+['24']
+['25']
+['27']
+['28']
+['29']
+['30']
+['31']
+['32']
+['33']
+['34']
+['35']
+['101', '134', '150', '197', '203', '212', '247', '316', '333', '36', '40', '45', '52', '79']
+['37']
+['38']
+['39']
+['41']
+['42']
+['43']
+['44']
+['46']
+['362', '47']
+['48']
+['49']
+['50']
+['51']
+['53']
+['54']
+['55']
+['56', '84']
+['57']
+['58']
+['59']
+['61']
+['62']
+['63']
+['64', '72']
+['65']
+['66']
+['67']
+['68']
+['69']
+['70']
+['71']
+['73']
+['74']
+['75']
+['76']
+['77']
+['78']
+['80']
+['81']
+['242', '382', '82']
+['83']
+['85']
+['271', '286', '86']
+['87']
+['88']
+['89']
+['90']
+['91']
+['92']
+['93']
+['94']
+['205', '95']
+['96']
+['206', '207', '97']
+['214', '236', '98']
+['99']
+['100']
+['102']
+['103']
+['104']
+['105']
+['106']
+['107']
+['108', '165', '191', '240', '278', '318']
+['109', '209']
+['110']
+['111', '133', '358', '384']
+['112']
+['113']
+['114']
+['115']
+['116']
+['117']
+['118']
+['119']
+['120']
+['121']
+['122', '331']
+['123', '304']
+['124']
+['125']
+['126']
+['127', '130']
+['128']
+['129', '249']
+['131', '283']
+['132']
+['135']
+['136']
+['138']
+['139']
+['140']
+['141']
+['142']
+['143']
+['144']
+['145']
+['146']
+['147']
+['148', '208', '221']
+['149']
+['151']
+['152']
+['153']
+['154']
+['155', '394']
+['156']
+['157']
+['158']
+['159']
+['160']
+['161']
+['162']
+['163']
+['164']
+['166']
+['167']
+['168']
+['169']
+['170']
+['171']
+['173']
+['174']
+['175']
+['176']
+['177']
+['178']
+['179']
+['180']
+['181']
+['182']
+['183']
+['184']
+['185']
+['186']
+['187']
+['189']
+['190']
+['192']
+['193']
+['194']
+['195']
+['196']
+['198']
+['199']
+['200']
+['201']
+['202']
+['204']
+['210']
+['211']
+['213']
+['215']
+['216']
+['217']
+['218']
+['219']
+['220']
+['222']
+['223']
+['224']
+['225']
+['226']
+['227']
+['228', '361']
+['229']
+['230']
+['231']
+['232']
+['233']
+['234']
+['237']
+['238']
+['239']
+['241']
+['243']
+['244']
+['245']
+['246']
+['248']
+['250']
+['251']
+['252']
+['253']
+['254']
+['255']
+['256']
+['257']
+['258']
+['259']
+['260']
+['261']
+['262']
+['263']
+['264']
+['265']
+['266']
+['267', '375']
+['268']
+['269']
+['270']
+['272']
+['273']
+['274']
+['275']
+['276']
+['277']
+['279']
+['280']
+['281']
+['282']
+['284']
+['285']
+['287']
+['288']
+['289']
+['290']
+['291']
+['292']
+['293']
+['294']
+['295']
+['296']
+['297']
+['298']
+['299', '343']
+['300']
+['301']
+['302']
+['303']
+['305']
+['306']
+['307']
+['308']
+['309']
+['310']
+['311']
+['312']
+['313']
+['314']
+['315', '364']
+['317']
+['319']
+['320']
+['321']
+['322']
+['323']
+['324']
+['325']
+['326']
+['327']
+['328']
+['329']
+['330']
+['332']
+['334']
+['335']
+['336']
+['337']
+['338']
+['339']
+['340']
+['341', '392']
+['342']
+['344']
+['345']
+['346']
+['347']
+['348']
+['349']
+['350']
+['351']
+['352']
+['353']
+['354']
+['356']
+['357']
+['359']
+['360']
+['363']
+['365']
+['366']
+['367']
+['368']
+['369']
+['370']
+['371']
+['372']
+['373']
+['374']
+['376']
+['377']
+['378']
+['379']
+['380']
+['381']
+['383']
+['385']
+['386']
+['387']
+['388']
+['389']
+['390']
+['391']
+['393']
+['395']
+['396']
+['397']
+['398']
+['399']
+['400']
+This app is so bright it hurts. You're trying to read, write and relax, but the blank color scheme reminds me more of the sun hitting my face at 6am than of me relaxing while browsing.  This app doesn't have some sort of front page like imgur has for example, instead all we get is the "discover" feature which only promotes bland, vague and uninteresting posts with no personality. Just look at it right now! Where are the people sharing relatable stories, or video game strategies, or book or tv show reviews or something? All the posts featured there are just... unattractive, to say the least. And it's the only source of new content there is, otherwise you have to look it up manually.  There are no set categories or tags, instead you make them up and unless people type them up exactly like you did they won't see your post, which is counterintuitive and discourages finding new posts or bloggers.  People can disapprove or even edit your comments. That is twisted, discourages freedom of speech and opinion sharing and even allows people to literally put words in your mouth by changing your original comment to whatever they want.  You can't dislike posts or comments, so the voting system is pointless. You might think otherwise because Twitter and Vine have no downvotes,  but they promote discovery of new content in various ways, while WordPress does not.  The search bar doesn't work. I've tried finding my own posts with the exact same title they have and they don't appear.  All of these factors make it feel deserted and lacking of a community, and discourage new users of getting into writing or reading on WordPress. Also there used to be a eay to add a black outline to images; a necessity when the background is white.
+-----end of report 1 MASTER
+This is my second time returning, and after a 2 year hiatus, I'm pleased to say that everything I hated about this app is still there and nothing new has really changed. It's so buggy and I can't get any help on any of the bugs I experience. Like the fact that I don't do any damage when my cron rolls over. Yea�?I get no response from the developers.  The only reason I use this app is for the sake of quests? Because everything else is so boring. But even the quests are dull. And if you're in a big party, they don't even scale it properly? There's nothing like having a quest start and then having it finish a couple hours later before you even have a chance to do anything. Not to mention it totally lacks the ability remind you of anything. All it does is nag you everyday at a set time. That's all it's capable of. Set a to do with a due date? Great but you won't get a reminder about it. Not to mention the fact that it still doesn't allow any form of offline capabilities. And they just make up excuses for why they can't have it. Which I don't buy because I've used other apps like this where I can go offline and use it. Its slow as hell.  And for forcing me to be connected to the internet it doesn't even notify me of new posts from my guilds and party.
+-----end of report 235 
+============ end of one review of TX, group_count: 1, total_review_count: 2
+Offline reading is a huge draw for me but I don't know if it's the android app or what but the gui is completely obtuse. Impossible to get to main menu and read my saved articles, I have scoured everywhere. All I can do is save pages to my lists but not read them. One time when I updated my install it worked but no button returns me to main menu. Pressing back exits the app. Please I've searched what in Christ's name is this?
+-----end of report 12 
+Lost loads of features with an update a few months ago. Now the sidebar is gone, so I don't know how to view my browsing history, and while I can save pages for offline reading, I no longer have access to a list of such saved pages as I once did, while all those I had saved prior to the update seem to be gone. Terrible, awful update! Lastly, every time I get off the app and use a different one, then return to Wikipedia, I am back at the main page. So annoying.
+-----end of report 137 MASTER
+Almost perfect... but worse than before Indeed, the offline service used to be more reliable on previous version. Several pages are not saved even though it has been asked to be. Itnis mandatory to create a "reading list" which make longer both  saving process and browsing, and if previously the "bookmark" button located at the top of the article also allowed to UNsave the article (once read for instance) it is not a pain in the ... to delete a page.   Please consider giving back this button its complete and efficient ability. It would be perfect
+-----end of report 172 
+recent update ruined the reading list and the app can no longer save pages.. when offline all pages disappear yet I saved them even my old saved pages all disappeared. That is my best feature on this app because I normally used it offline since I don't access wireless all day so please restore the original version, it was better.
+-----end of report 60 
+============ end of one review of TX, group_count: 2, total_review_count: 6
+Navigation is available only from your current location, you cant set another starting point for a route there is - NO route options for a route - like in google maps.  I found one app which has this and offline maps and for moment is free which i recommend after I have spent a afternoon with install and test of famous and good rated apps like Telnav, ex Skobler, Sygic, GPS Navigation from Bzing s.r.o. ex. Be-on road which miss basic function like the one mentioned before
+-----end of report 188 
+Decent app. Tried out a few offline nav apps that use osm for data and this had the best looking map display for me. Clean and clear display during navigation a plus. Suggested nav routes were generally good, but did not care for the inability to ignore toll roads as well as to get more than one suggested route. The biggest shortcoming for me was that with just about all osm apps, the POI/address search are useless unless those items are entered in the osm database. A suggestion would be to have a online search function (like MapFactor's google search) to be able to find those items and be able to translate the info into an offline nav point. Another suggestion would be to improve the display functions during navigation, ie: speedometer/speeding warnings, lane assist, and fixed speed cameras. Needs improvements but a solid app overall.
+-----end of report 20 MASTER
+I wanted to like this app. I'm looking for an alternative to google maps. The routing is actually ok, although the estimated timings don't take traffic conditions into account. The offline operation is good, but there isn't really an 'online' mode. If I currently have a good connection I want to be able to search a new area without having to download the section first. But what has killed it for me is that the search is useless. There us no UK postcode search, which is what I primarily use. Searching by street name sometimes works, but often comes up empty. Conversely when there are multiple matches adding extra location details (borough, etc) doesn't narrow the search effectively. As far as i can tell it treats each term entered separately and at some point if you haven't chosen one of the matches for your first term and keep typing it switches to searching on the second term, ignoring the first. I only managed to experience the navigation by finding places on Google maps, and then matching the street pattern and zooming to find them manually in this. I gather it works better in some countries than others, so I'll probably try it again sometime, but for now I'm giving up.
+-----end of report 26 
+============ end of one review of TX, group_count: 3, total_review_count: 9
+Maps are stored on internal memory by default. Even when app itself is moved to SD. There is no option in settings to change the location of maps to SD card.     App has to be open all the time during maps download. If you move to other app download stops and has to be started from the very beginning.  Maps are not downloaded in background. Leaving screen with download progress shown resets download from say 50 % to 0%, meaning you cannot use your phone during maps downloading process untill it completely finished.
+-----end of report 101 
+Update April 2017: Should have updated this review much earlier!  All my criticisms appear to have been sorted. Now my 2nd choice of navigation app (1st choice is factory installed car unit). Very much improved - use it frequently.   Ignore the following!  Laggy, search either not working or finding multiple useless results. Map downloads taking much longer than previously. I'm very disappointed that a once excellent mapping and routing app is now apparently ruined.
+-----end of report 134 
+Can't change Offline Map Location (Phone Memory to Sd Card)  How can I move maps to SD? (for Android devices)     If you want to store downloaded maps on SD, you should move them directly from the app �?open app’s settings > Map > Maps storage > select SD card. If you don’t see Maps storage tab in app’s settings, turn off the device, take out SD card and put it back again, turn on the device. If you moved the app itself to SD, move it back to the device storage.
+-----end of report 150 
+Needs better support on yotaphone UPDATED 2 STARS REVIEW: After using this app for a few weeks on my old phone , I bought a new yotaphone 1 solely because of the native support of this app for the e ink display. I was hoping to use the e ink display as an energy saving GPS navigator. However I was soon saddened to find out that routing is not supported on the back display, and the maps that do display on the back do not automatically update to the current location.
+-----end of report 197 
+Background battery draining Constantly using gps thereby draining battery, on a new nexus 5x, denying location permission to the maps.me app removes the gps icon from the status bar, granting location permission instantly puts the location icon back and battery goes down very fast. Cleaning cache from recovery mode doesn't help. Only uninstall or denying gps helps. Maps.me was gradually getting worse and worse after they become free and now they reached the point of total unusability. That's sad. Gotta move on to an  alternative OSM
+-----end of report 203 
+Downloaded as it is supposed to support offline walking directions but it is rubbish. slow to load and the search can't find a metro station as a starting point to walk from, not that was a big deal as it couldn't find the destination so I guess a starting point is irrelevant. deleted I'll go back ti Google maps and use them offline even thoughbit doesn't give walking directions but at least Maps can find the start and end
+-----end of report 212 
+Excruciatingly annoying Impossible to search without app insisting on downloading more maps. Deleting. Even after downloading a bunch of maps the app doesn't allow route planning. Just the boring freeways. Might as well use Waze or Google Maps. The search goes on.
+-----end of report 247 
+Was my go-to maps application until (as of this week) out started crashing as soon as the app was started. Whipping local data or even full reinstall from Google play gets me the welcome screens and a crash after those. Unusable.
+-----end of report 316 
+pros  u can use it offline  cons worst navigation app  night mode some streets dont have name or they arent on the map at all some times search engine dont show closer results
+-----end of report 333 
+this app is an absolute rubbish. the new update is real catastrophe. the settings go back to default each time and the app loses the address for map storage files which results in asking to download the map data again. i had bookmarked the location of my hotel but then when i was in Spain it failed show me even the downloaded maps. just rubbish.
+-----end of report 36 MASTER
+Disappointing The big plus is the offline use of maps and the maps that look good. On the downside: we disagree on the fastest route. On first use it misses a connection to a highway and suggesting a longer route. Then the app even tries to send me back three times unnecessary, making the journey even longer. Vocal directions are ambiguous compared to my regular Garmin nav and compared to Google. Maybe it's just the dutch language. At times the GPS update seems out of sync with the actual location. Good as a backup nav.
+-----end of report 40 
+Love it with a few hicups Good app but has a few issues... 1: When updating the app I loose all my downloaded maps, why not have the app download them for me or perform an update on them. 2: After an update I loose my customised locations. 3: I want to be able to find my destination using coordinates not just names of places... 4. It seems to give prescidence to highways even if they a longer route, this isnt a good algorithm... Otherwise its a good app... I love it and use it daily.
+-----end of report 45 
+Downloaded this app to use on a trip. It clearly said I had the offline map downloaded yet when I entered in the exact address or a category.. It said zero results found even though I knew the address was within my downloaded map. Poor experience. I reconnected with at a McDonald's and only then did the address show up. If this app requires you to have data then google maps is better.
+-----end of report 52 
+This latest version changed my default map location from SD card to main memory, then told me I didn't have enough memory to update my maps, although this version only updates changes. I then had to download my maps again after changing the location, as it STILL doesn't recognise that I already have downloaded maps!  Just to add that I have used maps from my sdcard correctly for a few years now!  This rating only applies to the latest version which screwed up my configuration. This forced me to re download maps that are already on my sdcard, as even after changing the location back to the sdcard, the app still didn't check for the existent of valid maps in the selected location.
+-----end of report 79 
+============ end of one review of TX, group_count: 4, total_review_count: 23
+Yes and no I used this app during vacation in LA. I was happy with it cause there's a lot of details on the map. However... 1. The search by address in offline mode didn't work for me, don't know why... 2. It would be great if there are alternative routes to choose from. For example, avoid highway and toll way. 3. Would be great if there is an alarm when you're driving exceeding the speed limit.
+-----end of report 362 MASTER
+It's ok. It can be frustrating to use. The directional arrow sometimes keeps turning round and round and then points to the wrong direction. Nov. 2019: I just did the maps.me update--the search function doesn't work the same way it used to before the update. I used to be able to put the number of the house or building, then the street, city, state, and the app would locate the address. That doesn't work anymore.
+-----end of report 47 
+============ end of one review of TX, group_count: 5, total_review_count: 25
+As other reviewers have mentioned, you can't search by address. For example, if your want directions to 12335 Fake St, the app will refuse. It will only let you plot a route to Fake St. If Fake St is more than a few blocks long, that's a huge problem. Also, you can't even search for an address until you download that region's maps. If you want to drive from NYC to LA, you have to download every map along the way before you go. Problem is, most maps are named after smaller towns, not big cities.
+-----end of report 56 MASTER
+"Best App of 2014"? I'd sure hate to see the worst! I'm guessing the reviewers who rated it #1 tested it exclusively in one state because this GPS app can't even cross map boundaries. If you want to go from Burbank to Las Vegas, you'll have to set up the California portion, then a separate Nevada portion. Unbelievable. Selecting a destination is an awkward process that involves manipulating the map. Sheesh! The best Android GPS I've found so far is "MapFactor GPS Navigation", which provides a variety of ways (such as Google Search) to quickly select any number of waypoints and destinations, plus traveling between states is not a problem.
+-----end of report 84 
+============ end of one review of TX, group_count: 6, total_review_count: 27
+It's good but..... It's good but some more improvements required such as edit post quickly...... I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----end of report 64 MASTER
+It's good but..... It's good but some more improvements required such as edit post quickly...... I am using wp but when I trying to edit previous post,option shows but not edit another problem is setting, view site,user options not working  and site stats shows too late please upgrade it's suddenly.
+-----end of report 72 
+============ end of one review of TX, group_count: 7, total_review_count: 29
+Still better to use a web browser Pros: Useful to quickly view a single article but that's it.   Cons: Text does not re-flow to fit screen when zoomed, No text selection. Tables do not resize to fit screen and columns off screen are lost. No way to open links separately for later reading i.e. in new tab or window. This means current article and reading position are lost when a link is selected.  Please add tabbed browsing so links can be opened in separate tabs, and reflow text. Until then it's easier to use Wikipedia in a web browser...
+-----end of report 242 
+No advantages over the browser I think Chrome is better for reading Wikipedia. Page organization is almost identical. And Google search for an article title provides suggestions for similar titles. This app says "there is no such article". So why use the app?
+-----end of report 382 MASTER
+The only reason to download this app is to upload my comment. I am fine with reading Wikipedia on browser. You are forcing us to use your app and one day i will change my preference to study or search. I dont want to download any app in my  cellphone. Stop redirecting us to your app page and stop forcing us to use your app. You will face the same future that MAKE MY TRIP app faced....
+-----end of report 82 
+============ end of one review of TX, group_count: 8, total_review_count: 32
+What happened The app was good but these recent changes have turned into something it's not. Why do I have and endless scrolling page? This isn't Facebook. And why trending articles? I didn't open up Wikipedia to read random things people have read. I do it to read the random things I want to read. Also the ongoing events section was an easy way to keep an eye on large geopolitical events. Now the page is mired in junk. That all said, it's still Wikipedia and serves the function it is intended for.
+-----end of report 271 MASTER
+Desperately needs an overhauling This used to be a four star app but has become into something that instantly reminds you of the good ol Gingerbread days. Please switch to Androids modern menu layout that's being used by so many decent apps. Why is there still menu key in the bottom bar? Move it to the side and make it swipeable. Also horizontal scrolling is a mess. As in nonexisting. 90 percent of all articles could easily be scraped since there's no way to read them properly. The website is so much better.
+-----end of report 286 
+God, I love Wikipedia, but... This app is way below its potential awesomeness. When I hit the back button, one of two things happens: either I am kicked all the way back to the main page, or back to the previous article, but not where I left off. If I ever want to follow a link in an article, then navigate back to that article, I have to search for it again. How can a site as well developed as Wikipedia not have an app with a working 'back' function? And Wikipedia's only response is "Hey, we're open source, YOU edit it, users!"
+-----end of report 86 
+============ end of one review of TX, group_count: 9, total_review_count: 35
+Can't access my own site! Previous version (on my Android phone) wouldn't let me access my Notifications, so I just updated the app, hoping this would help. Now it won't even let me in to my own site unless I click on View External - but then I no longer have access to any options like Stats, edit, etc. Not user friendly, and very frustrating. Please fix these problems! UPDATE: After a "response" and multiple uninstalls, reinstalls & updates, same problem is still there. Can't access my own blog using this app! Useless.
+-----end of report 205 MASTER
+The experience of using the app is amazing. I can access my admin version of the site and start publishing or scheduling, or even adding a draft to set up with getting back with my computer. I can even monitor my stats to see what I can make for improvements or data collection. I can make or delete pages anytime I would feel. See notifications etc. What I don't like is the bugs and errors when I want to edit something. Its frustrating and I think it may factor in in messing up my set up.
+-----end of report 95 
+============ end of one review of TX, group_count: 10, total_review_count: 37
+I like having a central place for Wikipedia, preferably something I can sync and read articles offline as well as change the theme. This app accomplished that but for some reason fails in the search and link handling departments. Links from the web seem to load in the app but then fail. Additionally the search function is loppy and it is not evident where to press. It often disappears too. Please fix these annoyances.
+-----end of report 206 
+There are some good things about this app, like the fact that you can save Wikipedia pages to lists, but I am unable to access them unless I open a page, close all tabs manually, then I can open my history, lists, as well as what should be the launch page, which is a selection of suggested Wikipedia pages, including "because you read".
+-----end of report 207 
+There is an issue with external links & lists & categories. This app is pretty good for the most part. I love offline reading, I love how easy this is to use. But, I often use categories from Wikipedia, but this app had removed all pages from Category:[Whatever] lists. It makes the app harder to use. As well, I often check out external links, to check primary sources, or just read original articles. But those links are either broken or disabled, and I can't change this feature in settings.
+-----end of report 97 MASTER
+============ end of one review of TX, group_count: 11, total_review_count: 40
+Bad update I had rated it 5 but now with new update. Screen is blank and only next routing direction can be seen on top. Was a good app :(
+-----end of report 214 
+Good but missing Custom Post Type support. I add CPTs into most of my sites and only being able to update blog entries is very limiting. Image handling is a bit buggy. Really good when fixing typos or creating quick posts. The earlier versions of this app were way more functional.
+-----end of report 236 
+Doesn't post a new blog if I clear the 'uploading...' notification The new blog posting process is somehow interrupted and doesn't finish completely if I clear the 'uploading...' notification.  As a user I would assume that such a process should continue in the background.  Next, if I open the app again, it doesn't show any indication of the ongoing process which doesn't give me any kind of update (of whether the new blog got completely/half way uploaded/or cancelled).  To check this, if I manually click the 'refresh' icon on top-right corner, it gives a warning message which is really doesn't help the user what his/her action should be.
+-----end of report 98 MASTER
+============ end of one review of TX, group_count: 12, total_review_count: 43
+Yet to be convinced... This seems to be an interesting app, no doubt, BUT it does not work for me. Why? 1. Font size hopelessly small even for a 5.2-inch smartphone screen. Maybe on a ten-inch tablet... 2. No options for routes (fastest, shortest, easiest..). It seems to automatically opt for shortest routes, which are not always the most convenient. 3. Searches of POIs return vague names (like "Gas station" without the brand, or "Parking" without immediate street indication. 4. No voice guidance for Romanian. Uninstalled for now
+-----end of report 108 
+It's fine. It seems unfinished sometimes. The lack of street names in the voice navigation makes it hard to use for navigation unless you have someone with you to be the navigator and tell you what the app is showing. The lack of street names also makes it unusable for navigation on my motorcycle where I depend solely on the voice prompts. To clarify, the streets were named in the app, and they even flashed across the top of the screen, they just weren't spoken in the voice prompts.
+-----end of report 165 
+The OSM based app anyone can use search for smaller towns and villagesl (names that also appear as street names) isn't possible as the street come first. Can't change map layers eg cycle view. Can't change colours eg in UK motorways should be blue. Long distance drive directions prefer A to (faster) M roads.
+-----end of report 191 
+Garbage!! Cannot input house numbers This trash gps app does not allow you to search by house/building numbers only by  street names. If you try to search the number with the street name you WILL NOT get results.
+-----end of report 240 
+After installing the app it showed my location and the street name was completely wrong. I wanted to see what routes it would offer me to my father's village, but a search by the name of the village did not yield any results. Uninstalled.
+-----end of report 278 
+Great app but have some flaws In my case, I'm using Taiwan map with Chinese interface which display was perfect, but can not search specifically to NO.(number) level. It's annoying that I can only search and navigate by street names.
+-----end of report 318 MASTER
+============ end of one review of TX, group_count: 13, total_review_count: 49
+Could have been better Purchase the Pro version because sometimes internet/Google Maps is not always accessible. The maps looks good at first glance, especially it has street number in the map. The most unbearable problem so far is the poor searching function: tried to find a certain address but the map can not actively find the exact location and re-center the map to the target location. Moreover, it seems that the app does not recognize the address at all and do nothing. If you can not even search an address then this maps in a sense is crippled. My cell phone is LG G3, Android 4.4.2, had already loaded with the maps used for address searching.
+-----end of report 109 MASTER
+Only good if you know the place you are going to. Offline maps work only in the way that it gives a map for around your location while offline. If you need to find a particular street number forget it, best it can do is tell you the cnr of x and y. For roads that are 20-30km long it is worthless for navigating to a particular street address. I have to whip out google maps to get that last 1km or so. The addresses work best when you put them in backwards, even when you select the search on map option in search. It's just a mess. I really wanted to like this app. I wanted to love it.
+-----end of report 209 
+============ end of one review of TX, group_count: 14, total_review_count: 51
+Pictures don't display when clicked on and... The inability to keep multiple tabs open drives me nuts. I'm a college student and this app is terrible if you're using Wiki to research. God help you if you go to another article from one page- when you hit the back button, you start at the top of the first article ALL OVER AGAIN! Not saving my place in the article, especially if it's a long one or you don't remember exactly where you stopped reading is a nightmare! I love Wiki, but I  don't love this app.
+-----end of report 111 
+They had it. then they released an update that ruined it. then they fixed again. now they ruined it again. whenever I try to go back a page to a previous article I was reading, it instead kicks me to the front page, and I have to go through my history to get back to the article I wanted. this is clunky and annoying. I will improve my rating if and when this is fixed
+-----end of report 133 
+Doesn't open from google search - Note 3 Kitkat Searching via Google (at least through mobile Chrome) will bring up a result which you can open directly into the app, which is awesome. Except it only brings up a blank page and error, not the article. Sent in support ticket, never heard back. When they fix, I'll change to five star.
+-----end of report 358 
+Hmmm... I'm sticking with the mobile website.  When you press the Android "back" button in this app, it reloads the previous page from scratch (placing you at the top of the page), rather than remembering your place (and open sub-topics) on the previous page.  This makes it very annoying to follow links and then try to go back to what you were reading earlier.
+-----end of report 384 MASTER
+============ end of one review of TX, group_count: 15, total_review_count: 55
+Improvement made it much worse. The "random page" link is my favorite part of Wikipedia - it's gone, along with most of the menu capabilities of the browser-based version. The news feed card on the main page hasn't updated in over two weeks. No way to clear the cache in-app. No way to restore main page cards accidentally deleted. No user help file in the app.
+-----end of report 122 MASTER
+We should be grateful to be living in these times. Two decades�?ago, we had to go to a library for an encyclopaedia or buy one. Today, encyclopaedia is synonymous with user-updated real-time information -Wikipedia. Bookmarks offline feature is very helpful. The format, the dark mode, the panning of the main image are great. However, in dark mode, the quote block is poorly visible because the fonts are in grey and background is in white. Please review it. Example: Robinson Crusoe page. Also please improve your Windows 10 app so that tabs can sync across devices.
+-----end of report 331 
+============ end of one review of TX, group_count: 16, total_review_count: 57
+Useful, but needs work Hats off to the dev team ... this app is easy to use and does its job. A major problem, though, with the Ireland maps (at least), was that route lines overlaid the street and highway names. So, we could use this app only as an advisory to a physical map, where we could see actual street and highway names. Google Maps solves this problem by putting the route lines over the streets but under the street names. Overall, close but no cigar ... hoping for improvement in the future!
+-----end of report 123 MASTER
+I installed the map again on Feb 2020 in Toronto. All the street names are blacked out. Map in unusable. I deleted it. May try again when problem is resolved. Map is accurate but too simple interface. Lacks basic functionality. Can not have alternate route, choose b/w toll and free route, save route.
+-----end of report 304 
+============ end of one review of TX, group_count: 17, total_review_count: 59
+The update buried the feature I use most in the app This app was great until the last update. The part of the app that I used the most was the admin page access. It was always the first thing I looked at whenever I opened up the app.     I maintain several WP sites for myself, both business and personal. I use the app for when I don't want or have time to sit down at my pc to do updates.      Where I thought the app shined was maintaining my WP sites. The app allowed me to be able to easily cycle through all my sites quickly to see if they needed plugin or WP updates. After selecting the admin option, I could click each site and within minutes have all the sites updated, significantly quicker than using a pc to do it.    With the latest update to the app, the developers buried the admin page access 3 clicks deep, so what would take me 1 click + a click per site to check update status, now requires me to click into the settings, then 2 clicks per site to check for update status.    I considered this app a 5 star app before this bizarre change. I'm hoping it was an oversite or test on the developers part and that they'll fix this in the next update.  Otherwise, at least in my opinion, they've partially crippled the app.
+-----end of report 127 MASTER
+It would be nice to see the pictures when editing a post. Each time when I  edit a post I can only see the link of the pictures which is not useful  when you want to comment them... All the rest of the app is very well made  apart this. I'm still waiting for this upgrade before using it ;-) Update :  finally they made it :-) I have installed this app many times and each time  I'd expect to sea the pictures when editing. Last time I hope might be more  than a year ago and now it's working :-) cool! Thanks WordPress :-) Next  expectation: searching a post. I've got a 1000 of them and would like to  check again all the content I've written from the beginning but it seems  that I have to slide down the page for ever to be able to reach my first  post... Am I mistaken?
+-----end of report 130 
+============ end of one review of TX, group_count: 18, total_review_count: 61
+The best way I can describe this app is claustrophobic. You have these massive top and bottom bars that are constantly moving in and out while browsing an article. I don't always need to have all of these options available to me, just put them back in the side bar or make an unabtrusive floating action button.
+-----end of report 129 MASTER
+How can you make an App thats worse than the website? How? And why? You  click on a link then you have to click gain to confirm you want to read the  article! Why? The layout is poor in comparison to the website too.  Uninstalled this irritating app and using the website.
+-----end of report 249 
+============ end of one review of TX, group_count: 19, total_review_count: 63
+The app was incredible at one point, but now it has some SERIOUS navigational issues that have rendered it basically broken. The back button no longer works properly, as it immediately takes you back to the featured article rather than the previous page. Getting to the actual home screen of the app is much more difficult than getting to the featured article. Articles will open over previous tabs, rather than opening a new tab. Portals are also essentially broken within the app. Please fix these!
+-----end of report 131 MASTER
+Unusable I can't leave the home page. Search shows me article titles, but tapping does nothing. Links into the app open on the home screen. If I can't read articles, it's useless.
+-----end of report 283 
+============ end of one review of TX, group_count: 20, total_review_count: 65
+Main page and reading list I am not being able to open the reading list or app settings. All that appears at the start is featured article or no connection when there is no internet. Please fix these bugs which has got in the recent updates.
+-----end of report 148 
+The mobile website is more functional than the app but some of the app's features are pretty cool. I think it should go to the main page on open and have stuff like random article's on a separate page. Also, some of the page CSS was not rendered but instead displayed as text.
+-----end of report 208 
+Needs improving Being able to save a page for offline reading is great BUT why does it all of a sudden tell me I have no Internet connection when I am in the middle of reading an article? It does this often when I am on the train, so it forces me to do extra step of saving page, just in case my connection might go off while I am reading article. Also when I am on an article page, press home and then open app again a couple of minutes later, I expect to be on article page, not back on home page.
+-----end of report 221 MASTER
+============ end of one review of TX, group_count: 21, total_review_count: 68
+Wow, what has happened to this app. It used to be so good and extremely user-friendly.  Even after downloading a number of maps it still can't find it's arse with it's own hand. Not impressed with the new version. I have increased my opinion by one star because the Maps Me guys responded to my problems and really made an effort to sort out my issues. I feel there are still issues to be fixed so will see if this can again be a 5 star app. One issue is if you select a landmark without a direct road access then try to get a routing it doesn't work.  You have to select a road outside the landmark, what?? Secondly when doing search for somewhere like Xi'an China if you forget the apostrophe Xian City  itself does not appear, just 300 hotels etc in Xian that spell it without the apostrophe. Minor bug but still a pain if you don't know the exact spelling. Will still use it, but before I never considered using anything else,  now will keep my eye out for something better. Doubt it but you never know.
+-----end of report 155 MASTER
+I have been using this app for several years. It was very good but has become less reliable as time has passed. I was beginning to think it was my phone developing a problem but I know have a new one and there are still fundamental issues. It can't find my home street or several major roads in London ( eg Holloway Road, Oxford Street) and regularly fails to get a route due to application errors, dumping me off the coast of Africa. Tried deleting and reloading but no better. Time to try other apps
+-----end of report 394 
+============ end of one review of TX, group_count: 22, total_review_count: 70
+The app is pretty handcuffed when compared with the web editor. The app lacks easy linking to already published posts, a way to copy a previous post, and the mouse support on Android is terrible - formatting buttons and most dialog boxes don't respond to mouse clicks at all. Basic interaction with the admin side, such as comment moderation and stats are fine, but for actually creating and publishing content, the app is very much a second class citizen compared to the web editor. Full integration of the web editor capabilities would make for a much better experience.
+-----end of report 228 MASTER
+Always crashes on the 1st try. I'm gonna uninstall this for awhile and come back to it later. The app isn't very functional, and looks no better than the web page. Couple that with constant crashes, and I would say its not worth it on 4.4 devices.
+-----end of report 361 
+============ end of one review of TX, group_count: 23, total_review_count: 72
+Used to be the best map. Great features, easy to use, but it has ONE MAJOR BUG that has been there for 2 years - they sometimes solve it, most of the time they mess it up.  It is a very simple thing : the option to save maps to SD CARD.  Sometimes an update would relocate your maps to the phone, sometimes it would delete all maps, sometimes you had to uninstall and reinstall, sometimes ....  This time they have surpassed it : it moved all my SD CARD maps to memory, filling it right up!! And today there is no option to locate maps to SD CARD any more.  2 years and they still can't get this simple but ABSOLUTELY CRITICAL feature to hold.  So, finally, I'm done and, guess what, in doing so, after trying 8 apps I have found an even better one :  HERE MAPS.
+-----end of report 267 MASTER
+I've been using this app for car and pedestrian navigation for years, but this latest version is simply useless for car navigation. I just got back from a weekend car trip in the Netherlands, using the app for each segment to navigate. About 20 (!) times in 2 days the map display would simply freeze. Sometimes for a minute, or 2, or 5, sometimes it just hung and you had to kill the app and restart it. The voice announcements still worked (as did the speed indicator), but since this app's turn-by-turn instructions are often ambiguous and sometimes just plain wrong, you can't rely on them, so having a frozen map is really the worst thing for navigation. We lost quite a bit of time around Arnhem, Oosterbeek, Nijmegen, etc. having to stop at the side of the road to restart the navigation. And that wasn't just on my phone, we also used the app in parallel on my wife's phone and it hung at *exactly* the same places. So the current version would really get only one star for car navigation.
+-----end of report 375 
+============ end of one review of TX, group_count: 24, total_review_count: 74
+This latest version no longer lets me share an article from a web browser into a new post. It always gives me a blank post where, before, it set the post title to the article title and placed a link to the article in the body of the post. This app is pretty useless to me until it's fixed.
+-----end of report 299 MASTER
+This app has been made a lot worse by the latest update. Scrolling through lists is utterly broken. It is a lot slower and inefficient. I regret ever having downloaded the latest version. It was better before. When going to save an article into saving  list it's crashes
+-----end of report 343 
+============ end of one review of TX, group_count: 25, total_review_count: 76
+Hardly Find a Spesific addres This is a great app.  I already purchase and download Indonesia Map Pack  however.. its very hard to search spesific road or addres.  in indonesia, so many road name are excatly similiar, and the app cant find the best result for the road name or addres if you can improve serach location like google map does, it reallllly helpful
+-----end of report 315 MASTER
+Need to be more detailed! Seems great at 1st,  but when you really need to search for exact location especially in foreign land(In my case Melbourne),  I find most address and street name unavailable. This is like a very draft beta version of Google map.
+-----end of report 364 
+============ end of one review of TX, group_count: 26, total_review_count: 78
+Undo the last update plz! Great app, used it for several years now but cannot read trails on maps w the latest update: the colors are horrible. The last update allows going back to the old color scheme - but why not keep it as default???
+-----end of report 341 MASTER
+I'm a fan of Maps.me, but I cannot use the latest version. The screen freezes, on sartup then the app crashes (same on Redmi 3 & Samsung tab). Clear cache, data, old maps , or uninstall doesn't fix. Have gone back to 7.3.7.
+-----end of report 392 
+============ end of one review of TX, group_count: 27, total_review_count: 80

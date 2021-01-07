@@ -1,0 +1,5 @@
+Useful_JJ ,_, needs_JJ work_NN Hats_NNP dev_VBP team_NN ..._: app_RB easy_JJ use_NN job_NN ._.
+A_DT major_JJ problem_NN ,_, though_RB ,_, Ireland_NNP maps_NNP (_( least_JJS )_) ,_, route_JJ lines_NNS overlaid_VBN street_NN highway_NN names_NNS ._.
+So_RB ,_, could_MD use_VB app_JJ advisory_JJ physical_JJ map_NN ,_, could_MD see_VB actual_JJ street_NN highway_NN names_NNS ._.
+Google_NNP Maps_NNP solves_VBZ problem_NN putting_VBG route_NN lines_NNS streets_NNS street_VBP names_NNS ._.
+Overall_RB ,_, close_JJ cigar_NN ..._: hoping_VBG improvement_NN future_NN !_.
